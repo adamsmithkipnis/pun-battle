@@ -1,0 +1,62 @@
+# Board & Card Games
+Chess
+Checkmate
+Pawns
+Rooks
+Bishops
+Stalemate
+Checkers
+Chinese Checkers
+Backgammon
+Dominoes
+Mahjong
+Go
+Mancala
+Ludo
+Snakes and Ladders
+Tic-Tac-Toe
+Connect the Dots
+Bridge the Card Game
+Solitaire
+Go Fish
+Old Maid
+Crazy Eights
+Gin Rummy
+Spades
+Spoons
+Slapjack
+Cribbage
+Euchre
+Canasta
+Pinochle
+Poker Faces
+Card Sharks
+Shuffling Cards
+Dealing Cards
+Jokers
+Aces
+Wild Cards
+House of Cards
+Charades
+Bingo
+Tiddlywinks
+Dice
+Snake Eyes
+Game Night
+Sore Losers
+Missing Pieces
+Rule Books
+Spinners
+Game Tokens
+Play Money
+Bluffing
+Dungeon Masters
+Twenty Questions
+I Spy
+Trivia Night
+Riddles
+Brain Teasers
+Crossword Puzzles
+Jigsaw Puzzles
+Word Searches
+Board Game Cafes
