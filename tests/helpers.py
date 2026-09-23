@@ -16,7 +16,7 @@ os.environ["POST_MODE"] = "dry"
 
 # Failure-path tests log tracebacks on purpose; keep them out of the output.
 logging.getLogger().addHandler(logging.NullHandler())
-os.environ.setdefault("DRY_DIR", tempfile.mkdtemp(prefix="puntime-dry-"))
+os.environ.setdefault("DRY_DIR", tempfile.mkdtemp(prefix="punvspun-dry-"))
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 

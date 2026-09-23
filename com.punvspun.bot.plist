@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.puntime.bot</string>
+    <string>com.punvspun.bot</string>
 
     <!-- EDIT: absolute paths. Use the repo's own .venv, not the system
          python, so dependencies are pinned and predictable. -->
     <key>ProgramArguments</key>
     <array>
-        <string>/ABSOLUTE/PATH/TO/pun-time/.venv/bin/python</string>
-        <string>/ABSOLUTE/PATH/TO/pun-time/main.py</string>
+        <string>/ABSOLUTE/PATH/TO/pun-vs-pun/.venv/bin/python</string>
+        <string>/ABSOLUTE/PATH/TO/pun-vs-pun/main.py</string>
     </array>
 
     <!-- EDIT: project root (where .env lives) -->
     <key>WorkingDirectory</key>
-    <string>/ABSOLUTE/PATH/TO/pun-time</string>
+    <string>/ABSOLUTE/PATH/TO/pun-vs-pun</string>
 
     <key>RunAtLoad</key>
     <true/>
@@ -27,8 +27,8 @@
          here, which is why the code only adds a stdout log handler when
          stdout is a TTY — otherwise every line lands twice. -->
     <key>StandardOutPath</key>
-    <string>/ABSOLUTE/PATH/TO/pun-time/puntime.log</string>
+    <string>/ABSOLUTE/PATH/TO/pun-vs-pun/punvspun.log</string>
     <key>StandardErrorPath</key>
-    <string>/ABSOLUTE/PATH/TO/pun-time/puntime.log</string>
+    <string>/ABSOLUTE/PATH/TO/pun-vs-pun/punvspun.log</string>
 </dict>
 </plist>

@@ -66,7 +66,7 @@ THEME_REPEAT_DAYS = check_repeat_days(
 # Local hour whose post also carries the all-time top three, once a day.
 LEADERBOARD_HOUR = int(os.environ.get("LEADERBOARD_HOUR", "12"))
 
-DB_PATH = os.environ.get("DB_PATH", "puntime.db")
+DB_PATH = os.environ.get("DB_PATH", "punvspun.db")
 LOG_PATH = os.environ.get("LOG_PATH", "")
 THEMES_DIR = os.environ.get(
     "THEMES_DIR", os.path.join(os.path.dirname(os.path.abspath(__file__)), "themes"))
@@ -80,7 +80,7 @@ DRY_DIR = os.environ.get("DRY_DIR", "dry-run")
 # Hashtags. One is always present so the game is findable under its own name;
 # the rest are sampled per post, and all are appended only while they still
 # fit, so reach never pushes the theme or the result out of a post.
-HASHTAG_ALWAYS = os.environ.get("HASHTAG_ALWAYS", "#PunTime")
+HASHTAG_ALWAYS = os.environ.get("HASHTAG_ALWAYS", "#PunVsPun")
 HASHTAG_COUNT = int(os.environ.get("HASHTAG_COUNT", "2"))
 HASHTAG_POOL = os.environ.get(
     "HASHTAG_POOL",
@@ -89,6 +89,6 @@ HASHTAG_POOL = os.environ.get(
 ).split()
 
 # The one tag on replies to individual winners.
-REPLY_HASHTAG = os.environ.get("REPLY_HASHTAG", "#PunTime")
+REPLY_HASHTAG = os.environ.get("REPLY_HASHTAG", "#PunVsPun")
 
-SERVICE = "com.puntime.bot"
+SERVICE = "com.punvspun.bot"

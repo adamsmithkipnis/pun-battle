@@ -1,6 +1,6 @@
-# Pun Time
+# Pun Vs Pun
 
-An hourly pun contest on Bluesky: [@puntime.bsky.social](https://bsky.app/profile/puntime.bsky.social).
+An hourly pun contest on Bluesky: [@punvspun.bsky.social](https://bsky.app/profile/punvspun.bsky.social).
 
 - **Every hour, on the hour**, the bot posts a theme — "LIGHTHOUSES",
   "GARLIC PRESSES", "A SANDWICH'S IDENTITY CRISIS".
@@ -27,11 +27,11 @@ It runs on the Mac Mini under launchd, managed by OpenClaw, exactly like the
 Battleship and Minesweeper bots. Setup, once:
 
 ```bash
-git clone https://github.com/adamsmithkipnis/pun-time.git ~/pun-time
-cd ~/pun-time
+git clone https://github.com/adamsmithkipnis/pun-vs-pun.git ~/pun-vs-pun
+cd ~/pun-vs-pun
 ./setup.sh          # builds the venv, writes .env from the example, stops
 # put the account's app password into .env, then:
-./setup.sh          # tests, installs com.puntime.bot and com.puntime.deploy
+./setup.sh          # tests, installs com.punvspun.bot and com.punvspun.deploy
 .venv/bin/python tools/profile.py   # avatar, name, bio, pinned rules post
 ```
 
