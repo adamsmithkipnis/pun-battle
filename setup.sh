@@ -36,7 +36,7 @@ step() { printf '\n▸ %s\n' "$*"; }
 die() { printf '\nERROR: %s\n' "$*" >&2; exit 1; }
 run() { if [ "$DRY_RUN" -eq 1 ]; then say "would run: $*"; else "$@"; fi; }
 
-SERVICES=(com.punvspun.bot com.punvspun.deploy)
+SERVICES=(com.punbattle.bot com.punbattle.deploy)
 
 status_report() {
   step "Status"
@@ -56,7 +56,7 @@ status_report() {
   say "venv:   $([ -x "$VENV/bin/python" ] && "$VENV/bin/python" -V 2>&1 || echo 'not created')"
   say ".env:   $([ -f "$REPO_DIR/.env" ] && echo present || echo MISSING)"
   say "git:    $(command -v git || echo 'NOT ON PATH')"
-  for service in com.punvspun.bot com.punvspun.deploy; do
+  for service in com.punbattle.bot com.punbattle.deploy; do
     local line pid
     line="$(launchctl list | awk -v s="$service" '$3 == s {print $1}')"
     if [ -z "$line" ]; then
@@ -84,7 +84,7 @@ fi
 # ---------------------------------------------------------------------------
 
 step "Checking the checkout"
-[ -f "$REPO_DIR/main.py" ] || die "run this from the pun-vs-pun checkout"
+[ -f "$REPO_DIR/main.py" ] || die "run this from the pun-battle checkout"
 say "$REPO_DIR"
 
 step "Commit guard"
@@ -107,8 +107,8 @@ if [ ! -f "$REPO_DIR/.env" ]; then
     cp "$REPO_DIR/.env.example" "$REPO_DIR/.env"
     # Point the data files at this checkout rather than the example paths.
     /usr/bin/sed -i '' \
-      -e "s|^DB_PATH=.*|DB_PATH=$REPO_DIR/punvspun.db|" \
-      -e "s|^LOG_PATH=.*|LOG_PATH=$REPO_DIR/punvspun.log|" \
+      -e "s|^DB_PATH=.*|DB_PATH=$REPO_DIR/punbattle.db|" \
+      -e "s|^LOG_PATH=.*|LOG_PATH=$REPO_DIR/punbattle.log|" \
       "$REPO_DIR/.env"
     chmod 600 "$REPO_DIR/.env"
   fi
@@ -222,7 +222,7 @@ for service in "${SERVICES[@]}"; do
   fi
 
   tmp="$(mktemp)"
-  /usr/bin/sed "s|/ABSOLUTE/PATH/TO/pun-vs-pun|$REPO_DIR|g" "$template" > "$tmp"
+  /usr/bin/sed "s|/ABSOLUTE/PATH/TO/pun-battle|$REPO_DIR|g" "$template" > "$tmp"
 
   if [ -f "$target" ] && cmp -s "$tmp" "$target" \
      && launchctl print "gui/$UID_NUM/$service" >/dev/null 2>&1; then
@@ -270,7 +270,7 @@ cat <<MSG
 
 Done. The first theme goes up at the top of the next hour; watch it with:
 
-    tail -f $REPO_DIR/punvspun.log
+    tail -f $REPO_DIR/punbattle.log
 
 From here, deploying is just \`git push\` — the watcher polls origin every
 five minutes and runs deploy.sh, which refuses to restart on a failing test

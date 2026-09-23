@@ -40,7 +40,7 @@ def login() -> None:
     global _client
     if _dry():
         os.makedirs(config.DRY_DIR, exist_ok=True)
-        handle = config.HANDLE or "punvspun.bsky.social"
+        handle = config.HANDLE or "punbattle.bsky.social"
         _register_handle(handle, "did:plc:dryrun")
         logger.info("POST_MODE=dry — writing posts to %s, no network",
                     config.DRY_DIR)
@@ -73,7 +73,7 @@ def login_with_retry() -> None:
 
 
 def get_did() -> str:
-    handle = (config.HANDLE or "punvspun.bsky.social").lower()
+    handle = (config.HANDLE or "punbattle.bsky.social").lower()
     return _did_by_name.get(handle, "")
 
 

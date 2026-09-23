@@ -50,7 +50,7 @@ def fake_round(post_uri, opened, rng, store, likers):
 
 def run(rounds: int, seed: int) -> None:
     shutil.rmtree(config.DRY_DIR, ignore_errors=True)
-    tmp = tempfile.mkdtemp(prefix="punvspun-dryrun-")
+    tmp = tempfile.mkdtemp(prefix="punbattle-dryrun-")
     config.DB_PATH = os.path.join(tmp, "dryrun.db")
     db.init_db()
     bluesky.login()

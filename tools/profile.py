@@ -26,7 +26,7 @@ import bluesky   # noqa: E402
 AVATAR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                       "assets", "avatar.png")
 
-DISPLAY_NAME = "Pun Vs Pun ⚔️"
+DISPLAY_NAME = "Pun Battle ⚔️"
 
 _EVERY = ("every hour, on the hour" if config.ROUND_MINUTES == 60
           else f"every {config.ROUND_MINUTES} minutes")
@@ -36,17 +36,17 @@ BIO = (
     "Your pun vs. theirs. ⚔️\n"
     f"A new theme drops {_EVERY}. Reply with your best pun — "
     f"most likes when time's up wins {_PTS} points. Ties split.\n"
-    "📌 How to play is pinned. #PunVsPun"
+    "📌 How to play is pinned. #PunBattle"
 )
 
 RULES = (
-    "📌 How to play Pun Vs Pun\n\n"
+    "📌 How to play Pun Battle\n\n"
     f"⏰ {_EVERY[0].upper() + _EVERY[1:]}, I post a theme\n"
     "💬 Reply to it with your best pun (as many as you like)\n"
     f"❤️ Most likes when time's up wins {_PTS} pts\n"
     "🤝 Ties split the points\n"
     "🏆 Winners get a reply with their running total\n\n"
-    "Pun vs. pun, may the best pun win! #PunVsPun"
+    "May the best pun win! #PunBattle"
 )
 
 def _hour(h: int) -> str:

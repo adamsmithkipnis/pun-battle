@@ -22,7 +22,7 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/usr/local/bin:$PAT
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 VENV="$REPO_DIR/.venv"
-SERVICE="com.punvspun.bot"
+SERVICE="com.punbattle.bot"
 BRANCH="${DEPLOY_BRANCH:-main}"
 
 IF_CHANGED=0
@@ -92,8 +92,8 @@ fi
 
 if ! launchctl print "gui/$(id -u)/$SERVICE" >/dev/null 2>&1; then
   say "service $SERVICE is not loaded; load it once with:"
-  say "    cp com.punvspun.bot.plist ~/Library/LaunchAgents/"
-  say "    launchctl bootstrap gui/\$(id -u) ~/Library/LaunchAgents/com.punvspun.bot.plist"
+  say "    cp com.punbattle.bot.plist ~/Library/LaunchAgents/"
+  say "    launchctl bootstrap gui/\$(id -u) ~/Library/LaunchAgents/com.punbattle.bot.plist"
   exit 0
 fi
 

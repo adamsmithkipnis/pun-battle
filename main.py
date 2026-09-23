@@ -1,4 +1,4 @@
-"""Pun Vs Pun — an hourly pun contest on Bluesky.
+"""Pun Battle — an hourly pun contest on Bluesky.
 
 On the hour, every hour, one tick:
 
@@ -408,7 +408,7 @@ def main() -> int:
         print_leaderboard(args.leaderboard)
         return 0
 
-    logger.info("Pun Vs Pun starting (%d-minute rounds, %s pts, %s, "
+    logger.info("Pun Battle starting (%d-minute rounds, %s pts, %s, "
                 "posting %s)", config.ROUND_MINUTES, config.ROUND_POINTS,
                 config.TIMEZONE, config.POST_MODE)
     bluesky.login_with_retry()

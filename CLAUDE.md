@@ -1,7 +1,7 @@
 # Working agreement for this repo
 
 Two agents edit this repo: Claude Code (usually from the laptop) and OpenClaw
-(on the Mac Mini, at `/Users/robot/pun-vs-pun`). The Mini's checkout is also the
+(on the Mac Mini, at `/Users/robot/pun-battle`). The Mini's checkout is also the
 deployment target, so an uncommitted edit there is both a lost change and a
 blocked deploy.
 
@@ -67,9 +67,9 @@ To run a specific theme next: `.venv/bin/python main.py --queue "Lighthouses"`.
 ## Operating the bot
 
 ```bash
-launchctl list | grep punvspun                        # is it running
-launchctl kickstart -k gui/$(id -u)/com.punvspun.bot  # restart
-tail -f punvspun.log                                  # watch it
+launchctl list | grep punbattle                        # is it running
+launchctl kickstart -k gui/$(id -u)/com.punbattle.bot  # restart
+tail -f punbattle.log                                  # watch it
 .venv/bin/python main.py --status                    # current round, live entries
 .venv/bin/python main.py --leaderboard 20            # all-time standings
 .venv/bin/python main.py --preview 48                # the next two days of themes

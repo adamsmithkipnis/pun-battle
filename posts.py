@@ -131,7 +131,7 @@ def build_theme_post(theme: str, closes_local: datetime,
         for award in previous["awards"]:
             extra_dids[award["handle"]] = award["did"]
     else:
-        welcome = "Welcome to Pun Vs Pun! A new theme every hour."
+        welcome = "Welcome to Pun Battle! A new theme every hour."
         if len(welcome) + 2 + len(core) <= LIMIT:
             head.append(welcome)
 

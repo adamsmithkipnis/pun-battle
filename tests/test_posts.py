@@ -21,12 +21,12 @@ class TestThemePost(unittest.TestCase):
             "Lighthouses", CLOSES,
             {"theme": "Cheese", "awards": [award("alice.bsky.social", "did:plc:a")],
              "entry_count": 9},
-            tags=["#PunVsPun"])
+            tags=["#PunBattle"])
         self.assertIn("🏆 Last round (Cheese): @alice.bsky.social wins 60 pts "
                       "with 12 likes!", text)
         self.assertIn("New pun theme: LIGHTHOUSES", text)
         self.assertIn("Most likes at 4:00 PM PDT wins 60 pts", text)
-        self.assertTrue(text.endswith("#PunVsPun"))
+        self.assertTrue(text.endswith("#PunBattle"))
         self.assertEqual(dids, {"alice.bsky.social": "did:plc:a"})
 
     def test_tie_names_everyone_and_the_share(self):
@@ -58,7 +58,7 @@ class TestThemePost(unittest.TestCase):
 
     def test_first_ever_post_welcomes(self):
         text, _ = posts.build_theme_post("Owls", CLOSES)
-        self.assertIn("Welcome to Pun Vs Pun", text)
+        self.assertIn("Welcome to Pun Battle", text)
 
     def test_leaderboard_when_it_fits(self):
         leaders = [("did:plc:a", "alice.bsky.social", 480, 8),
@@ -85,7 +85,7 @@ class TestWinnerReply(unittest.TestCase):
         text = posts.build_winner_reply("Cheese", 14, 60, 1, 180, 2, 37)
         self.assertEqual(
             text, "🎉 Your pun won “Cheese” with 14 likes! +60 pts.\n"
-                  "Your total: 180 pts (#2 of 37 players).\n\n#PunVsPun")
+                  "Your total: 180 pts (#2 of 37 players).\n\n#PunBattle")
 
     def test_tie_and_singulars(self):
         text = posts.build_winner_reply("Cheese", 1, 20, 3, 20, 1, 1)
@@ -100,18 +100,18 @@ class TestFacets(unittest.TestCase):
         text, dids = posts.build_theme_post(
             "Cheese", CLOSES,
             {"theme": "Brie", "awards": [award("alice.bsky.social", "did:plc:a")],
-             "entry_count": 3}, tags=["#PunVsPun", "#puns"])
+             "entry_count": 3}, tags=["#PunBattle", "#puns"])
         encoded = text.encode("utf-8")
         found = {(kind, encoded[s:e].decode()) for kind, _, s, e
                  in bluesky.facet_ranges(text, dids)}
         self.assertIn(("mention", "@alice.bsky.social"), found)
-        self.assertIn(("tag", "#PunVsPun"), found)
+        self.assertIn(("tag", "#PunBattle"), found)
         self.assertIn(("tag", "#puns"), found)
 
     def test_rank_is_not_a_hashtag(self):
         text = posts.build_winner_reply("Cheese", 3, 60, 1, 60, 2, 9)
         tags = [v for kind, v, _, _ in bluesky.facet_ranges(text) if kind == "tag"]
-        self.assertEqual(tags, ["PunVsPun"])
+        self.assertEqual(tags, ["PunBattle"])
 
 
 if __name__ == "__main__":

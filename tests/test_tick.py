@@ -60,7 +60,7 @@ class TestTick(TickTestCase):
         self.assertEqual(current["status"], db.OPEN)
         self.assertEqual(db.from_iso(current["closes_at"]), T0 + HOUR)
         self.assertEqual(len(self.posted), 1)
-        self.assertIn("Welcome to Pun Vs Pun", self.posted[0][1])
+        self.assertIn("Welcome to Pun Battle", self.posted[0][1])
         self.assertIn("4:00 PM PDT", self.posted[0][1])
 
     def test_mid_round_tick_does_nothing(self):
