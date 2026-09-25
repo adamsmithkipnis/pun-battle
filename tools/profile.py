@@ -36,6 +36,7 @@ BIO = (
     "Your pun vs. theirs. ⚔️\n"
     f"A new theme drops {_EVERY}. Reply with your best pun — "
     f"most likes when time's up wins {_PTS} points. Ties split.\n"
+    "Watch for mashup rounds: one pun, two topics.\n"
     "📌 How to play is pinned. #PunBattle"
 )
 
