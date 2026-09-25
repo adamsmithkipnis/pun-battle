@@ -1,0 +1,28 @@
+# Music and Dance
+# family: arts
+Concerts | encore, tour, stage, ticket, crowd, lighter, amp, opening act, headliner, setlist, merch, backstage, front row, sold out
+Orchestras | conductor, baton, pit, strings, symphony, section, tune up, first chair, maestro, score, movement, harmony, overture, concertmaster
+Choirs | soprano, alto, tenor, bass, robe, harmony, hymn, preach to the choir, loft, chorus, pitch, carol, hum, director
+Marching Bands | march, drum major, baton, uniform, plume, halftime, formation, step, tuba, brass, parade, band camp, strut, on the march
+Rock Bands | lead singer, drummer, bassist, garage band, jam, gig, amp, tour, groupie, band together, breakup, reunion, roadie, rock star, stage dive, autograph, entourage, guitar smash
+Karaoke | mic, lyrics, sing-along, off-key, duet, tone-deaf, song, stage fright, belt it out, screen, ballad, applause, hog the mic, pitch
+Music Festivals | tent, stage, lineup, headliner, mud, wristband, crowd, camp, sunburn, flower crown, mosh pit, field, weekend pass, fest
+Vinyl Records | spin, groove, needle, track, side A, B-side, broken record, album, sleeve, turntable, crate, scratch, LP
+Radio Stations | dial, tune in, frequency, DJ, airwaves, request, on air, static, broadcast, call in, top forty, signal, FM
+DJs | spin, mix, turntable, scratch, drop, beat, remix, playlist, request, deck, headphones, fade, crowd, dance floor
+Sheet Music | note, staff, clef, treble, bar, measure, rest, key signature, sharp, flat, score, page turn, sight-read, tempo, chord
+Singing | pitch, tune, harmony, belt, croon, falsetto, vibrato, solo, duet, chorus, hum, warble, serenade, carry a tune, high note
+Songwriting | lyrics, verse, chorus, bridge, hook, rhyme, melody, demo, ballad, co-write, refrain, title track, riff, key change
+Music Lessons | practice, scales, metronome, recital, tempo, teacher, rehearse, sheet music, tune, drill, beat, lesson plan, finger, piano bench
+Ballet | tutu, pirouette, pointe, plie, barre, swan, nutcracker, leap, jete, tiptoe, ballerina, leotard, positions, arabesque
+Tap Dancing | shoes, shuffle, click, heel, toe, rhythm, time step, flap, ball change, soft shoe, clack, faucet, water
+Ballroom Dancing | waltz, foxtrot, quickstep, partner, lead, follow, dip, twirl, gown, sequins, cha-cha, rumba, box step, spin
+Tango | dip, rose, Argentina, lead, embrace, sultry, it takes two, drama, flick, step, passion, tangle, accordion, tangerine
+Salsa Dancing | spin, hip, Cuba, step, turn, hot, spicy, mambo, clave, cross-body, partner, shine, chips, dip
+Square Dancing | do-si-do, promenade, swing your partner, caller, hoedown, allemande, barn, fiddle, gingham, yeehaw, circle, four couples
+Line Dancing | boot scoot, step, kick, heel, grapevine, cowboy boots, turn, electric slide, stomp, honky-tonk, in line, toe the line, row
+Breakdancing | spin, windmill, headspin, freeze, pop, lock, b-boy, crew, battle, cardboard, moonwalk, robot, worm, breaking
+Swing Dancing | lindy hop, jitterbug, jive, flip, toss, spin, big band, charleston, bebop, shag, aerial, hop, jump, lindy
+Hula | hips, grass skirt, lei, Hawaii, luau, ukulele, sway, hoop, island, aloha, wave, hands, story
+Irish Dancing | jig, reel, step dance, hornpipe, fling, clog, curls, stiff arms, fiddle, kick, leap, shamrock, ceili
+Dance Moves | moonwalk, robot, sprinkler, twist, floss, shuffle, running man, worm, shimmy, sway, dip, spin, jazz hands, electric slide

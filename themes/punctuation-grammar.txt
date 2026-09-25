@@ -1,0 +1,23 @@
+# Punctuation and Grammar
+# family: arts
+Punctuation | period, comma, colon, semicolon, apostrophe, dash, hyphen, question mark, exclamation point, quotes, parentheses, ellipsis, full stop, point, exclaim, bang, point taken, brackets, aside, parenthetical
+Parentheses | brackets, aside, parent, parenthetical, curly, round, hug, by the way, enclose, whisper, note, braces
+Exclamation Points | exclaim, wow, bang, shout, emphasis, yell, excite, surprise, loud, alarm, bold, shriek, point taken
+Commas | pause, list, Oxford, splice, comatose, clause, breath, separate, series, karma, come back, calm, calm down, comma chameleon
+Periods | full stop, dot, end, point, sentence, period piece, time period, era, final, that's it, stop, punctuate, period drama
+Question Marks | query, ask, curious, hook, doubt, puzzle, riddle, unknown, big question, inquire, wonder, what, why, mark my words
+Apostrophes | possessive, contraction, catastrophe, missing letter, belonging, own, it's, its, comma in the air, tick, hang, apostle
+Colons and Semicolons | semi, list, introduce, two dots, wink, pause, clause, colonel, colonize, semi-truck, semifinal, winky face, colon cleanse
+Dashes and Hyphens | em dash, en dash, line, connect, compound, break, dash off, hurry, pinch, dashing, Morse, hyphenate, dash cam
+Quotation Marks | quote, cite, air quotes, unquote, famous last words, inverted commas, speech, dialogue, said, source, scare quotes, misquote, estimate, bunny ears
+Nouns | person, place, thing, proper, common, plural, subject, object, name, pronoun, collective, abstract, concrete, noun-sense, antecedent
+Verbs | action, doing, tense, conjugate, run, jump, irregular, helping verb, active, passive, past, verbal, verbose, action word
+Adjectives and Adverbs | describe, big, small, colorful, modify, comparative, superlative, vivid, flowery, detail, lovely, word picture, adjust, objective, adverb, ly, adverse, really
+Verb Tenses | past, present, future, tense up, perfect, progressive, gift, futuristic, pastime, conditional, stress, relax, uptight, past tense
+Capital Letters | caps, uppercase, capitalize, shift, all caps, proper noun, shout, big letter, capital city, lowercase, caps lock, capital idea
+Sentences | subject, predicate, clause, period, run-on, fragment, phrase, complete, structure, life sentence, diagram, word order, compound, prison, conjunction, and, but
+Conjunctions | and, but, or, so, yet, nor, because, junction, connect, join, link, coordinate, conjure
+Grammar | grammar police, rules, syntax, usage, correct, gramma, grandma, split infinitive, dangling modifier, double negative, grammatical, fewer vs less, whom, preposition, ending a sentence with
+Spelling | spell check, bee, i before e, letter, typo, silent letter, misspell, dictionary, spelling bee, cast a spell, sound it out, phonics, homophone, buzz, hive, sting, letter by letter, use it in a sentence
+The Alphabet | ABC, letter, A to Z, vowel, consonant, song, alphabet soup, block, capital, lowercase, X marks the spot, mind your Ps and Qs, T-shirt, bee
+Vowels | A, E, I, O, U, sometimes Y, buy a vowel, long, short, sound, vow, consonant, vowel movement, diphthong

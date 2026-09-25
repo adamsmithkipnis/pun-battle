@@ -1,0 +1,15 @@
+# Big Cats & Wild Dogs
+# family: nature
+Big Cats | lion, tiger, leopard, jaguar, cheetah, panther, cougar, roar, prowl, pounce, stripe, spot, claw, mane, purr
+Lions | roar, mane, pride, cub, king of the jungle, lioness, den, lion's share, prowl, hunt, paw, savanna, Leo, lion-hearted
+Tigers | stripe, roar, prowl, pounce, Bengal, jungle, orange, claw, tiger mom, eye of the tiger, paper tiger, earn your stripes, tame, cub
+Leopards and Jaguars | spot, rosette, tree, pounce, stalk, sleek, panther, snow leopard, change its spots, pattern, climb, ambush, prowl, jungle
+Cheetahs | fast, sprint, speed, spot, chase, dash, race, zoom, cheat, top speed, tear line, lean, blur, acceleration
+Wild Cats | lynx, bobcat, ocelot, serval, caracal, cougar, puma, mountain lion, tufted ears, whiskers, stealth, pounce, tabby, hiss
+Wolves | howl, pack, alpha, den, moon, lone wolf, cry wolf, wolf down, pup, fang, prowl, big bad wolf, wolf whistle, sheep's clothing, hungry, dingo, jackal, feral
+Foxes | sly, cunning, den, bushy tail, henhouse, fox trot, outfox, vixen, red, pounce, clever, burrow, fantastic, foxy
+Coyotes | howl, yip, desert, sneaky, trickster, prairie, moon, scavenge, pack, trot, canyon, lurk, chase, roadrunner
+Hyenas | laugh, cackle, scavenge, spotted, pack, giggle, clan, bone, crunch, snicker, savanna, lurk, steal, howl
+Hunting and Prowling | stalk, pounce, ambush, chase, prey, track, lurk, crouch, sneak, spring, predator, tail, stealth, catch
+Claws and Paws | talon, toe beans, scratch, swipe, retract, pad, print, knead, sharp, nail, grip, swat, clawback, pawn
+Fur | coat, shed, pelt, fluffy, fuzzy, mane, groom, brush, shaggy, hairball, fur-ever, fir, fur real, bristle, fur ball

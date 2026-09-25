@@ -1,0 +1,14 @@
+# Superheroes & Sci-Fi
+# family: history-fantasy
+Superheroes | cape, mask, power, secret identity, sidekick, villain, save the day, lair, costume, fly, strength, hero, origin story, justice, spandex, crossover, sequel, caped, billow, cloak
+Supervillains | evil, lair, scheme, henchman, doomsday device, monologue, nemesis, cackle, plot, world domination, laser, escape, revenge, twirl mustache, dastardly, foiled, curses, melodrama, boo
+Superpowers | flight, strength, speed, invisibility, x-ray vision, telepathy, teleport, shapeshift, force field, heat vision, stretch, super hearing, healing, shield, deflect, repel, bubble
+Sidekicks | partner, helper, wing man, ward, second fiddle, loyal, trusty, backup, assistant, apprentice, tagalong, right-hand man
+Secret Identities | disguise, mask, alter ego, glasses, double life, reveal, unmask, cover, phone booth, reporter, secret, hideout
+Robots | bot, gear, circuit, bolt, beep, boop, metal, program, droid, android, humanoid, rust, oil, reboot, malfunction, cyborg, bionic, upgrade, implant
+Aliens | UFO, spaceship, green, antenna, probe, abduct, flying saucer, take me to your leader, planet, tractor beam, little green men, invasion, visitor
+Laser Beams | zap, ray, stun, pew pew, blast, pointer, light, focus, target, burn, precision, cut, sharp
+Time Travel | dial, era, past, future, paradox, portal, lever, warp, flux, travel, rewind, date, go back, time machine, time warp, dimension, history
+Spaceships | launch, hull, cockpit, warp drive, hyperspace, fuel, engine, orbit, hatch, airlock, bridge, captain, fleet
+Teleportation | beam me up, transport, vanish, reappear, portal, zap, instant, pad, molecule, destination, blink, warp, scramble
+The Future | flying car, hoverboard, robot, jetpack, prediction, tomorrow, space age, chrome, sleek, crystal ball, fortune, forecast, someday, hologram, 3D, virtual, hover, thrust

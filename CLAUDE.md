@@ -34,21 +34,47 @@ If a change touches post copy or judging, also look at a dry run:
 
 ## Adding themes
 
-Themes live in `themes/<category>.txt`: a `# Display Name` first line, then one
-theme per line (Title Case, ≤40 characters, no trailing punctuation). Add to an
-existing file or create a new category file, then run the tests —
-`test_themes.py` rejects duplicates across *all* files (after folding case,
-plurals and "the"), so a theme that would repeat under another name fails the
-deploy instead of going out. The catalog should stay well above 4,000 themes;
-`main.py --status` shows how many days of never-used themes remain.
+Themes live in `themes/<category>.txt`:
 
-To run a specific theme next: `.venv/bin/python main.py --queue "Lighthouses"`.
+```
+# Coffee & Tea
+# family: food
+Coffee | brew, grounds, roast, espresso, latte, perk, mug, decaf, bean, drip
+```
+
+A `# Display Name` line, a `# family:` line (one of food, home, nature,
+science, arts, body, work, play, travel, history-fantasy — mashups pair
+topics from different families), then one topic per line followed by its
+**angles**. Angles are never posted; they are the proof a topic is at the
+right level. **Every topic needs at least 8 angles**: words from its
+vocabulary that double as everyday words or sound like something else.
+
+- Too narrow ("Thermoses", "Paneer", "Carabiners"): can't reach 8. Make it an
+  angle of its parent topic instead (paneer → Cheese).
+- Too broad ("Computers", "Food", "Science"): the angles have nothing in
+  common. Split it into mid-level topics that each pass on their own.
+- No scenarios or jokes as topics ("A Carrot's Job Interview").
+- The sweet spot is a "Types of X" noun (Footwear, Headwear, Birds, Gems) or a
+  place/activity that bundles objects, actions and jargon (The Post Office,
+  Bakeries, Bowling) — what the O. Henry Pun-Off and Punderdome use.
+
+Then run the tests — `test_themes.py` rejects thin topics, duplicates across
+*all* files (after folding case, plurals and "the"), and simulates two years
+of hourly rounds. The catalog must stay above 1,800 topics: 18 solo rounds a
+day against a 90-day no-repeat floor needs 1,620. `main.py --status` shows how
+many days of never-used topics remain.
+
+To run a specific theme next: `.venv/bin/python main.py --queue "Lighthouses"`,
+or a mashup: `--queue "Coffee + Knitting"`. A pair that reads badly as a
+mashup can be banned in `themes/_blocked_pairs.txt` ("Topic A + Topic B").
 
 ## Rules that are load-bearing
 
-- **No theme repeats within 90 days, ever.** `config.check_repeat_days`
-  refuses to start below 90, and `themes.choose` will raise
-  `NoThemeAvailable` rather than bend the rule. Don't add an escape hatch.
+- **No theme repeats within 90 days, ever** — solo topic or mashup pair.
+  `config.check_repeat_days` refuses to start below 90, and `themes.choose`
+  raises `NoThemeAvailable` rather than bend the rule. Don't add an escape
+  hatch. On top of that, a topic never reappears in any form (alone or in a
+  mashup) within 30 days (`COMPONENT_SPACING_DAYS`).
 - **Themes post only on the hour.** There is deliberately no catch-up tick at
   boot, and `misfire_grace_time` is five minutes: a Mini that wakes at 3:40
   waits for 4:00. Late entries getting less time to collect likes is intended.

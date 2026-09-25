@@ -1,60 +1,19 @@
 # Trains, Planes & Boats
-Steam Trains
-Subways
-Train Conductors
-Cabooses
-Railroad Crossings
-Model Trains
-Bullet Trains
-Sleeper Cars
-Dining Cars
-Freight Trains
-Train Whistles
-Train Stations
-Monorails
-Trolleys
-Cable Cars
-Airports
-Pilots
-Flight Attendants
-Turbulence
-Jet Lag
-Airplane Food
-Middle Seats
-Overhead Bins
-Runways
-Air Traffic Control
-Layovers
-Boarding Passes
-Hot Air Balloons
-Helicopters
-Blimps
-Gliders
-Seaplanes
-Crop Dusters
-Sailboats
-Canoes
-Rowboats
-Oars
-Submarines
-Tugboats
-Ferries
-Cruise Ships
-Yachts
-Houseboats
-Rafts
-Anchors
-Lifeboats
-Ship Captains
-Paddle Boats
-Gondolas
-Barges
-Steamboats
-Seasickness
-Port and Starboard
-Docks
-Hovercraft
-Cargo Ships
-Rickety Rope Bridges
-Missed Connections
-Last Call for Boarding
+# family: travel
+Trains | track, rail, station, whistle, caboose, conductor, ticket, platform, locomotive, steam, express, coach, derail, all aboard, punch, next stop, lantern
+Subways | tunnel, platform, turnstile, token, line, transfer, underground, rush hour, strap, stand clear, express, map, commute
+Airplanes | wing, cockpit, runway, takeoff, landing, turbulence, jet, altitude, aisle, window seat, tray table, fly, autopilot, cabin
+Airports | gate, terminal, runway, boarding pass, security, baggage claim, layover, delay, departure, arrival, carousel, lounge, tarmac
+Flight Attendants | aisle, cart, snack, peanuts, seat belt, safety demo, oxygen mask, beverage, call button, cabin, galley, tray table, exit row
+Helicopters | rotor, blade, hover, chopper, whirlybird, landing pad, spin, lift, pilot, rescue, tail, airlift, buzz
+Hot Air Balloons | basket, gondola, float, burner, flame, rise, drift, altitude, lift, rope, sandbag, soar, inflate, up
+Flying Machines | wing, propeller, glider, blimp, jet, kite, rocket, rotor, biplane, lift, soar, hover, zeppelin, drone
+Boats | hull, bow, stern, deck, port, starboard, anchor, oar, sail, rudder, mast, dock, captain, wake, keel, motor, throttle, outboard, speedboat
+Sailing | sail, mast, boom, knot, tack, jib, rigging, wind, crew, helm, starboard, regatta, ahoy, galley, yacht, marina, sleek
+Cruise Ships | deck, cabin, buffet, port, captain, shore excursion, pool, lifeboat, ocean, casino, midnight buffet, cruise director, sail
+Canoes and Kayaks | paddle, row, rapids, tip, capsize, portage, stroke, river, current, oar, life jacket, lake, eddy
+Submarines | periscope, dive, sonar, torpedo, depth, hatch, surface, sink, submerge, ballast, underwater, pressure, deep
+Ports and Harbors | dock, pier, wharf, anchor, cargo, crane, ship, moor, berth, lighthouse, marina, tugboat, sailor, tug, tow, barge, chug, ferry, crossing, terminal
+Tugboats | tug, pull, tow, harbor, push, barge, rope, horn, dock, little, strong, port, chug
+Sailors | knot, deck, hat, crew, ahoy, aye aye, navy, captain, ship shape, seasick, salty, tattoo, swab
+Trolleys | cable car, track, bell, hill, ding, line, hop on, streetcar, conductor, grip, clang, route, fare

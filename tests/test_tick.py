@@ -151,17 +151,30 @@ class TestTick(TickTestCase):
         for _ in range(30):
             main.run_tick(now)
             now += HOUR
-        history = db.theme_history()
-        self.assertEqual(len({k for k, _, _ in history}), len(history))
-        categories = [c for _, c, _ in sorted(history, key=lambda h: h[2])]
+        history = sorted(db.theme_history(), key=lambda h: h[2])
+        self.assertEqual(len({h[0] for h in history}), len(history))
+        topics = [key for h in history for key in h[3]]
+        self.assertEqual(len(topics), len(set(topics)))
+        categories = [set(h[1].split("|")) for h in history]
         for i in range(1, len(categories)):
-            self.assertNotIn(categories[i], categories[max(0, i - 24):i])
+            recent = set().union(*categories[max(0, i - 24):i])
+            self.assertFalse(categories[i] & recent)
 
     def test_queue_goes_next(self):
         db.queue_theme("Lighthouses")
         main.run_tick(T0)
         self.assertEqual(db.current_round()["theme"], "Lighthouses")
         self.assertEqual(db.queued_themes(), [])
+
+    def test_queued_mashup(self):
+        db.queue_theme("Coffee + Lighthouses")
+        main.run_tick(T0)
+        current = db.current_round()
+        self.assertEqual(current["theme"], "Coffee + Lighthouses")
+        self.assertTrue(current["theme_key"].startswith("mashup:"))
+        self.assertEqual(current["components"], "coffee|lighthouse")
+        self.assertIn("⚔️ MASHUP ROUND: COFFEE + LIGHTHOUSES", self.posted[-1][1])
+        self.assertIn("One pun, both topics", self.posted[-1][1])
 
     def test_skip_keeps_the_boundary_and_scores_nothing(self):
         main.run_tick(T0)

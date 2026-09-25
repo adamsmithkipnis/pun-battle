@@ -56,6 +56,16 @@ class TestThemePost(unittest.TestCase):
             "Owls", CLOSES, {"theme": "Cheese", "awards": [], "entry_count": 4})
         self.assertIn("so no winner", text)
 
+    def test_mashup_wording(self):
+        text, _ = posts.build_theme_post(
+            "Dentistry + Geology", CLOSES,
+            {"theme": "Cheese", "awards": [award("alice.bsky.social", "did:plc:a")],
+             "entry_count": 4}, mashup=True)
+        self.assertIn("⚔️ MASHUP ROUND: DENTISTRY + GEOLOGY\n"
+                      "One pun, both topics. Most likes at 4:00 PM PDT wins "
+                      "60 pts (ties split).", text)
+        self.assertNotIn("New pun theme", text)
+
     def test_first_ever_post_welcomes(self):
         text, _ = posts.build_theme_post("Owls", CLOSES)
         self.assertIn("Welcome to Pun Battle", text)

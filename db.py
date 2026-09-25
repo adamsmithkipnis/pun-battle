@@ -30,8 +30,8 @@ _SCHEMA = """
 CREATE TABLE IF NOT EXISTS rounds (
     id INTEGER PRIMARY KEY,
     theme TEXT NOT NULL,
-    theme_key TEXT NOT NULL,      -- themes.normalize(theme): the repeat key
-    category TEXT,
+    theme_key TEXT NOT NULL,      -- themes.theme_key(theme): the repeat key
+    category TEXT,                -- "a", or "a|b" for a mashup
     category_name TEXT,
     post_uri TEXT,
     post_cid TEXT,
@@ -41,7 +41,8 @@ CREATE TABLE IF NOT EXISTS rounds (
     judged_at TEXT,
     top_likes INTEGER,
     entry_count INTEGER,
-    player_count INTEGER
+    player_count INTEGER,
+    components TEXT               -- topic keys used, "|"-separated
 );
 
 CREATE INDEX IF NOT EXISTS idx_rounds_status ON rounds (status);
@@ -106,7 +107,7 @@ CREATE TABLE IF NOT EXISTS posts (
 # an upgrade never loses a round in progress. Anything added to _SCHEMA's
 # tables later must also be listed here — tests/test_migration.py checks.
 _ADDED_COLUMNS = {
-    "rounds": [],
+    "rounds": [("components", "TEXT")],
     "entries": [],
     "awards": [],
 }
@@ -186,7 +187,8 @@ def last_round():
 
 def open_round(theme: str, theme_key: str, category: str, category_name: str,
                post_uri: str, post_cid: str, opened_at: datetime,
-               closes_at: datetime, retire_round_id: int | None = None,
+               closes_at: datetime, components: tuple = (),
+               retire_round_id: int | None = None,
                retire_status: str = ANNOUNCED,
                queue_id: int | None = None) -> int:
     """Record a freshly posted theme — and, in the same transaction, retire
@@ -199,10 +201,12 @@ def open_round(theme: str, theme_key: str, category: str, category_name: str,
     with _connect() as conn:
         cur = conn.execute(
             """INSERT INTO rounds (theme, theme_key, category, category_name,
-                   post_uri, post_cid, opened_at, closes_at, status)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                   post_uri, post_cid, opened_at, closes_at, status,
+                   components)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             (theme, theme_key, category, category_name, post_uri, post_cid,
-             to_iso(opened_at), to_iso(closes_at), OPEN))
+             to_iso(opened_at), to_iso(closes_at), OPEN,
+             "|".join(components or (theme_key,))))
         if retire_round_id is not None:
             conn.execute("UPDATE rounds SET status = ? WHERE id = ?",
                          (retire_status, retire_round_id))
@@ -246,11 +250,14 @@ def awards_for(round_id: int) -> list:
 
 
 def theme_history() -> list:
-    """(theme_key, category, opened_at) for every round ever posted."""
+    """(theme_key, category, opened_at, component keys) for every round ever
+    posted. Rounds from before mashups existed used one topic: their own key."""
     with _connect() as conn:
         rows = conn.execute(
-            "SELECT theme_key, category, opened_at FROM rounds").fetchall()
-    return [(r["theme_key"], r["category"], from_iso(r["opened_at"]))
+            "SELECT theme_key, category, opened_at, components FROM rounds"
+        ).fetchall()
+    return [(r["theme_key"], r["category"] or "", from_iso(r["opened_at"]),
+             tuple((r["components"] or r["theme_key"]).split("|")))
             for r in rows]
 
 

@@ -1,0 +1,17 @@
+# Eating Out & Food Shopping
+# family: food
+Restaurants | menu, waiter, table, reservation, check, tip, special, host, booth, order, appetizer, entree, dessert, bill, chef, prix fixe, a la carte, kids menu
+Diners | booth, counter, stool, jukebox, waitress, coffee, bottomless cup, blue plate special, short order, pie case, milkshake, open 24 hours, hash browns, neon, griddle
+Delis | pastrami, corned beef, rye, pickle, sandwich, counter, take a number, slice, cold cuts, bagel, lox, matzo ball, cheese, scale
+Food Trucks | window, line, menu board, taco, park, generator, lunch rush, street, festival, grill, order, cash, curbside, fusion
+Food Courts | mall, tray, table, free sample, toothpick, pretzel, noodles, pizza, crowd, seating, soda, choices, fountain, lemonade
+Fine Dining | tasting menu, sommelier, tablecloth, courses, reservation, maitre d', plating, tiny portions, dress code, amuse-bouche, wine list, napkin fold, gourmet, candlelight
+Caterers | tray, event, buffet, chafing dish, server, canapes, platter, wedding, menu, tasting, head count, van, uniform, setup
+Groceries | produce, aisle, cart, list, bag, checkout, coupon, frozen, dairy, deli, paper or plastic, bagger, pantry, stock up
+Farmers Markets | stall, tent, local, organic, fresh, produce, honey, basket, heirloom, vendor, sample, Saturday, crop, harvest
+Eating Contests | hot dog, pie, speed, gobble, stuffed, chow down, champion, belt, wolf down, cram, stomach, time limit, bib, record
+Cook-Offs | chili, judge, ribbon, recipe, secret ingredient, taste, entry, trophy, spicy, simmer, rivals, apron, scorecard, winner
+Appetites | hungry, starving, famished, hangry, growl, stomach, craving, peckish, empty, munchies, ravenous, eat a horse, hollow leg, spoil your dinner
+Sushi Bars | conveyor belt, chef, counter, roll, raw, wasabi, soy, plate color, omakase, knife, fish, chopsticks, sake, ginger
+Hot Dog Stands | cart, umbrella, vendor, street corner, relish, mustard, onions, steam, ballpark, pretzels, cash, frank, bun, New York
+Takeout | to go, box, bag, pick up, order ahead, delivery, couch, containers, menu drawer, leftovers, curbside, plastic fork, napkins, soy packet

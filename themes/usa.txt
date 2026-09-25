@@ -1,0 +1,26 @@
+# American Places
+# family: travel
+New York City | Big Apple, subway, taxi, Broadway, Times Square, bagel, Central Park, Statue of Liberty, skyscraper, Empire State, pizza, Brooklyn, Manhattan, bodega, city that never sleeps
+Las Vegas | casino, jackpot, slot machine, the Strip, chapel, what happens in Vegas, dice, neon, desert, bet, blackjack, buffet, high roller, magic show, all in
+U.S. States | Alaska, Kansas, Texas, Tennessee, Maryland, Iowa, Oregon, Arkansas, Missouri, Idaho, Ohio, Florida, Utah, Kentucky, Delaware, Mississippi, Minnesota
+State Capitals | Boise, Juneau, Albany, Denver, Phoenix, Austin, Salem, Dover, Lincoln, Frankfort, Topeka, Helena, Pierre, Honolulu, Boston, Olympia, Richmond
+U.S. Cities | Chicago, Boston, Phoenix, Houston, Denver, Miami, Buffalo, Orlando, Memphis, Nashville, Seattle, Detroit, Philadelphia, Portland, Tampa, Reno
+Hawaii | aloha, lei, luau, hula, volcano, surf, ukulele, pineapple, Maui, Honolulu, Waikiki, mahalo, island time, grass skirt, Aloha shirt
+Texas | cowboy, Lone Star, Alamo, barbecue, rodeo, y'all, Austin, Houston, Dallas, oil, ten-gallon hat, longhorn, everything's bigger, boots, big
+California | Hollywood, surf, Golden Gate, San Francisco, Los Angeles, Silicon Valley, redwoods, wine country, beach, sunshine, avocado, gold rush, dude, Malibu, Sacramento
+Alaska | glacier, moose, Juneau, salmon, northern lights, sled dog, Iditarod, tundra, Anchorage, I'll ask her, gold rush, midnight sun, pipeline, igloo, Klondike
+New England | lobster, clam chowder, Boston, fall foliage, maple syrup, lighthouse, Vermont, Maine, colonial, wicked, harbor, Cape Cod, Pilgrims, town hall, Yankee
+Florida | orange, alligator, Miami, Orlando, beach, Everglades, the Keys, Sunshine State, flamingo, humid, swamp, spring break, citrus, retire, manatee
+Chicago | Windy City, deep dish, the Bean, Lake Michigan, the L, hot dog, skyscraper, blues, Magnificent Mile, Second City, wind, loop, river dyed green, gangster
+New Orleans | jazz, beignet, gumbo, bayou, French Quarter, Bourbon Street, brass band, streetcar, jambalaya, Big Easy, Creole, parade, second line, bead, voodoo
+The American South | y'all, sweet tea, grits, porch, biscuits, magnolia, bless your heart, drawl, humid, barbecue, fixin' to, peach, hospitality, cornbread, rocking chair
+The Midwest | corn, cornfield, casserole, Ohio, Iowa, Kansas, Great Lakes, flyover, cheese curds, tractor, prairie, ope, hotdish, heartland, nice
+Colorado | Rockies, Denver, mile high, ski, Aspen, Boulder, Pikes Peak, altitude, snow, Colorado River, fourteener, rocky, gold, mountain town
+The Pacific Northwest | Seattle, Portland, rain, coffee, Space Needle, Mount Rainier, evergreen, grunge, ferry, salmon, flannel, Bigfoot, drizzle, apples
+Arizona | desert, cactus, Grand Canyon, Phoenix, dry heat, Tucson, Sedona, saguaro, sunset, red rocks, monsoon, rattlesnake, Route 66, Painted Desert
+New Jersey | Jersey Shore, turnpike, exit, diner, boardwalk, Garden State, Atlantic City, bagel, jug handle, sports jersey, Jersey cow, Newark, Hoboken, Princeton
+Philadelphia | cheesesteak, Liberty Bell, soft pretzel, brotherly love, Philly, Independence Hall, jawn, crack, Ben Franklin, steps, cream cheese, hoagie, Schuylkill
+Kentucky | bluegrass, Derby, bourbon, Louisville, horse, mint julep, big hat, Appalachian, Lexington, cave, thoroughbred, bluegrass music, run for the roses
+Cities | downtown, skyline, skyscraper, subway, traffic, neighborhood, metropolis, urban, city hall, block, rush hour, commute, city slicker, concrete jungle, streetlight
+Small Towns | main street, diner, everybody knows, general store, town square, gossip, mayor, sleepy, one stoplight, water tower, local, hometown, small talk, rural, town crier
+San Francisco | Golden Gate, cable car, fog, Alcatraz, hills, sourdough, Chinatown, Fisherman's Wharf, Lombard Street, trolley, bay, Painted Ladies, left my heart, sea lions

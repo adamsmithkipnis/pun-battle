@@ -1,62 +1,31 @@
-# Mythology
-Zeus
-Hera
-Poseidon
-Athena
-Apollo
-Aphrodite
-Hermes
-Hades
-Ares
-Artemis
-Dionysus
-Mount Olympus
-Hercules
-Achilles
-Odysseus
-Medusa
-Pandora's Box
-King Midas
-Narcissus
-Icarus
-Prometheus
-Atlas
-Cupid
-Thor
-Odin
-Loki
-Valhalla
-Norse Mythology
-Egyptian Gods
-Ra the Sun God
-Anubis
-Osiris
-The Underworld
-The River Styx
-The Golden Fleece
-Jason and the Argonauts
-Perseus
-The Labyrinth
-The Twelve Labors
-Nectar and Ambrosia
-The Oracle of Delphi
-The Fates
-The Muses
-Echo
-Orpheus
-Persephone
-Demeter
-Hephaestus
-Janus
-Vulcan
-Roman Gods
-Sisyphus
-Tantalus
-Arachne
-Gaia
-The Titans
-Nemesis
-Atlantis
-Thunderbolts
-Tridents
-A Day Off on Mount Olympus
+# Myths and Legends
+# family: history-fantasy
+Zeus | thunderbolt, lightning, Olympus, king, sky, eagle, beard, strike, bolt, thunder, throne, Jupiter, shock, swan
+Poseidon | trident, sea, waves, horses, earthquake, Neptune, shell, tide, ocean, storm, beard, fork, current, sea horse
+Athena | wisdom, owl, Athens, olive, shield, spear, helmet, strategy, wise, weaving, head, Minerva, craft, Parthenon
+Apollo | sun, lyre, music, archery, prophecy, oracle, chariot, poetry, light, laurel, healing, Delphi, twin, golden
+Aphrodite | love, beauty, shell, foam, Venus, Cupid, rose, dove, apple, mirror, golden apple, romance, swan, beach
+Hermes | messenger, winged sandals, speed, deliver, trickster, caduceus, wing, Mercury, travel, thief, herald, post, zip, express
+Artemis | hunt, bow, arrow, moon, deer, forest, archer, twin, silver, wild, Diana, quiver, hound, stag
+Dionysus | wine, grapes, party, theater, revel, vine, goblet, Bacchus, festival, ivy, frenzy, satyr, feast, tipsy
+Hephaestus | forge, hammer, anvil, fire, volcano, smith, Vulcan, metal, craft, armor, tongs, spark, sweat, limp
+Hercules | twelve labors, strength, lion, hydra, club, muscles, hero, demigod, stables, feat, strong, herculean, Hera, pillars
+Achilles | heel, tendon, armor, Trojan, warrior, invulnerable, dip, river, weak spot, Patroclus, spear, sulk, hero, ankle
+The Odyssey | voyage, Cyclops, sirens, Penelope, journey, homeward, Ithaca, ship, epic, wax in ears, Circe, pigs, suitors, lotus
+The Trojan Horse | gift, wooden, Troy, Helen, a thousand ships, siege, walls, sneak, beware of Greeks bearing gifts, Paris, apple, surprise, belly, horseplay
+Medusa | snakes, hair, stone, gaze, statue, mirror, shield, Perseus, Gorgon, petrify, rock, hiss, look, stony stare
+Pandora | box, open, curiosity, evils, hope, lid, jar, can of worms, peek, unleash, gift, trouble, don't open, first woman
+King Midas | gold, touch, golden, wish, greed, daughter, food, statue, donkey ears, rich, Midas touch, curse, river, glitter
+Icarus | wings, wax, feathers, sun, fly too close, fall, melt, sea, Daedalus, labyrinth, soar, hubris, high
+Prometheus | fire, steal, liver, eagle, chains, rock, titan, torch, gift, punishment, forethought, humanity, clay, spark
+Atlas | shoulders, world, globe, titan, hold up, burden, map, heavy, sky, carry, weight, book of maps, strong, shrug
+Cupid | arrow, bow, love, heart, wings, diaper, cherub, crush, Valentine, aim, smitten, stupid, Psyche, quiver
+The Labyrinth | maze, bull, Minotaur, Theseus, thread, string, horns, Crete, lost, twist, turn, Ariadne, dead end, amazing
+Mount Olympus | gods, peak, throne, nectar, ambrosia, clouds, twelve, feast, summit, heaven, marble, divine, games, lofty
+The Muses | inspiration, nine, poetry, music, dance, amuse, museum, art, Calliope, history, sing, song, amusing
+The Fates | thread, spin, cut, measure, destiny, three sisters, loom, yarn, doom, fortune, tempt, sealed
+Jason and the Argonauts | Golden Fleece, Argo, ship, crew, quest, dragon, Medea, sheep, oar, voyage, sail, clashing rocks, fleece, sailors
+Norse Gods | hammer, thunder, lightning, Asgard, Mjolnir, strong, Thursday, beard, goats, strike, mighty, Viking, nail it, Thor, Odin, ravens, Valhalla, Wednesday, one eye, Loki, trickster, mischief, shapeshift
+Egyptian Gods | Ra, Anubis, Osiris, Isis, Horus, Bastet, sun, falcon, jackal, cat, ankh, Nile, eye of Horus, crocodile
+Roman Gods | Jupiter, Mars, Venus, Mercury, Neptune, Saturn, Pluto, Janus, Vulcan, Minerva, Juno, Bacchus, temple, planets
+Atlantis | lost, sunken, city, ocean, underwater, myth, Plato, island, sink, legend, found, dive, submerged, lost city

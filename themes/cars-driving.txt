@@ -1,72 +1,22 @@
 # Cars & Driving
-Traffic Jams
-Parking Lots
-Parallel Parking
-Road Trips
-Speed Bumps
-Potholes
-Flat Tires
-Spare Tires
-Car Washes
-Gas Stations
-Carpooling
-Driving Tests
-Driving Lessons
-Backseat Drivers
-Navigation Voices
-Detours
-Roundabouts
-Traffic Lights
-Stop Signs
-Yield Signs
-Speeding Tickets
-Traffic Cops
-Seat Belts
-Airbags
-Honking
-Windshield Wipers
-Rearview Mirrors
-Blind Spots
-Cruise Control
-Stick Shifts
-Brakes
-Engines
-Mechanics
-Oil Changes
-Tow Trucks
-Monster Trucks
-Race Cars
-Drag Racing
-Go-Karts
-Convertibles
-Minivans
-Limousines
-Pickup Trucks
-Taxis
-Car Alarms
-Hubcaps
-Bumper Stickers
-Fender Benders
-Locked Out of the Car
-Hitchhikers
-Highway Exits
-Toll Roads
-Rest Stops
-License Plates
-Vanity Plates
-Used Car Lots
-New Car Smell
-Jump Starts
-Valet Parking
-Tailgaters
-Parking Meters
-Crash Test Dummies
-Classic Cars
-Electric Cars
-Self-Driving Cars
-Motorcycles
-Sidecars
-U-Turns
-Merging Lanes
-Rush Hour
-Are We There Yet
+# family: travel
+Automobiles | engine, wheel, brake, horn, hood, trunk, bumper, tire, clutch, muffler, gear, exhaust, fender, steer, park, license plate, vanity plate, registration
+Driving | steer, brake, accelerate, merge, signal, lane, pass, park, reverse, cruise control, speed, turn, yield, backseat driver
+Traffic | jam, gridlock, rush hour, bumper to bumper, honk, merge, lane, crawl, detour, backup, congestion, road rage, standstill
+Road Trips | map, route, detour, rest stop, snacks, motel, playlist, are we there yet, mileage, scenic, pit stop, shotgun, highway
+Parking | spot, meter, lot, garage, valet, tow, ticket, parallel, reverse, space, curb, park it, circle, compact
+Tires | tread, spare, flat, rubber, jack, pressure, blowout, rotation, lug nut, spin, pump, bald, patch, wheel
+Car Engines | motor, piston, horsepower, rev, spark plug, cylinder, oil, fuel, idle, stall, turbo, radiator, V8, tune-up
+Gas Stations | pump, fuel, gallon, premium, unleaded, fill up, tank, nozzle, diesel, pit stop, convenience store, attendant, full service
+Car Washes | soap, suds, rinse, wax, brush, vacuum, dry, shine, spray, detail, sponge, clean, drive-through, towel, windshield, wiper, squeegee
+Highways | lane, exit, ramp, interstate, toll, overpass, merge, mile marker, speed limit, median, shoulder, fast lane, on-ramp
+Traffic Signs | stop, yield, one way, detour, speed limit, merge, dead end, school zone, caution, arrow, crossing, sign language
+Driving Tests | parallel park, license, instructor, permit, three-point turn, pass, fail, examiner, mirror, signal, road test, nervous
+Car Trouble | breakdown, flat tire, jump start, tow truck, stall, overheat, dead battery, check engine, mechanic, smoke, clunk, lemon, winch, impound, flatbed
+Race Cars | pit stop, lap, pole position, checkered flag, finish line, speed, track, driver, crew, rev, turbo, drift, burnout
+Motorcycles | helmet, leather, rev, throttle, kickstand, hog, chopper, ride, wheelie, sidecar, biker, lean, engine, handlebars
+Bicycles | pedal, chain, spoke, gear, brake, bell, seat, handlebar, kickstand, training wheels, tire, ride, cycle, tandem
+Buses | route, stop, fare, seat, driver, transfer, double-decker, school bus, pull cord, schedule, depot, wheels on the bus, express
+Speeding Tickets | radar, fine, officer, pull over, license, registration, speed trap, siren, lights, fast, court, points, ticket book
+Car Dealerships | lot, sticker price, test drive, salesman, lease, trade-in, financing, deal, model, showroom, used car, lemon, new car smell
+Monster Trucks | crush, jump, ramp, wheels, rally, arena, tires, roar, flip, stunt, smash, mud, rev

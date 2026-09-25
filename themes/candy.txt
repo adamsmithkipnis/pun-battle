@@ -1,0 +1,22 @@
+# Candy & Chocolate
+# family: food
+Candy | sweet, sugar, wrapper, lollipop, gum, taffy, licorice, jelly bean, sour, hard, eye candy, sugar rush, kid in a candy store, stick
+Candy Stores | bins, jar, scoop, pick and mix, counter, bag, weigh, sweet shop, penny candy, rainbow, fudge, taffy, bulk, sample
+Chocolate | bar, cocoa, dark, milk, white, truffle, melt, fudge, bonbon, chip, cacao, box, bitter, sweet, chocoholic
+Chocolate Factories | conveyor, wrapper, golden ticket, river, cocoa, mold, temper, melt, vat, assembly line, sample, tour, candy bar, taste test
+Box of Chocolates | assortment, truffle, caramel, nougat, cherry cordial, heart-shaped, Valentine, never know what you're gonna get, bite, guess, lid, ribbon, praline, ganache
+Candy Bars | wrapper, nougat, caramel, peanuts, bite-size, fun size, king size, vending machine, crispy, wafer, snap, peanut butter, split, raise the bar
+Lollipops | lick, stick, swirl, sucker, flavor, dentist, sticky, round, pop, lolly, wrapper, rainbow, spiral, good ship
+Bubble Gum | chew, blow, pop, stick, wrapper, pack, pink, stuck, sticky, gumball, under the desk, flavor, burst, gumball machine
+Jelly Beans | flavor, jar, guess how many, Easter, speckled, buttered popcorn, gourmet, colors, chewy, bag, jelly, magic beans, full of beans, sort
+Gummy Candy | gummy bear, gummy worm, sour, chewy, rings, sharks, fish, stretchy, sugar-coated, bite, bounce, wiggle, vitamin, fruit
+Licorice | red, black, twist, rope, chewy, stick, anise, whip, strand, bite, pull, tangle, braid, lick
+Cotton Candy | fluffy, cloud, spun sugar, cone, stick, pink, blue, fair, carnival, melt, sticky, whirl, fluff, stretch
+Caramel | chewy, sticky, gooey, salted, apple, drizzle, sauce, melt, butterscotch, toffee, corn, stretch, burnt sugar, pull, candy apple, glossy, Snow White
+Fudge | chocolate, rich, dense, square, nuts, hot fudge, fudge it, oh fudge, fudge the numbers, gift box, creamy, vanilla, slab, sweet
+Taffy | pull, stretch, salt water, boardwalk, wrap, twist, chewy, sticky, stuck in teeth, puller, pastel, beach, soft, wax paper
+Marshmallows | fluffy, puffy, s'mores, campfire, roast, stick, toasted, gooey, hot chocolate, mini, squish, chick, cloud, charred
+Mints | peppermint, breath, fresh, cool, wintergreen, tin, after-dinner, spearmint, minty, mint condition, money, strong, curiously, pillow
+Candy Canes | stripe, hook, peppermint, red and white, Christmas tree, crook, lick, sharpen, crush, hang, walking stick, mint, J, spiral
+Hard Candy | crack, layers, suck, jawbreaker, gobstopper, butterscotch, lemon drop, rock candy, tooth, dentist, crunch, wrapper, grandma's purse, dish, crystal, geode, rock on
+Sour Candy | pucker, sour, tart, tangy, sugar-coated, lemon, lime, cherry, zing, citric, sour face, sweet and sour, tingle, extreme

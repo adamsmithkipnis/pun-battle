@@ -1,0 +1,19 @@
+# Meals, Soups & Sandwiches
+# family: food
+Lunch | lunchbox, sandwich, brown bag, lunch break, cafeteria, out to lunch, power lunch, no free lunch, lunch lady, tray, thermos, noon, packed, midday, juice box, latch, note from mom
+Dinner | supper, table, candle, dinner bell, TV dinner, dessert, main course, seconds, family, reservation, dinner date, clean plate, set the table, dine, compartment, frozen, foil tray
+Cafeterias | tray, line, lunch lady, hairnet, table, ladle, food fight, milk carton, tater tots, scoop, plastic fork, pizza Friday, cashier, mystery meat, splat, ammo, detention
+Potlucks | casserole, dish, sign-up sheet, church basement, covered dish, bring, share, luck of the draw, slow cooker, deviled eggs, folding table, serving spoon, variety, pot
+Buffets | all you can eat, plate, sneeze guard, tray, line, seconds, steam table, serving spoon, heap, stack, dessert bar, pile it on, chafing dish, loaded
+Dinner Parties | host, guest, seating chart, place card, centerpiece, candles, wine, courses, toast, RSVP, small talk, dessert, napkin, dinner bell
+Table Manners | napkin, elbows off the table, chew, fork, knife, please pass, excuse me, lap, mouth closed, etiquette, slurp, burp, seat, place setting
+Soup | bowl, spoon, broth, stock, noodle, chicken, tomato, slurp, ladle, souped up, alphabet, cracker, simmer, soup's on, in the soup, chowder, clam, oyster crackers, bread bowl
+Chili | beans, spicy, cook-off, bowl, chili dog, chilly, cold, cheese, onion, hot, simmer, ground beef, cornbread, five-alarm
+Stew | pot, beef, simmer, carrots, potatoes, thick, hearty, stew over it, in a stew, ladle, slow, dumplings, bowl, broth
+Sandwiches | bread, slice, deli, club, sub, hero, wrap, toast, BLT, PB and J, lunch, stack, crust, sandwich board, knuckle sandwich
+Subs | hoagie, hero, grinder, footlong, roll, cold cut, deli, sub shop, submarine, substitute, oil and vinegar, toasted, shredded lettuce, subpar
+Eating | chew, bite, gobble, nibble, munch, chomp, swallow, slurp, devour, graze, wolf down, snack, feast, dine
+Picky Eaters | picky, broccoli, plain pasta, chicken nuggets, separate, touching, crust, texture, no thank you, one bite, dinosaur, ketchup, bribe, dessert
+Wraps | tortilla, roll, fold, tuck, lettuce wrap, burrito, gift wrap, rap, wrapped up, that's a wrap, under wraps, spinach, lunch, toothpick
+Comfort Food | mac and cheese, mashed potatoes, soup, meatloaf, pot roast, grilled cheese, cozy, hug in a bowl, mom's, warm, pajamas, carbs, blanket, nostalgia
+Diets | calorie, cheat day, carbs, keto, salad, portion, scale, pounds, low-fat, fad, willpower, resolution, lean, counting, vitamin, protein, food pyramid

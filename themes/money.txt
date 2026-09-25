@@ -1,0 +1,26 @@
+# Money and Banking
+# family: work
+Money | cash, dough, bread, bucks, loot, moolah, green, bills, coins, wallet, rich, spend, penny, bank, fund
+Banks | deposit, withdraw, teller, vault, account, interest, loan, branch, river bank, bank on it, break the bank, savings, ATM, drive-thru, statement, PIN, fast cash, out of order
+Coins | penny, nickel, dime, quarter, heads, tails, flip, mint, change, coin a phrase, toss, jar, slot, currency, penny for your thoughts, pinch pennies, the penny drops, a pretty penny, lucky penny
+Pennies | cent, copper, penny for your thoughts, pinch pennies, penny pincher, lucky penny, a pretty penny, the penny drops, Lincoln, jar, worthless, find a penny, sense
+Dollar Bills | buck, greenback, Washington, cash, note, dollar sign, bet your bottom dollar, feel like a million, dollar store, top dollar, single, one
+Credit Cards | swipe, chip, tap, charge, debt, limit, interest, balance, minimum payment, credit score, plastic, declined, points, cash back
+Checks | write, sign, bounce, cash, deposit, memo, checkbook, blank check, check please, rain check, reality check, check out, void, checkmate
+Piggy Banks | pig, oink, slot, save, coins, break, smash, hog, porky, snout, savings, pennies, curly tail, bring home the bacon
+Saving | nest egg, rainy day, frugal, thrift, stash, piggy bank, budget, save up, penny pincher, coupon, squirrel away, emergency fund, cheap, interest
+Loans | borrow, lend, interest, pay back, mortgage, credit, owe, IOU, loan shark, debt, collateral, term, approve, co-sign
+Taxes | tax return, refund, deduction, April, audit, bracket, file, write-off, accountant, receipts, taxing, sales tax, taxi, form
+Budgets | spreadsheet, spend, save, cut, tight, allowance, balance, expenses, income, stretch, envelope, bottom line, on a budget, budge, chores, pocket money
+Tipping | gratuity, jar, waiter, fifteen percent, round up, tip-top, tip off, tip of the iceberg, tipsy, service, change, tip jar, bill, cow tipping
+The Stock Market | bull, bear, shares, invest, dividend, crash, rally, broker, portfolio, ticker, trade, Wall Street, bond, IPO
+Bargain Hunting | deal, steal, sale, discount, haggle, markdown, clearance, bargain bin, cheap, knockoff, half price, two for one, price tag, thrift, coupon, clip, BOGO, redeem, expire
+Coupons | clip, discount, save, deal, expire, extreme, bargain, barcode, BOGO, redeem, cut out, circular, cents off, fine print
+Pawn Shops | gold chain, chess, loan, hock, ticket, pledge, jewelry, guitar, appraise, collateral, broker, redeem, haggle, pawn off
+Being Rich | wealthy, loaded, fortune, mansion, yacht, filthy rich, rolling in it, well off, moneybags, diamonds, caviar, deep pockets, gold
+Being Broke | poor, penniless, strapped, busted, flat broke, can't afford, ramen, IOU, bankrupt, short, dime, empty wallet, in the red, break
+Economics | supply, demand, market, GDP, recession, inflation, scarce, trade, invisible hand, price, economy, growth, boom, bust
+Inflation | balloon, inflate, prices, rise, pump, puff, deflate, dollar, cost of living, bubble, air, blow up, expand, hot air
+Cash Registers | ring up, drawer, ka-ching, till, cashier, receipt, change, scan, total, sale, open drawer, key, no sale
+Auctions | bid, gavel, auctioneer, going once, sold, lot, paddle, highest bidder, fast talk, reserve, antique, bidding war, raise, starting price, opening bid, estate
+Insurance | policy, premium, claim, deductible, coverage, agent, cover, risk, home, car, accident, insure, fine print, safety net

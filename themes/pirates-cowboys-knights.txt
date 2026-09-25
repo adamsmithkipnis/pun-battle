@@ -1,0 +1,21 @@
+# Pirates, Knights & the Wild West
+# family: history-fantasy
+Pirates | arr, ahoy, matey, plank, parrot, peg leg, eye patch, treasure, hook, cutlass, booty, plunder, Jolly Roger, crow's nest, grog
+Pirate Ships | plank, mast, sail, deck, crow's nest, cannon, hull, galleon, flag, anchor, stern, bow, brig, poop deck
+Buried Treasure | chest, map, X marks the spot, dig, gold, doubloon, jewel, loot, shovel, bury, island, booty, fortune, pieces of eight
+Knights | armor, sword, shield, lance, joust, steed, squire, quest, chivalry, sir, dragon, crest, helmet, knighthood, tilt, tournament, unseat, list, visor, chain mail, gauntlet, clank, knight in shining armor
+Jousting | lance, knight, horse, charge, knock, armor, tournament, shield, tilt, list, gallop, match, unseat
+Swords | blade, hilt, sheath, sharp, steel, duel, fence, point, edge, cut, slash, parry, sword fight, forge
+Catapults | launch, fling, hurl, siege, wall, boulder, trebuchet, sling, range, fire, projectile, ammo, aim
+The Wild West | saloon, sheriff, outlaw, cowboy, horse, lasso, stagecoach, gold rush, frontier, desert, tumbleweed, showdown, wanted, spurs
+Cowboys | lasso, spurs, saddle, boots, hat, ranch, cattle, rodeo, howdy, yeehaw, trail, rope, wrangle, bronco
+Rodeos | bull, bronco, buck, lasso, rope, barrel racing, clown, cowboy, ride, saddle, arena, eight seconds, steer
+Sheriffs | badge, star, deputy, jail, posse, law, outlaw, wanted poster, holster, draw, marshal, town, showdown, high noon, quick draw, standoff, duel
+Saloons | swinging doors, bar, piano, card game, bartender, whiskey, sarsaparilla, stool, brawl, poker, spittoon, dance hall
+Outlaws | bandit, wanted, reward, hideout, gang, bank robbery, posse, jail, rustler, hold-up, masked, most wanted
+Gold Rush | pan, nugget, claim, prospector, mine, strike, pickaxe, vein, boom, rush, fortune, fool's gold, stake
+Ghost Towns | abandoned, tumbleweed, dust, empty, deserted, saloon, haunted, creak, boarded up, silence, ruins, relic
+Ninjas | stealth, throwing star, sword, shadow, kick, sneak, silent, dojo, disguise, vanish, chop, mask, smoke bomb, black belt
+Covered Wagons | trail, oxen, pioneer, wheel, canvas, circle the wagons, frontier, dust, settle, ford, bumpy, westward, hitch, stagecoach, express, reins, bandit
+Musketeers | musket, sword, all for one, hat, plume, duel, guard, king, cape, swashbuckle, boots, en garde, three
+Cannons | boom, fire, cannonball, fuse, blast, powder, load, aim, recoil, barrel, loose cannon, salute, fire away

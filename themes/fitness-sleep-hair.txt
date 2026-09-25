@@ -1,0 +1,27 @@
+# Fitness, Sleep & Hair
+# family: body
+The Gym | membership, locker room, treadmill, weights, bench, spotter, reps, sets, sweat, towel, trainer, gym rat, pump, flex, no excuses, one more, motivate
+Weightlifting | barbell, dumbbell, bench press, squat, deadlift, rep, set, spot, plate, bar, clean and jerk, lift, max, bulk
+Yoga | pose, mat, stretch, downward dog, breathe, namaste, flexible, balance, warrior, cobra, lotus, zen, bend, tree pose
+Stretching | reach, bend, limber, flexible, toe touch, loosen, warm up, pull, extend, split, lunge, yawn, cool down
+Aerobics | step, kick, jump, leotard, leg warmers, cardio, routine, grapevine, instructor, pump up, sweat, beat, bounce
+Jogging | pace, trot, stride, trail, mile, lap, sneakers, jog your memory, run, breath, sweat, route, early morning, treadmill, incline, hamster wheel, going nowhere
+Workouts | sweat, burn, reps, sets, circuit, interval, warm-up, cool-down, core, cardio, abs, leg day, crunch, grind, push-up, plank, drop and give me twenty
+Jump Ropes | skip, jump, rope, double dutch, twirl, rhythm, trip, hop, turn, rhyme, handle, jump in, whip
+Bodybuilders | flex, pose, bulk, protein, tan, muscle, ripped, cut, pump, oil, stage, competition, beefcake, shredded
+Sleep | nap, doze, snooze, snore, dream, pillow, blanket, bedtime, yawn, rest, slumber, drift off, nod off, shut-eye, forty winks, saw logs, earplugs
+Dreams | nightmare, daydream, fantasy, vision, sleep, REM, lucid, wake, dream job, pipe dream, sweet dreams, dream on, surreal
+Pillows | fluff, feather, down, case, pillow fight, pillow talk, soft, sham, throw pillow, cushion, stuffing, plump, fluffy
+Blankets | quilt, comforter, duvet, throw, cover, wool, tuck in, cozy, fleece, security blanket, wet blanket, snuggle, warm
+Bedtime | tuck in, story, lullaby, pajamas, lights out, night-light, brush teeth, glass of water, one more story, sleepy, bedtime routine, curfew
+Haircuts | trim, snip, buzz, fade, bangs, layers, bob, shave, clippers, cut, part, shear, split ends, bowl cut
+Hairstyles | ponytail, braid, bun, bangs, mullet, mohawk, pompadour, bob, pigtails, curls, updo, afro, perm, cornrow
+Hair Salons | stylist, chair, blow-dry, dye, highlights, perm, shampoo, rinse, curler, dryer, appointment, gossip, cut, mirror
+Beards | whisker, stubble, mustache, goatee, sideburns, shave, trim, bristle, fuzz, razor, comb, scruff, beard oil
+Shaving | razor, lather, foam, blade, stubble, nick, smooth, shave cream, close shave, clean-shaven, mirror, strop, trim
+Bad Hair Days | frizz, cowlick, tangle, bed head, knot, static, flat, messy, humidity, hat, wild, snarl, flyaway
+Combs and Brushes | bristle, teeth, knot, tooth, tangle, part, detangle, fine-tooth comb, stroke, handle, sweep, groom
+Hair Products | gel, mousse, hairspray, shampoo, conditioner, pomade, wax, serum, dye, lather, rinse, repeat, hold
+Wigs | toupee, hairpiece, rug, extension, bald, cap, costume, flip, disguise, curly, powder, fake, glue
+Mattresses | spring, firm, soft, memory foam, pillow top, sag, flip, bed, box spring, lumpy, test, sleep on it, lie
+Walking | stroll, stride, pace, step, march, hike, amble, saunter, wander, trot, power walk, pedometer, walk it off, sidewalk

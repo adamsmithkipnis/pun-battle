@@ -1,0 +1,24 @@
+# Theater and Comedy
+# family: arts
+Broadway | lights, marquee, show, tickets, curtain, hit, musical, stage door, big break, understudy, Great White Way, matinee, smash, show-stopper
+Musicals | song and dance, number, showstopper, chorus line, jazz hands, belt, overture, finale, kick line, reprise, encore, ensemble, book, score
+Shakespeare | to be or not to be, bard, sonnet, quill, globe, tragedy, Romeo, Hamlet, Macbeth, thou, forsooth, all the world's a stage, much ado, wherefore, balcony, star-crossed, wherefore art thou, sweet sorrow, Juliet
+Romeo and Juliet | balcony, wherefore art thou, star-crossed, Montague, Capulet, rose by any other name, sweet sorrow, nurse, feud, Verona, love, kiss, young love
+Stage Fright | nerves, butterflies, freeze, sweat, jitters, blank, forget lines, shake, cue, spotlight, dry mouth, panic, break a leg, knees
+Auditions | callback, casting, monologue, headshot, cold read, try out, role, part, sixteen bars, next, director, nerves, cast list, don't call us
+Rehearsals | run-through, dress rehearsal, blocking, lines, cue, run lines, notes, tech week, take it from the top, again, practice, script, director, mark
+Opening Night | premiere, curtain, debut, jitters, flowers, critics, review, sold out, champagne, first night, cast party, bouquet, standing ovation
+Curtain Calls | bow, applause, encore, bravo, standing ovation, flowers, final bow, take a bow, roses, cheers, clap, drop, rise
+Backstage | wings, green room, dressing room, stagehand, props, crew, costume, pass, cue, quick change, fly space, ropes, star on the door, mirror
+Set Design | flat, backdrop, scenery, props, paint, trapdoor, turntable, wings, flies, build, set piece, drop
+Stage Lighting | spotlight, limelight, gel, dimmer, footlights, blackout, cue, follow spot, fade, wash, glow, center stage, beam, in the spotlight
+Actors | role, cast, lines, method, star, ham, typecast, extra, cue, improv, understudy, scene stealer, character, lead, act up
+Improv | yes and, scene, suggestion, make it up, on the spot, bit, riff, ad-lib, wing it, game, troupe, callback, freeze, character
+Stand-Up Comedy | punchline, set, mic, bit, heckle, joke, crowd work, bomb, kill, open mic, one-liner, deadpan, timing, callback, stool
+Puppet Shows | strings, marionette, sock, hand, pull strings, ventriloquist, dummy, stage, Punch and Judy, felt, googly eyes, voice, puppeteer, curtain, throw your voice, gottle of geer, lap
+Ventriloquists | dummy, throw your voice, lips, knee, puppet, gottle of geer, sidekick, mouth, talk back, act, voice, wooden, lap
+Mimes | invisible box, silent, white face, beret, striped shirt, rope, wall, gesture, pantomime, lean, trapped, no words, mime your own business
+Greek Theater | chorus, mask, amphitheater, tragedy, comedy, drama, Oedipus, stage, deus ex machina, catharsis, hero, fate, Dionysus, satyr
+Community Theater | amateur, local, hall, volunteer, bake sale, understudy, costumes, cast party, church, gym, fundraiser, ham, small town
+The Audience | usher, seat, program, intermission, shush, applause, box, balcony, mezzanine, ticket, curtain, orchestra seat, standing room, phones off
+Stage Directions | upstage, downstage, stage left, exit, enter, pursued by a bear, cross, wings, center, blocking, cue, beat, aside, mark

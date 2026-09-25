@@ -1,70 +1,26 @@
 # World Cuisine
-Tacos
-Burritos
-Enchiladas
-Quesadillas
-Tamales
-Sushi
-Ramen
-Tempura
-Dumplings
-Dim Sum
-Fried Rice
-Egg Rolls
-Spring Rolls
-Pad Thai
-Curry
-Tikka Masala
-Samosas
-Biryani
-Falafel
-Kebabs
-Gyros
-Paella
-Tapas
-Pierogi
-Goulash
-Schnitzel
-Bratwurst
-Sauerkraut
-Haggis
-Ratatouille
-Poutine
-Jollof Rice
-Injera
-Bibimbap
-Kimchi
-Bulgogi
-Korean Barbecue
-Teriyaki
-Satay
-Empanadas
-Arepas
-Ceviche
-Moussaka
-Spanakopita
-Dolmas
-Shawarma
-Couscous
-Tagine
-Mexican Food
-Chinese Takeout
-Indian Food
-Thai Food
-Greek Food
-French Cuisine
-Street Food
-Fortune Cookies
-Chopsticks
-Bento Boxes
-Hot Pot
-Peking Duck
-Mole Sauce
-Pupusas
-Jerk Chicken
-Things at a Night Market
-A Dumpling's World Tour
-Lumpia
-Tandoori
-Wontons
-Risotto
+# family: food
+Mexican Food | taco, burrito, salsa, guacamole, nacho, enchilada, tamale, quesadilla, churro, tortilla, queso, fiesta, spicy, jalapeno, mole, wrap, smothered, foil
+Tacos | shell, hard, soft, tortilla, salsa, cheese, lettuce, Tuesday, truck, fold, crunch, spill, fish, taco 'bout it
+Chinese Takeout | fortune cookie, chopsticks, egg roll, lo mein, fried rice, wonton, soy sauce, takeout box, delivery, dumplings, orange chicken, sweet and sour, menu, leftovers, lucky numbers, crack, paper, wisdom
+Fortune Cookies | fortune, lucky numbers, crack, paper, wisdom, predict, message, folded, crunch, future, destiny, prophecy, slip
+Dumplings | dough, fold, pleat, steam, pan-fried, pot sticker, wonton, dim sum, pierogi, gyoza, filling, dip, bamboo, plump, bamboo steamer, cart, pork bun, dim, lazy susan
+Sushi | roll, rice, raw, fish, seaweed, wasabi, soy sauce, chopsticks, ginger, salmon, tuna, conveyor belt, nori, raw deal
+Indian Food | curry, naan, samosa, tikka masala, tandoori, chai, spice, lentils, chutney, rice, biryani, masala, buffet, butter chicken, curry favor, coconut, simmer, hot
+Curry | spice, hot, mild, rice, naan, coconut, yellow, green, red, sauce, stew, curry favor, turmeric, simmer
+Thai Food | pad thai, curry, peanut, noodle, lemongrass, coconut milk, basil, spicy, sticky rice, tom yum, mango, lime, satay, heat
+Korean Food | kimchi, bulgogi, bibimbap, grill, barbecue, gochujang, rice, banchan, spicy, fermented, pancake, Seoul food, noodles, stone bowl
+Greek Food | gyro, feta, olive, pita, hummus, tzatziki, souvlaki, baklava, oregano, lemon, grape leaves, moussaka, opa, Greek salad
+French Food | croissant, baguette, cheese, wine, snail, crepe, souffle, bistro, chef, butter, sauce, bon appetit, gourmet, champagne
+German Food | bratwurst, pretzel, sauerkraut, schnitzel, strudel, beer, mustard, potato salad, wurst, sausage, dumpling, stein, Oktoberfest, black forest
+Tapas | small plates, share, olive, chorizo, paella, sangria, Spain, bar, bite, croquette, toothpick, patatas bravas, graze, jamon
+Southern Food | biscuits, gravy, fried chicken, collards, grits, cornbread, sweet tea, okra, mac and cheese, pecan pie, hush puppies, catfish, y'all, bless your heart
+Cajun Food | gumbo, jambalaya, crawfish, spicy, roux, bayou, cayenne, boil, andouille, beignet, New Orleans, okra, Mardi Gras, hot sauce
+Street Food | cart, vendor, skewer, stall, night market, on the go, taco, hot dog, pretzel, dumpling, sidewalk, handheld, grill, cash only, pho, banh mi, noodle cart
+Japanese Food | sushi, ramen, tempura, miso, teriyaki, bento, wasabi, udon, sake, mochi, edamame, soy, chopsticks, matcha, slurp, instant, college
+Ramen | broth, slurp, bowl, egg, pork, chopsticks, instant, cup, college, packet, miso, steam, spicy, flavor packet
+Hawaiian Food | poke, poi, luau, pineapple, plate lunch, shave ice, macadamia, kalua pig, loco moco, aloha, lei, coconut, huli huli, island
+Middle Eastern Food | hummus, falafel, pita, shawarma, tahini, kebab, baklava, tabbouleh, za'atar, lentils, dates, mezze, olive, pomegranate
+Caribbean Food | jerk chicken, plantain, rice and peas, coconut, rum, mango, curry goat, island, spice, patty, Jamaica, callaloo, hot sauce, conch
+Tex-Mex | fajitas, sizzle, queso, chili con carne, nachos, chips, salsa, margarita, Texas, combo plate, refried beans, cheese, tortilla, skillet
+British Food | fish and chips, tea, scones, crumpets, bangers and mash, pudding, beans on toast, pie, roast, jolly good, pub, trifle, chips, biscuits

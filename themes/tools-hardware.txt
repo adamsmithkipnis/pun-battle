@@ -1,61 +1,22 @@
 # Tools & Hardware
-Tools
-Hammers
-Nails
-Screws
-Screwdrivers
-Wrenches
-Pliers
-Saws
-Chainsaws
-Drills
-Power Tools
-Toolboxes
-Tool Belts
-Tape Measures
-Levels
-Sandpaper
-Chisels
-Clamps
-Vises
-Nuts and Bolts
-Washers
-Hinges
-Duct Tape
-Glue
-Crowbars
-Mallets
-Axes
-Ladders
-Sawhorses
-Workbenches
-Handymen
-DIY Projects
-Home Repairs
-Swiss Army Knives
-Multi-Tools
-Staple Guns
-Soldering Irons
-Wire Cutters
-Utility Knives
-Stud Finders
-Caulk
-Putty
-Pegboards
-Rivets
-Anvils
-Things at a Hardware Store
-A Hammer's Pet Peeves
-Measure Twice Cut Once
-Loose Screws
-Jigsaws
-Sledgehammers
-Wood Planes
-Pocket Knives
-Paint Scrapers
-Zip Ties
-Bungee Cords
-Socket Sets
-Tool Sheds
-Nail Guns
-Hex Keys
+# family: home
+Tools | hammer, saw, drill, wrench, pliers, screwdriver, level, chisel, clamp, vise, file, toolbox, tool belt, sander, tool chest, kit, socket set, multi-tool, pocketknife, corkscrew, tape measure, measure twice, size up
+Tape Measures | inch, foot, yard, tape, measure, retract, snap, hook, length, ruler, reel, clip, lock, size up
+Hammers | nail, claw, pound, strike, head, handle, mallet, sledgehammer, hit the nail on the head, bang, tack, hammer home, gavel, peen
+Nails | hammer, head, point, tack, pin, spike, brad, nail it, tough as nails, hard as nails, nail down, bent, pry, nail-biter
+Screws | thread, head, twist, turn, bolt, screwdriver, Phillips, flathead, loose screw, screw up, strip, tighten, anchor, countersink
+Nuts and Bolts | washer, thread, wrench, tighten, loosen, hex, lug, fasten, bolt upright, bolt out the door, nutty, go nuts, lock, basics
+Wrenches | spanner, socket, torque, grip, twist, turn, monkey wrench, adjustable, lug, ratchet, pipe, gut-wrenching, tighten, loosen
+Saws | blade, teeth, cut, hacksaw, jigsaw, chainsaw, sawdust, circular, rip, crosscut, seesaw, handsaw, buzz, sawhorse
+Drills | bit, chuck, bore, hole, drill down, cordless, spin, torque, drill sergeant, fire drill, power drill, drive, whir, driller
+Power Tools | drill, sander, jigsaw, circular saw, router, nail gun, grinder, cord, battery, plug, trigger, buzz, horsepower, charge
+Levels | bubble, plumb, straight, even, flat, true, spirit, level with me, level up, level-headed, on the level, balance, tilt, laser
+Glue | stick, adhesive, paste, super glue, tacky, bond, epoxy, glue gun, gum, stuck, seal, set, bind, gluten, duct tape, patch, tape
+Duct Tape | tape, roll, patch, fix, silver, sticky, wrap, mend, rip, seal, bind, strip, stick, all-purpose
+Ladders | rung, step, climb, rail, stepladder, extension, top, fall, corporate ladder, reach, footing, ladder-back, height, social climber
+Axes | blade, chop, handle, split, hatchet, swing, grind, axe to grind, woodpile, head, cleave, lumberjack, fell, get the axe
+Workshops | workbench, vise, sawdust, clamp, bench, pegboard, shop, project, apron, jig, goggles, shop class, build, sand, sandpaper, grit, coarse, rough
+Hardware Stores | aisle, paint, bolt, screw, key cutting, lumber, nails, rope, chain, pipe, bulb, hinge, doorknob, fixture
+Home Repairs | fix, patch, leak, caulk, repair, replace, loose, tighten, spackle, drip, squeak, crack, handyman, to-do list, do it yourself, handmade, hack, kit
+Rope and Knots | knot, tie, loop, tangle, twine, cord, lasso, fray, rope in, learn the ropes, on the ropes, slipknot, hitch, slack
+Chains | link, padlock, chain reaction, chain mail, chain letter, anchor, shackle, bike chain, weakest link, yank my chain, unchain, lock, heavy, jewelry

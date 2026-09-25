@@ -63,6 +63,18 @@ def check_repeat_days(days: int) -> int:
 THEME_REPEAT_DAYS = check_repeat_days(
     int(os.environ.get("THEME_REPEAT_DAYS", "120")))
 
+# Mashup rounds: two topics from different families, one pun must cover
+# both ("DENTISTRY + GEOLOGY"). About one round in four, and at least
+# MASHUP_MIN_GAP solo rounds between two mashups. Harder than a solo topic,
+# which is why they are a seasoning rather than the meal.
+MASHUP_RATE = float(os.environ.get("MASHUP_RATE", "0.25"))
+MASHUP_MIN_GAP = int(os.environ.get("MASHUP_MIN_GAP", "1"))
+
+# A topic does not reappear in any form — alone or as half of a mashup —
+# within this many days, so "Coffee" can't return a week later as
+# "Coffee + Knitting". (Identical themes are still held to the 90-day floor.)
+COMPONENT_SPACING_DAYS = int(os.environ.get("COMPONENT_SPACING_DAYS", "30"))
+
 # Local hour whose post also carries the all-time top three, once a day.
 LEADERBOARD_HOUR = int(os.environ.get("LEADERBOARD_HOUR", "12"))
 

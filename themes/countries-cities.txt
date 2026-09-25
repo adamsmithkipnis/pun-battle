@@ -1,0 +1,34 @@
+# Countries & World Cities
+# family: travel
+France | Paris, Eiffel Tower, beret, croissant, baguette, oui, bonjour, Louvre, Riviera, mime, French kiss, pardon my French, Napoleon, champagne, Bastille, Seine, city of love, Montmartre, Notre Dame
+Italy | Rome, Venice, gondola, pasta, pizza, espresso, Vespa, Leaning Tower, boot, gelato, opera, Colosseum, Tuscany, ciao, mamma mia
+Ireland | shamrock, luck of the Irish, green, Dublin, leprechaun, Emerald Isle, pub, jig, Blarney Stone, gift of gab, potato, fiddle, clover, cliffs, lass
+Scotland | kilt, bagpipes, Loch Ness, haggis, tartan, plaid, Highlands, Edinburgh, golf, castle, thistle, Scotch, wee, Nessie, bonnie
+England | London, tea, crumpet, queue, Big Ben, cheerio, Tube, rain, knight, castle, pub, crown, bobby, bloke, mind the gap, Thames, double-decker, Buckingham Palace, Cockney
+Germany | Oktoberfest, pretzel, bratwurst, lederhosen, Berlin, autobahn, beer stein, Black Forest, Munich, polka, sauerkraut, Rhine, gesundheit, Deutsch, castle
+Spain | Madrid, Barcelona, flamenco, paella, siesta, fiesta, Don Quixote, tapas, castanets, guitar, olé, Seville, sangria, matador, rain in Spain
+Switzerland | Swiss cheese, chocolate, watch, neutral, Alps, yodel, bank, cuckoo clock, army knife, Geneva, Zurich, ski, Matterhorn, holey, fondue
+The Netherlands | windmill, tulip, clog, canal, bicycle, Amsterdam, going Dutch, dike, wooden shoes, Gouda, Holland, double Dutch, Dutch oven, low
+Japan | sushi, samurai, ninja, Tokyo, Mount Fuji, bullet train, karaoke, origami, haiku, cherry blossom, kimono, sumo, zen, rising sun, anime
+Canada | eh, maple, moose, hockey, sorry, Mountie, Toronto, Ontario, Yukon, Nunavut, loonie, toque, poutine, Quebec, Great White North
+Australia | kangaroo, koala, outback, down under, Sydney, Melbourne, boomerang, mate, g'day, reef, barbie, Aussie, bush, didgeridoo, dingo
+China | Great Wall, panda, dragon, kung fu, chopsticks, dim sum, Beijing, tea, silk, porcelain, lantern, Yangtze, Shanghai, fine china, bull in a china shop
+India | Taj Mahal, curry, Bollywood, cricket, sari, yoga, chai, Mumbai, elephant, spice, Ganges, sitar, naan, Delhi, monsoon
+Brazil | Rio, samba, carnival, soccer, Amazon, beach, coffee, Portuguese, bossa nova, capoeira, rainforest, Copacabana, Brazil nut, Sugarloaf, Christ the Redeemer
+Mexico | Mexico City, Cancun, mariachi, piñata, taco, salsa, Aztec, Maya, fiesta, Day of the Dead, sombrero, guacamole, churro, lucha libre, pyramid
+Scandinavia | Vikings, fjord, meatball, sauna, Norway, Sweden, Denmark, Finland, northern lights, hygge, herring, midnight sun, Oslo, Stockholm, Copenhagen
+Greece | Athens, Santorini, feta, olive, gyro, islands, Acropolis, it's all Greek to me, grease, marathon, blue domes, plate smashing, opa, yogurt, ouzo
+Wales | whales, sheep, dragon, Cardiff, leek, choir, castle, Welsh, rarebit, rugby, valleys, daffodil, Snowdon, sing, coal
+New Zealand | kiwi, sheep, Auckland, Wellington, bungee jumping, haka, Maori, volcano, geyser, fern, Southern Alps, glowworm, pavlova, fjord, down under
+Peru | Machu Picchu, llama, Andes, Lima, Inca, alpaca, quinoa, Cusco, Nazca lines, ceviche, poncho, Amazon, Lake Titicaca, peru-se
+Iceland | volcano, geyser, glacier, northern lights, Reykjavik, hot spring, Blue Lagoon, puffin, Vikings, ice, midnight sun, saga, lava field, frozen
+Venice | canal, gondola, gondolier, bridge, sinking, Carnival mask, lagoon, Rialto, Grand Canal, Merchant of Venice, glass, St. Mark's, pigeon, Venetian blinds, water taxi
+Istanbul | Constantinople, turkey, kebab, bazaar, Turkish delight, carpet, Turkish coffee, Bosphorus, Turkish bath, baklava, Cappadocia, hot air balloon, gobble, evil eye
+Portugal | Lisbon, Porto, port wine, custard tart, fado, tiles, Algarve, sardines, explorers, cork, Portuguese, navigator, tram, port
+Morocco | Marrakesh, Casablanca, souk, tagine, fez, mint tea, Sahara, riad, camel, bazaar, Atlas Mountains, spices, lantern, mosaic
+Jamaica | reggae, Kingston, jerk, bobsled, ya mon, Blue Mountain coffee, Montego Bay, Negril, steel drum, patois, ackee, did ya make her, no problem, beach
+Argentina | tango, Buenos Aires, steak, gaucho, Patagonia, Andes, pampas, empanada, soccer, Evita, don't cry for me, mate, Iguazu Falls, silver
+Poland | polish, Warsaw, Krakow, pierogi, polka, pole, kielbasa, Chopin, amber, Baltic, Vistula, dumpling, nail polish
+Belgium | waffles, chocolate, fries, Brussels, sprouts, beer, lace, Antwerp, Bruges, diamonds, comic strips, detective, praline, Flemish
+Hungary | hungry, famished, Budapest, goulash, paprika, Danube, thermal baths, Buda, Pest, chimney cake, spa, Hungarian dance, starving
+Chile | chilly, chili, Santiago, Andes, Atacama, Easter Island, wine, Patagonia, long and thin, penguins, empanada, Pacific, copper, cold

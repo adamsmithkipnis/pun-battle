@@ -1,0 +1,23 @@
+# Books and Reading
+# family: arts
+Libraries | shelf, stacks, librarian, card, check out, due date, overdue, fine, shh, Dewey, return, borrow, catalog, quiet, reference
+Bookstores | shelf, browse, bestseller, bargain bin, cafe, cover, paperback, new release, signing, used, aisle, section, gift card, bookmark
+Bookworms | read, page-turner, devour, curl up, bookmark, glasses, spine, can't put it down, library card, novel, nose in a book, chapter, hungry
+Book Clubs | discuss, wine, host, pick, chapter, read, snacks, meeting, members, opinion, theme, spoiler, monthly, didn't finish
+Novels | plot, chapter, character, twist, page, spine, cover, fiction, protagonist, epilogue, novelist, trilogy, novel idea, prose
+Mystery Novels | whodunit, clue, sleuth, red herring, butler, alibi, suspect, motive, detective, twist, locked room, magnifying glass, plot, case closed
+Romance Novels | swoon, bodice, heartthrob, kiss, passion, love interest, happily ever after, cover model, flowing shirt, meet-cute, forbidden, sweep off feet, chemistry, heaving
+Poetry | verse, rhyme, stanza, meter, sonnet, haiku, ode, limerick, couplet, free verse, muse, line, poetic license, iambic, there once was, Nantucket, AABBA
+Comic Books | panel, speech bubble, superhero, cape, issue, pow, bam, splash page, ink, villain, sidekick, origin, collector, mint condition
+Picture Books | bedtime story, rhyme, crayon, illustration, board book, pop-up, read aloud, lift the flap, story time, moral, talking animals, big letters, the end
+Audiobooks | narrator, listen, earbuds, commute, chapter, voice, speed, rewind, fall asleep, headphones, spoken word, audio, performance, abridged
+Parts of a Book | spine, cover, jacket, chapter, page, index, glossary, preface, prologue, epilogue, footnote, appendix, table of contents, dedication
+Writers | author, pen, quill, draft, writer's block, deadline, manuscript, typewriter, muse, pen name, ghostwriter, byline, inspiration, write off
+Publishing | publish, print, press, edition, editor, manuscript, deal, advance, royalty, imprint, bestseller, rejection, proof, release
+Famous Authors | Dickens, Poe, Twain, Austen, Wilde, Tolstoy, Hemingway, Frost, Swift, Woolf, Shelley, Bronte, Chaucer, Homer
+Sherlock Holmes | elementary, Watson, deerstalker, pipe, magnifying glass, Baker Street, deduce, clue, sleuth, violin, Moriarty, the game is afoot, mystery, case
+Moby Dick | whale, Ahab, white, harpoon, call me Ishmael, obsession, captain, sea, peg leg, voyage, Pequod, thar she blows, blubber
+Newspapers | headline, press, column, scoop, ink, print, deadline, editor, byline, front page, extra extra, paperboy, crossword, comics, issue
+Diaries | dear diary, lock, key, secret, entry, journal, confess, crush, pen, daily, memoir, chronicle, page, private
+Storytelling | once upon a time, plot, character, moral, the end, twist, beginning, middle, narrator, tale, tell, spin a yarn, cliffhanger, arc
+Encyclopedias | volume, A to Z, reference, facts, knowledge, set, door-to-door, entry, look up, know-it-all, heavy, index, leather-bound, article

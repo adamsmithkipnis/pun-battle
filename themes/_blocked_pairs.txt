@@ -1,0 +1,2 @@
+# Mashup pairs that read badly together, one per line: "Topic A + Topic B".
+# Order doesn't matter. The picker never pairs these; they can still run solo.

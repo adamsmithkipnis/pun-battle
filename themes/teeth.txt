@@ -1,0 +1,14 @@
+# Teeth and Dentists
+# family: body
+Dentists | drill, floss, cavity, filling, checkup, open wide, chair, x-ray, plaque, rinse, spit, bite, novocaine, crown, root canal, hygienist, fulfilling, pie filling, silver, numb
+Teeth | bite, chew, molar, canine, incisor, fang, sweet tooth, long in the tooth, grit, gnash, chomp, cut your teeth, pearly whites, toothy grin
+Braces | brackets, wire, rubber bands, headgear, orthodontist, metal mouth, retainer, straighten, tighten, brace yourself, align, overbite, track, bite
+Toothbrushes | bristle, brush, electric, brush up, handle, head, twice a day, toothpaste, rinse, scrub, soft, brush off, spin, cup, tube, squeeze, minty, fluoride, cut and paste
+Dental Floss | string, between, dance, pick, thread, waxed, gums, string along, mint, loop, gap, tangle, snap
+The Tooth Fairy | pillow, quarter, coin, wings, lost tooth, wand, sparkle, magic, wiggle, gap, money, fairy dust, under the pillow, gap-toothed grin
+Smiles | grin, beam, cheese, smirk, teeth, dimples, say cheese, crack a smile, ear to ear, pearly whites, wink, happy, toothy, smile lines
+Wisdom Teeth | wise, pull, extract, swollen, chipmunk cheeks, ice cream, jaw, impacted, molar, surgery, recovery, gauze, loopy
+Dentures | false teeth, glass, fake, bridge, plate, adhesive, grandpa, click, slip, chatter, clack, soak, set
+Bad Breath | halitosis, garlic, morning breath, mint, stink, onion, dragon breath, gum, gargle, pee-yew, odor, whiff, fresh, coffee, mouthwash, rinse, swish, minty
+Gums | bubble gum, gumshoe, gumdrop, chew, pink, recede, gummy, gum up the works, sticky, chewing gum, gingivitis, gum line
+Jaws | jawbreaker, jaw drop, jawline, chin, bite, lockjaw, chomp, shark, chew, hinge, clench, jabber, jawbone

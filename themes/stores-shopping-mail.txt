@@ -1,0 +1,29 @@
+# Stores, Shopping & Mail
+# family: work
+Stores | aisle, shelf, stock, checkout, clerk, sale, open, closed, register, bag, receipt, discount, storefront, browse, price tag, markdown, barcode, pricey
+Shopping Malls | food court, escalator, fountain, anchor store, parking lot, kiosk, window shopping, mall rat, directory, you are here, outlet, strip, moving stairs, step up, handrail, just looking, display
+Department Stores | floor, perfume counter, escalator, menswear, housewares, mannequin, fitting room, clearance, catalog, credit card, gift wrap, elevator, dummy, pose, stiff, display
+Mannequins | pose, dummy, display, window, stiff, model, outfit, bald, plastic, dress, stand, wig, still, frozen
+Thrift Stores | secondhand, vintage, donate, bargain, used, rack, retro, hand-me-down, dig, treasure, cheap, find, thrifty, tag
+Garage Sales | yard, bargain, haggle, price tag, junk, treasure, early bird, driveway, sign, card table, quarter, sold, clutter
+Flea Markets | stall, vendor, haggle, antique, junk, booth, bargain, knickknack, browse, cash only, deal, collectible, swap
+Online Shopping | cart, checkout, click, shipping, review, wish list, add to cart, tracking, delivery, return, stars, browse, password
+Vending Machines | coin, slot, button, snack, stuck, dollar bill, change, row, spiral, dispense, soda, exact change, select, shake
+Convenience Stores | corner, open late, snack, slushie, lottery, clerk, gas, quick, aisle, hot dog, counter, cooler, bodega
+Gift Shops | souvenir, trinket, magnet, postcard, keychain, mug, snow globe, T-shirt, exit through, wrap, bow, present, figurine
+Cashiers | register, scan, change, drawer, receipt, beep, line, bag, total, price check, coupon, lane, paper or plastic, express lane, ten items or less, self-checkout, conveyor belt
+Checkout Lines | wait, express lane, ten items or less, queue, cut, belt, divider, tabloid, candy, next, open register, self-checkout
+Shopping Carts | wheel, push, cart, wobbly, basket, aisle, corral, return, handle, rattle, child seat, runaway, load, park
+Returns and Exchanges | receipt, refund, store credit, exchange, policy, wrong size, return, swap, final sale, restock, tag, defect, gift receipt
+Customer Service | complaint, manager, help desk, hold, representative, satisfaction, refund, apology, feedback, survey, ticket, on hold
+Lemonade Stands | lemon, sign, cup, pitcher, sour, sweet, stand, quarter, profit, squeeze, ice, customer, sidewalk, business
+The Post Office | stamp, parcel, deliver, return to sender, zip code, postage, sort, express, letter, envelope, PO box, mailbox, first class, postmark, flag, slot, junk mail, drop box
+Mailboxes | flag, slot, box, post, mail, letter, curb, key, lid, junk mail, flip, bills, drop box
+Letters | envelope, stamp, dear, sincerely, pen pal, write, sign, seal, postscript, love letter, address, mail, fan mail, chain letter, push the envelope, flap, lick, sealed
+Envelopes | seal, flap, lick, stamp, address, window, letter, open, push the envelope, stuff, sealed, manila, padded
+Packages | box, tape, parcel, label, deliver, doorstep, tracking, fragile, bubble wrap, packing peanuts, ship, unbox, porch, out for delivery, van, drop off, signature
+Stamps | postage, lick, stick, collect, first class, forever, perforate, rubber stamp, seal of approval, stamp of approval, philately, cancel
+Shipping | freight, cargo, container, overnight, express, tracking, delivery, warehouse, dispatch, ship, crate, port, handle with care
+Junk Mail | spam, flyer, coupon, catalog, credit card offer, pre-approved, recycling, shred, unsubscribe, bulk, ad, toss
+Greeting Cards | verse, rhyme time, sympathy, birthday, envelope, sign, signature, rhyme, thank you, pop-up, holiday card, message
+Dollar Stores | cheap, bargain, buck, deal, discount, knockoff, aisle, change, budget, penny, party supplies, value, everything

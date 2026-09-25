@@ -1,65 +1,30 @@
 # Ball Sports
-Baseball
-Basketball
-Football
-Soccer
-Tennis
-Golf
-Bowling
-Volleyball
-Table Tennis
-Cricket Matches
-Rugby
-Lacrosse
-Dodgeball
-Kickball
-Handball
-Water Polo
-Croquet
-Racquetball
-Softball
-Billiards
-Bocce
-Pickleball
-Beach Volleyball
-Mini Golf
-Gutter Balls
-Home Runs
-Slam Dunks
-Hole in One
-Penalty Kicks
-Referees
-Umpires
-Curveballs
-Foul Balls
-Free Throws
-Touchdowns
-Fumbles
-Hat Tricks
-Batting Practice
-The Seventh Inning Stretch
-Golf Caddies
-Sand Traps
-Match Point
-Tennis Rackets
-Cheerleaders
-Team Mascots
-Halftime Shows
-Locker Rooms
-Draft Day
-Benchwarmers
-Scoreboards
-Catchers
-Stolen Bases
-Dugouts
-Grand Slams
-Line Drives
-Strikes and Spares
-Bowling Shoes
-Putting Greens
-Tee Time
-Dribbling
-Yellow Cards
-Instant Replay
-Fantasy Football
-The Water Boy
+# family: play
+Baseball | bat, pitch, strike, home run, catcher, glove, diamond, base, dugout, inning, foul, bunt, steal, curveball, umpire, underhand, slow pitch, softball
+Basketball | hoop, dunk, dribble, rebound, court, net, free throw, foul, layup, point guard, backboard, swish, jump shot, travel
+Football | touchdown, pass, tackle, huddle, punt, kick, field goal, quarterback, end zone, fumble, blitz, sack, interception
+Soccer | goal, kick, pitch, header, penalty, corner, dribble, keeper, offside, net, cleats, red card, striker, save
+Tennis | serve, love, racket, net, court, ace, volley, deuce, match, set, lob, fault, backhand, baseline
+Golf | tee, putt, par, birdie, eagle, bogey, hole in one, fairway, green, caddy, club, sand trap, fore, driver, iron
+Bowling | pin, strike, spare, gutter, lane, alley, split, roll, frame, shoes, turkey, ball return, score, perfect game
+Volleyball | spike, set, serve, net, dig, bump, block, rally, sand, court, rotation, ace, kill, sideout
+Hockey | puck, stick, rink, goalie, slap shot, penalty box, check, power play, face-off, ice, crease, hat trick, Zamboni
+Table Tennis | paddle, ping, pong, spin, net, serve, rally, bounce, smash, table, volley, edge, backspin, topspin
+Billiards | cue, pocket, rack, break, chalk, eight ball, bank shot, scratch, stripes, solids, table, corner pocket, hustle
+Cricket | bat, wicket, bowl, over, run, stump, pitch, innings, crease, duck, umpire, tea break, boundary
+Rugby | scrum, try, tackle, maul, ruck, lineout, pass, kick, pitch, conversion, forward, oval
+Dodgeball | dodge, duck, dip, dive, throw, hit, out, catch, team, gym, sting, wall, red ball, pick
+Lacrosse | stick, cradle, net, crosse, goal, shoot, face-off, pocket, pass, helmet, check, field
+Mini Golf | windmill, putter, hole, clown mouth, par, loop, obstacle, castle, ramp, scorecard, pencil, water hazard, bounce
+Referees | whistle, call, foul, flag, penalty, stripes, card, rule, blind, timeout, eject, review, fair, offside
+Cheerleaders | pom-pom, cheer, chant, pyramid, flip, spirit, rally, megaphone, jump, routine, squad, kick, go team, mascot, costume, big head
+Sports Fans | cheer, jersey, foam finger, tailgate, boo, stands, bleachers, wave, face paint, season tickets, chant, fanatic, rally
+Pickleball | paddle, kitchen, dink, volley, net, serve, court, dill, lob, rally, smash, doubles, brine
+Croquet | mallet, wicket, stake, hoop, lawn, roquet, ball, strike, garden party, peg, whack, course
+Coaches | whistle, clipboard, playbook, huddle, pep talk, drill, bench, timeout, strategy, laps, team, halftime, sideline, bus, locker room, marching band
+Stadiums | stands, bleachers, concessions, big screen, seats, the wave, parking, box seats, nosebleed, turf, dome, gate, ticket, field, scoreboard, buzzer, overtime
+Tailgating | grill, cooler, parking lot, truck, jersey, burgers, game day, lawn chair, fans, cornhole, pregame, flag, hatchback
+Goalies | save, net, glove, pad, block, shutout, crease, mask, dive, post, stop, keeper, blocker
+Badminton | shuttlecock, birdie, racket, net, smash, serve, feather, lob, rally, drop shot, backyard, clear, drive
+Fantasy Football | draft, league, roster, trade, waiver, points, bench, commissioner, sleeper, bust, matchup, lineup, pick
+Sports Announcers | play-by-play, color, booth, call, replay, stats, headset, analysis, highlight, mic, instant replay, broadcast, and the crowd goes wild

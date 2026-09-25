@@ -1,0 +1,17 @@
+# Law and Crime
+# family: work
+Courtrooms | judge, jury, gavel, bench, witness stand, order in the court, bailiff, objection, sustained, overruled, verdict, case, trial, dock
+Judges | gavel, robe, bench, verdict, ruling, sentence, order, chambers, your honor, judgment, justice, appeal, overrule, judge a book by its cover
+Lawyers | attorney, counsel, brief, case, client, objection, argue, fee, retainer, defend, prosecute, law firm, legal pad, bar, suit, legalese, pro bono, subpoena
+Juries | jury duty, twelve, peers, verdict, deliberate, foreman, hung jury, box, summons, sequester, the jury is out, juror, unanimous, rig
+Trials | case, witness, testimony, evidence, cross-examination, verdict, defendant, plaintiff, courtroom, trial and error, trial run, on trial, testify, tribulations, eyewitness, bear witness, hearsay, oath
+Evidence | proof, exhibit A, fingerprints, clue, DNA, bag, tag, circumstantial, smoking gun, forensic, trace, evident, witness, cover-up
+Contracts | sign, fine print, clause, terms, agreement, deal, breach, binding, dotted line, party, terms and conditions, loophole, void, seal
+Lawsuits | sue, suit, damages, settle, plaintiff, defendant, file, court, class action, claim, litigate, frivolous, sue me, pressing charges
+Laws | rule, legal, illegal, loophole, bill, pass, statute, law-abiding, lay down the law, long arm, above the law, letter of the law, Murphy's law, lawn
+Crimes | robbery, theft, fraud, burglary, forgery, smuggling, vandalism, heist, pickpocket, jaywalking, embezzle, crime wave, caught red-handed, partner in crime, sticky fingers, lift, pinch, contraband, bootleg, stash
+Heists | vault, crew, plan, safe, crack, getaway, inside job, loot, laser, disguise, score, blueprint, diamond, mastermind
+Detectives | clue, case, sleuth, magnifying glass, trench coat, hunch, suspect, alibi, private eye, gumshoe, whodunit, stakeout, investigate, crack the case, lead
+Police | officer, badge, siren, patrol, arrest, cuffs, squad car, beat, precinct, donut, radio, ticket, cop, freeze
+Jail | cell, bars, warden, inmate, escape, lockup, sentence, time, break out, jailbird, slammer, cellmate, stripes, parole, behind bars
+Law School | bar, study, exam, pass, casebook, moot court, Socratic, tort, torte, precedent, lecture, pass the bar, JD, briefs

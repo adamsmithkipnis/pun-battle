@@ -1,0 +1,32 @@
+# Occupations
+# family: work
+Occupations | career, trade, calling, shift, overtime, promotion, fired, hired, raise, job title, labor, clock in, day job
+Plumbers | pipe, drain, clog, plunger, leak, wrench, flush, faucet, snake, trap, sink, toilet, water heater, pipe dream
+Electricians | wire, current, circuit, spark, outlet, fuse, voltage, grounded, shocking, conduit, live wire, breaker, switch
+Firefighters | hose, ladder, blaze, alarm, siren, hydrant, extinguish, smoke, rescue, pole, engine, drill, flame, heat
+Locksmiths | key, lock, pick, bolt, deadbolt, combination, tumbler, latch, safe, locked out, master key, cut, jam
+Mechanics | engine, wrench, grease, brake, oil change, jack, tune-up, spark plug, gasket, lube, garage, overhaul, torque
+Butlers | serve, tray, pantry, valet, manor, polish, bow, silver, bell, estate, at your service, discreet, answer the door
+Lifeguards | whistle, rescue, tower, float, sunscreen, CPR, buoy, swim, pool, beach, save, watch, drown out, shallow end
+Waiters | tip, order, tray, menu, table, special, check, server, wait, serve, busboy, shift, host, refill
+Barbers | trim, clip, shave, razor, pole, buzz, fade, chair, lather, sideburns, cut, part, comb, strop
+Pilots | cockpit, altitude, landing, takeoff, wing, captain, co-pilot, runway, autopilot, fly, cruise, mayday, clearance
+Truck Drivers | haul, rig, cab, load, diesel, CB radio, eighteen-wheeler, trailer, freight, highway, gear, weigh station, convoy
+Taxi Drivers | fare, meter, hail, cab, backseat, destination, pickup, tip, route, shortcut, rush hour, off duty, ride
+Movers | box, heavy lifting, dolly, truck, pack, load, haul, lift, bubble wrap, crate, fragile, move, unpack, tape
+Janitors | mop, bucket, broom, sweep, custodian, keys, dust, polish, trash, vacuum, spill, closet, wax, scrub
+Chimney Sweeps | soot, flue, brush, ash, smoke, rooftop, top hat, broom, fireplace, flu, creosote, dirty work, grate, lucky
+Window Washers | squeegee, pane, glass, streak, scaffold, suds, bucket, high-rise, clear, view, rope, spotless, shine
+Security Guards | patrol, badge, uniform, flashlight, guard, watch, gate, clearance, alarm, post, monitor, night shift, lock up
+Bouncers | door, velvet rope, list, ID, bounce, muscle, kick out, card, doorman, guest list, cover charge, tough
+Real Estate Agents | listing, open house, curb appeal, closing, commission, lot, location, mortgage, sold, square feet, broker, escrow, showing
+Salespeople | pitch, commission, close, quota, deal, upsell, customer, cold call, lead, discount, bargain, sales floor, bottom line
+Tailors | hem, stitch, measure, needle, thread, alter, fit, pattern, cuff, seam, press, suit, pin, tape
+Lumberjacks | axe, log, timber, saw, chop, flannel, forest, fell, stump, splinter, lumber, plaid, bark, clear-cut
+Miners | pick, shaft, coal, ore, vein, dig, cart, helmet, lamp, tunnel, deep, canary, gold, strike it rich
+Lighthouse Keepers | beam, lamp, tower, shore, fog, horn, lonely, rock, beacon, coast, lens, storm, ship, guide
+Tour Guides | flag, group, landmark, route, history, map, stop, highlight, sightseeing, tip, follow me, itinerary, bus, lead
+Babysitters | sit, watch, bedtime, snack, tantrum, diaper, curfew, rate, nap, crib, stroller, lullaby, playtime, tuck in
+Garbage Collectors | trash, bin, route, truck, dump, recycling, pickup, curb, haul, rubbish, waste, compactor, can, litter
+Telemarketers | call, script, hang up, dinnertime, pitch, do not call, dial, headset, ring, offer, survey, line, press one
+Welders | torch, spark, mask, flame, seam, metal, bead, arc, joint, fuse, melt, steel, solder, bond

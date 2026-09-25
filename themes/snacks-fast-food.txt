@@ -1,59 +1,19 @@
 # Snacks & Fast Food
-Snacks
-Potato Chips
-Tortilla Chips
-Popcorn
-Nachos
-Cheese Puffs
-Crackers
-Trail Mix
-Granola Bars
-Beef Jerky
-Pork Rinds
-Guacamole
-Onion Rings
-French Fries
-Tater Tots
-Cheeseburgers
-Hamburgers
-Hot Dogs
-Corn Dogs
-Chicken Nuggets
-Buffalo Wings
-Fried Chicken
-Fish Sticks
-Mozzarella Sticks
-Drive-Thrus
-Fast Food Menus
-Value Meals
-Kids Meals
-Combo Meals
-Supersizing
-Food Trucks
-Vending Machines
-Snack Time
-Midnight Snacks
-Snack Drawers
-Chili Cheese Fries
-Pigs in a Blanket
-Jalapeno Poppers
-Potato Skins
-Chips and Dip
-Veggie Burgers
-Sliders
-Fish and Chips
-Fast Food Mascots
-Rice Cakes
-Animal Crackers
-Fruit Snacks
-Things at a Drive-Thru Window
-A French Fry's Road Trip
-Snack Attack
-Movie Theater Snacks
-Stadium Food
-Mall Food Courts
-Deep Fryers
-Chip Clips
-Late-Night Munchies
-Cheese Straws
-Pita Chips
+# family: food
+Snacks | chips, pretzels, popcorn, crackers, nuts, cookies, trail mix, munch, crunch, nibble, snack attack, bite-size, vending, graze, hike, handful, raisins, granola
+Fast Food | burger, fries, drive-thru, combo, value meal, shake, nuggets, supersize, tray, counter, order up, to go, grease, ketchup packet, kids meal, toy, prize, juice box
+Drive-Thrus | speaker, window, order, pull forward, menu board, headset, combo, bag, napkins, receipt, line, pick up, drive off, missing fries
+French Fries | crispy, salty, ketchup, curly, waffle, steak, shoestring, basket, fryer, golden, soggy, small fry, chili cheese, poutine, tater tot, tot, hot dish
+Tater Tots | crispy, cylinder, cafeteria, potato, golden, dip, ketchup, tiny, casserole, hot dish, bite, small fry, toddler, crunch
+Chips and Dip | salsa, guac, queso, double dip, scoop, bowl, tortilla, crunch, party, spinach dip, French onion, bean dip, skinny dip, dip out, chip on your shoulder, chip in, ridges, potato chip, sour cream and onion
+Potato Chips | crunch, bag, salt, vinegar, sour cream and onion, ridges, crumbs, chip on your shoulder, chip in, bowl, dip, flavor, air, crispy
+Popcorn | pop, kernel, butter, salt, bucket, movie, microwave, burnt, caramel, kettle corn, unpopped, pop quiz, ceiling, stuck in teeth
+Nachos | cheese, jalapeno, chips, salsa, sour cream, guacamole, loaded, pile, melt, not yo, queso, stadium, platter, toppings
+Crackers | cheese, saltine, graham, crumbs, soup, crunchy, stale, wafer, animal, cracked, nutcracker, safecracker, firecracker, wisecracker
+Chicken Nuggets | dip, sauce, box, dinosaur, breaded, crispy, six-piece, bite-size, honey mustard, BBQ, nugget of wisdom, gold, kid, golden
+Fair Food | funnel cake, corn dog, deep-fried, fried butter, turkey leg, cotton candy, lemonade, on a stick, midway, kettle corn, blue ribbon, elephant ear, greasy, churro
+Concession Stands | popcorn, soda, candy, hot dog, nachos, line, counter, intermission, overpriced, cup holder, stadium, refill, snack bar, halftime
+Appetizers | starter, finger food, sliders, dip, wings, mozzarella sticks, platter, share, bite-size, toothpick, canape, hors d'oeuvres, tray, nibble, slide into, mini burger
+Midnight Snacks | fridge, raid, leftovers, sneak, tiptoe, light, crumbs, cereal, cold pizza, pajamas, munchies, craving, quiet, dark
+Junk Food | chips, candy, soda, greasy, sugar, cheese puffs, empty calories, guilty pleasure, snack cake, processed, cheat day, crash, orange fingers, sugar rush
+Onion Rings | ring, batter, crispy, stack, tower, onion breath, golden, dip, engagement ring, rings a bell, circle, fried, tear, hoop

@@ -1,0 +1,20 @@
+# Cooking & Chefs
+# family: food
+Kitchens | stove, oven, sink, fridge, counter, cabinet, pantry, apron, pot, pan, spatula, everything but the kitchen sink, heat, too many cooks, if you can't stand the heat
+Cooking | boil, fry, bake, roast, grill, simmer, stir, chop, saute, season, recipe, stew, what's cooking, cook the books, sizzle
+Chefs | toque, hat, apron, knife, kitchen, sous chef, line cook, yes chef, recipe, plating, special, chef's kiss, taste, whites, head
+Restaurant Kitchens | line, order up, ticket, expo, sous chef, dish pit, heard, behind, walk-in, pass, eighty-six, fire, rush, in the weeds
+Recipes | ingredients, steps, measure, cup, teaspoon, card, cookbook, secret recipe, family recipe, recipe for disaster, instructions, preheat, serves, pinch, dog-eared, stain, cook the books
+Cooking Shows | host, studio, audience, countdown, judge, pantry, chop, mystery basket, plating, TV chef, here's one I made earlier, taste, finale, bam
+Frying | sizzle, oil, pan, deep fry, crispy, batter, splatter, golden, grease, stir-fry, small fry, out of the frying pan, fryer, pop, wok, stir, high heat
+Grilling | charcoal, propane, flip, sear, grill marks, spatula, tongs, burger, flame, smoke, grill master, interrogate, apron, backyard, marinate, brine, tenderize
+Boiling | pot, water, steam, bubble, simmer, boil over, boiling point, kettle, pasta, egg, rolling boil, watched pot, hot water, blanch
+Leftovers | fridge, container, reheat, microwave, doggy bag, lunch, next day, cold pizza, casserole, foil, label, mystery, second helping, sniff test
+Meal Prep | containers, batch, Sunday, chop, portion, lunch, weekly, freezer, labels, plan, chicken and rice, stack, routine, prep
+Casseroles | dish, bake, layers, crunchy topping, potluck, tater tots, green bean, cheese, foil, oven, hot dish, church supper, scoop, leftovers
+Flavors | sweet, sour, salty, bitter, umami, savory, spicy, bland, tangy, taste buds, palate, zest, rich, flavor of the month
+Food Critics | review, stars, critique, palate, taste, reservation, anonymous, menu, rave, pan, bland, bite, savor, verdict
+Chopping | dice, mince, slice, julienne, cutting board, knife, onion, tears, chop chop, chop suey, karate chop, on the chopping block, lamb chop, pork chop
+Measuring Cups | teaspoon, tablespoon, pinch, dash, level, scoop, scale, ounce, gram, measure up, heaping, splash, eyeball, nested
+Plating | garnish, drizzle, swoosh, tweezers, stack, presentation, white plate, portion, arrange, wipe the rim, dot, sauce, tower, on your plate, sprig, parsley, flourish, lemon wedge
+Steaming | steamer basket, bamboo, veggies, dumplings, lid, vapor, blow off steam, full steam ahead, steamy, milk, fog, mist, rice, wilt

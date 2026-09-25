@@ -1,0 +1,22 @@
+# Building & Construction
+# family: home
+Construction | hard hat, crane, bulldozer, blueprint, foundation, beam, brick, concrete, scaffold, girder, site, build, under construction, hammer
+Bricks | mortar, trowel, clay, wall, stack, lay, brick by brick, brick wall, red, kiln, building block, bricklayer, cinder block, heavy
+Concrete | cement, pour, mix, set, harden, slab, rebar, sidewalk, jungle, solid, concrete evidence, mixer, curb, cure
+Construction Vehicles | bulldozer, crane, excavator, dump truck, backhoe, forklift, cement mixer, steamroller, loader, digger, bucket, tread, haul, hoist, boom, crane your neck, wrecking ball
+Demolition | wrecking ball, knock down, smash, crush, rubble, sledgehammer, bulldoze, implode, raze, gut, tear down, jackhammer, blast
+Architects | design, blueprint, draft, model, plan, structure, style, column, arch, dome, facade, build, vision, drafting table, blue, scale, draw up, specs
+Skyscrapers | tall, tower, story, floor, elevator, skyline, steel, glass, high-rise, penthouse, cloud, spire, lobby, top floor
+Bridges | span, arch, suspension, cable, toll, cross, beam, truss, burn your bridges, cross that bridge, pier, deck, drawbridge, troll
+Tunnels | dig, bore, light at the end, underground, burrow, tunnel vision, pass, excavate, mine, shaft, lining, dark, portal
+Road Work | detour, cone, asphalt, pave, pothole, flagger, steamroller, lane, slow, barrier, sign, jackhammer, tar, orange
+Roofing | shingle, tile, gutter, rafter, slate, flashing, eave, pitch, peak, attic, leak, hit the roof, through the roof, raise the roof, overhead
+Carpentry | wood, saw, hammer, nail, plane, chisel, joint, grain, sand, frame, dovetail, measure, level, sawdust
+Lumber | wood, board, plank, two-by-four, plywood, timber, grain, knot, log, stack, cut, pine, lumberjack, lumber along
+Foundations | concrete, footing, basement, slab, crack, level, pier, ground floor, base, settle, solid, groundwork, bedrock, support
+House Painting | brush, roller, primer, coat, drip, tape, trim, drop cloth, color, finish, sheen, touch up, gloss, matte
+Renovations | remodel, gut, redo, makeover, update, flip, knock down walls, permit, contractor, budget, before and after, dust, design, drywall, spackle, stud
+Pipes | drain, leak, clog, joint, valve, fitting, copper, lead pipe, pipe down, pipe dream, pipe up, bagpipe, piping hot, plumber
+Fences | picket, post, rail, gate, chain link, barbed, sit on the fence, mend fences, neighbor, boundary, border, fence in, enclose, yard
+Elevators | lift, shaft, cable, button, floor, going up, going down, stuck, door, ground floor, elevator pitch, penthouse, lobby, capacity
+Building Contractors | bid, estimate, permit, crew, subcontract, deadline, over budget, foreman, hire, delay, building code, job site, general, invoice

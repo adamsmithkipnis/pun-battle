@@ -1,0 +1,28 @@
+# Games
+# family: play
+Board Games | roll, dice, token, spinner, square, rule book, pass go, move, turn, box, piece, game night, draw, sore loser, rematch, cheat, tic-tac-toe, three in a row, cat's game
+Chess | check, mate, pawn, rook, bishop, knight, king, queen, castle, board, gambit, stalemate, move, opening
+Checkers | king me, jump, red, black, board, piece, double jump, crown, square, diagonal, move, capture
+Card Games | deck, deal, shuffle, hand, trump, suit, ace, joker, trick, bluff, fold, draw, wild card, cut
+Poker | bluff, fold, raise, call, chip, pot, flush, straight, full house, all in, poker face, ante, river, tell
+Dice | roll, snake eyes, die, cube, dots, luck, toss, craps, loaded, seven, double, odds, pair, shake
+Jigsaw Puzzles | piece, corner, edge, fit, picture, box, border, missing piece, interlock, sky, table, frame, assemble
+Crossword Puzzles | clue, across, down, grid, blank, letter, answer, pen, square, stumped, fill in, black square, word
+Bingo | card, dauber, ball, number, call, row, free space, hall, blackout, caller, B, winner, dot
+Dominoes | tile, dot, row, fall, knock, chain, domino effect, set up, spot, double six, line, topple, bone
+Trivia Night | question, answer, team, quiz, host, bar, fact, category, buzzer, round, know-it-all, lifeline, tie-breaker
+Charades | mime, gesture, act, guess, sounds like, clue, team, timer, silent, point, word, syllable, first word
+Hide and Seek | hide, seek, count, ready or not, closet, found, peek, spot, it, olly olly oxen free, quiet, search
+Tag | it, run, chase, touch, freeze, base, safe, catch, tagback, tired, dash, sprint, flee
+Solitaire | deck, stack, pile, alone, patience, ace, king, move, shuffle, draw, win, column, klondike, lonely
+Riddles | clue, answer, puzzle, mystery, guess, trick question, stumped, brain teaser, logic, twist, solve, enigma
+Marbles | shooter, ring, roll, cat's eye, glass, lose, knuckle down, bag, pocket, aim, clink, tiger's eye, collect
+Word Games | letter, tile, spell, score, triple word, vowel, anagram, dictionary, word, challenge, rack, blank, bingo
+Video Games | level, boss, player, controller, console, save, respawn, power-up, extra life, game over, cheat code, quest, glitch, high score, health bar, final boss, minion, mushroom, invincible, upgrade, side quest, loot, NPC
+Arcades | token, quarter, joystick, high score, prize counter, ticket, claw machine, pinball, insert coin, cabinet, button, initials, air hockey, rigged, so close, grab
+Pinball | flipper, tilt, bumper, plunger, ball, lights, bonus, multiball, drain, ramp, bell, score, nudge, silver ball
+Game Controllers | button, joystick, trigger, d-pad, rumble, thumbstick, wireless, cord, grip, press start, mash, pause, select
+Retro Games | pixel, eight-bit, cartridge, blow, console, chiptune, sprite, arcade, classic, joystick, reset, high score, nostalgia
+Esports | tournament, team, stream, champion, fans, ranked, league, clutch, lag, ping, headset, match, pro gamer
+Virtual Reality | headset, goggles, immersive, simulation, avatar, controller, world, motion, dizzy, look around, virtual, experience
+Scavenger Hunts | clue, list, hunt, find, team, riddle, hidden, search, prize, collect, check off, treasure, map

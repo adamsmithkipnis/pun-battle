@@ -1,68 +1,33 @@
 # Other Sports
-Hockey
-Hockey Pucks
-The Penalty Box
-Ice Rinks
-Figure Skating
-Speed Skating
-Skiing
-Ski Jumping
-Snowboarding
-Bobsledding
-Luge
-Curling
-Skateboarding
-Roller Derby
-Roller Skating
-Boxing
-Knockouts
-Wrestling
-Sumo Wrestling
-Arm Wrestling
-Fencing
-Archery
-Karate
-Black Belts
-Judo
-Kung Fu
-Gymnastics
-Balance Beams
-Pommel Horses
-Cartwheels
-Track and Field
-Marathons
-Sprinting
-Hurdles
-Relay Races
-Pole Vaulting
-High Jump
-Long Jump
-Javelin
-Shot Put
-Photo Finishes
-False Starts
-Swimming
-Diving
-Synchronized Swimming
-Rowing
-Kayaking
-Cycling
-Horse Racing
-Triathlons
-Bungee Jumping
-Skydiving
-Hang Gliding
-Water Skiing
-Dog Sledding
-Sack Races
-Three-Legged Races
-Egg and Spoon Races
-Paintball
-Laser Tag
-Parkour
-Disc Golf
-Axe Throwing
-Badminton
-Darts
-Gold Medals
-Victory Laps
+# family: play
+Boxing | punch, ring, jab, hook, uppercut, knockout, glove, round, bell, corner, spar, weigh-in, ropes, champ, counter
+Wrestling | pin, mat, grapple, hold, headlock, takedown, match, ring, body slam, tag team, singlet, throw, submission
+Martial Arts | karate, belt, chop, kick, dojo, sensei, kung fu, judo, block, bow, black belt, sparring, kata, flip
+Fencing | sword, foil, epee, saber, lunge, parry, thrust, point, touche, mask, duel, riposte, en garde
+Archery | bow, arrow, target, bullseye, quiver, aim, draw, string, release, feather, point, straight, mark
+Gymnastics | flip, beam, vault, bars, tumble, cartwheel, handstand, split, routine, dismount, stick the landing, balance, rings, floor
+Track and Field | sprint, hurdle, relay, baton, lap, javelin, shot put, pole vault, high jump, long jump, dash, heat, finish line
+Running | jog, pace, stride, lap, sprint, marathon, mile, finish line, race, dash, sneakers, run out, cramp, hit the wall
+Swimming | stroke, lap, lane, pool, dive, float, backstroke, butterfly, freestyle, goggles, kick, splash, breast stroke, deep end
+Diving | board, flip, jump, splash, twist, pike, tuck, dive in, plunge, cannonball, belly flop, platform, spring, depth
+Skiing | slope, lift, pole, powder, run, jump, lodge, mogul, downhill, slalom, bunny hill, chalet, wipeout, black diamond
+Snowboarding | board, halfpipe, rail, grab, trick, powder, carve, wipeout, jump, slope, lift, gnarly, shred, fakie
+Ice Skating | rink, blade, spin, jump, twirl, axel, glide, lutz, pair, lace, fall, Zamboni, triple, figure eight
+Skateboarding | deck, wheel, ollie, kickflip, ramp, rail, grind, halfpipe, trick, board, wipeout, bail, skate park, truck
+Roller Skating | rink, wheel, lace, disco, skate, roll, spin, brake, backwards, couples skate, derby, blade, glide
+Horse Racing | derby, jockey, saddle, gallop, track, furlong, bet, odds, photo finish, neck and neck, hat, stable, reins, trot, stirrup, bridle, canter, giddy up, whoa, mount
+Horseback Riding | saddle, rein, trot, gallop, canter, stirrup, bridle, hoof, mount, dismount, whoa, giddy up, jump, stable
+Rowing | oar, row, stroke, crew, cox, boat, paddle, catch, blade, regatta, river, pull, rhythm, scull
+Surfing | wave, board, surf's up, wipeout, curl, barrel, hang ten, tide, swell, ride, paddle, break, dude, tubular, wake, tow rope, skim
+Rock Climbing | rope, harness, grip, hold, belay, summit, boulder, chalk, ledge, rappel, clip, crag, reach, cling
+Fishing | rod, reel, bait, hook, line, lure, tackle, cast, catch, net, bite, sinker, bobber, fish story, angler
+Skydiving | chute, jump, freefall, plane, drop, parachute, altitude, land, rip cord, canopy, dive, tandem, harness, bungee, cord, bounce, rebound, dangle
+Darts | bullseye, board, sharp, throw, aim, point, flight, tip, triple, double, pub, oche, arrow
+The Olympics | gold, silver, bronze, medal, podium, torch, ring, athlete, record, flag, anthem, event, compete, world stage
+Athletic Equipment | helmet, pad, glove, bat, racket, ball, net, cleats, mouthguard, jersey, stick, whistle, gear, shin guard
+Sports Trophies | trophy, medal, cup, ribbon, plaque, win, champion, podium, prize, award, title, victory, silverware
+Curling | stone, broom, sweep, ice, sheet, hack, house, button, hurry hard, slide, curl, rock, skip, hammer
+Paintball | splat, goggles, mask, bunker, capture the flag, team, welt, marker, color, hit, eliminated, fort, splatter, laser, zap, vest, beam, fog
+Laser Tag | vest, beam, arena, fog, team, sensor, score, blast, maze, sneak, zap, phaser, glow
+Obstacle Courses | wall, rope, climb, crawl, mud, hurdle, tire, balance beam, monkey bars, finish, timer, net, zipline
+Flying Discs | throw, catch, ultimate, disc golf, spin, fetch, float, flick, backhand, dog, beach, park, curve

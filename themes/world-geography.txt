@@ -1,0 +1,23 @@
+# World Geography
+# family: travel
+Countries | Hungary, Chile, Turkey, Greece, Wales, Kenya, Jamaica, Norway, Sweden, Denmark, Finland, Cuba, Peru, Chad, Iceland, border, flag
+European Countries | Hungary, Greece, Norway, Sweden, Denmark, Finland, Poland, Wales, Malta, Monaco, Belgium, Spain, Iceland, Ireland, Portugal, Austria
+Asian Countries | Japan, China, Thailand, Laos, Bhutan, Oman, Qatar, Nepal, Mongolia, Singapore, India, Sri Lanka, Cambodia, Kuwait, Jordan, Korea
+African Countries | Kenya, Chad, Togo, Mali, Ghana, Egypt, Morocco, Guinea, Congo, Gabon, Benin, Uganda, Tunisia, Namibia, Malawi, Eritrea
+South American Countries | Chile, Peru, Brazil, Argentina, Colombia, Bolivia, Ecuador, Venezuela, Paraguay, Uruguay, Guyana, Suriname, Andes, Amazon, Patagonia
+Caribbean Islands | Jamaica, Cuba, Aruba, Bahamas, Barbados, Grenada, Dominica, Trinidad, Tobago, Antigua, St. Lucia, Puerto Rico, Cayman, Bermuda, Martinique
+Islands | Crete, Malta, Bali, Fiji, Iceland, Madagascar, Sicily, Tahiti, Cyprus, Borneo, Java, Guam, Samoa, Galapagos, Isle of Man, Greenland
+Continents | Asia, Africa, Europe, Australia, Antarctica, North America, South America, Pangaea, continental, landmass, continental breakfast, Oceania, continental drift, mainland
+Seas and Oceans | Atlantic, Pacific, Indian, Arctic, Mediterranean, Caribbean, Red Sea, Dead Sea, Black Sea, Baltic, Caspian, Coral Sea, North Sea, seven seas, Adriatic
+Rivers of the World | Nile, Amazon, Thames, Seine, Danube, Rhine, Ganges, Mississippi, Yangtze, Volga, Tiber, Hudson, Missouri, Rio Grande, Mekong, Jordan
+Mountain Ranges | Rockies, Alps, Andes, Himalayas, Appalachians, Sierra Nevada, Pyrenees, Urals, Smokies, Everest, Matterhorn, Kilimanjaro, Fuji, Adirondacks, Cascades
+Capital Cities | Rome, Paris, Berlin, Cairo, Lima, Oslo, Dublin, Delhi, Seoul, Budapest, Warsaw, Bern, Havana, Canberra, Brussels, Madrid, Lisbon, Sofia
+European Cities | Venice, Milan, Florence, Munich, Hamburg, Frankfurt, Nice, Marseille, Barcelona, Geneva, Zurich, Naples, Pisa, Bath, Cologne, Liverpool
+Maps | atlas, legend, key, compass rose, scale, grid, route, X marks the spot, fold, you are here, off the map, put on the map, road map, landmark, street map
+Globes | sphere, spin, axis, globetrotter, world, equator, latitude, longitude, snow globe, round, tilt, hemisphere, tropics, global, stand, Ecuador, waistline, zero degrees
+Compass Directions | north, south, east, west, due north, true north, go west, bearing, needle, moral compass, heading, orient, lost, northeast, going south
+Famous Landmarks | Eiffel Tower, Big Ben, Leaning Tower of Pisa, Statue of Liberty, Colosseum, Taj Mahal, Great Wall, Mount Rushmore, Golden Gate Bridge, Machu Picchu, Parthenon, Sydney Opera House, Space Needle, Christ the Redeemer, Pyramids
+Famous Lakes | Superior, Erie, Huron, Ontario, Michigan, Titicaca, Victoria, Tahoe, Geneva, Loch Ness, Baikal, Como, Great Salt Lake, Placid, Okeechobee
+Asian Cities | Tokyo, Beijing, Shanghai, Hong Kong, Mumbai, Singapore, Manila, Hanoi, Kyoto, Osaka, Kathmandu, Dubai, Jakarta, Kuala Lumpur, Busan
+Flags | stripes, stars, flagpole, wave, half-mast, red flag, flag down, white flag, banner, emblem, salute, raise, capture the flag, flagship, flagging
+Canals and Channels | Panama Canal, Suez, strait, straight, dire straits, lock, English Channel, Gibraltar, Erie Canal, isthmus, narrows, pass, sound, change the channel, Venice

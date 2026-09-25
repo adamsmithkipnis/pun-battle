@@ -1,0 +1,23 @@
+# The Great Outdoors
+# family: nature
+Nature | outdoors, wild, mother nature, natural, second nature, call of nature, wilderness, scenery, landscape, fresh air, back to nature, nurture, habitat, green
+Mountains | peak, summit, climb, slope, ridge, valley, range, altitude, mountain out of a molehill, base camp, pinnacle, alp, move mountains, peak season, Everest, Sherpa, top of the world, yeti
+Hills | uphill battle, downhill, over the hill, hilltop, slope, incline, knoll, molehill, hill of beans, rolling hills, king of the hill, steep, climb, head for the hills
+Valleys | dale, glen, hollow, basin, lowland, peaks and valleys, uncanny valley, gorge, vale, river valley, echo, meadow, down in the valley, dip
+Cliffs | cliffhanger, edge, ledge, drop, overhang, cliff diving, steep, sheer, bluff, precipice, brink, dive, sheer drop, on the edge
+Hiking | trail, boots, backpack, blaze, trek, uphill, switchback, trailhead, water bottle, walking stick, blister, scenic, take a hike, summit, path
+National Parks | park pass, ranger, trail, geyser, campground, canyon, vista, visitor center, pass, scenic, wildlife, wilderness, lodge, overlook, Yellowstone
+Deserts | sand, dune, oasis, camel, dry, arid, heat, Sahara, dessert, deserted, just deserts, scorpion, parched, barren, sun-baked, mirage, shimmer, seeing things, tumbleweed, ghost town, crickets
+Cacti | prickly, spine, needle, succulent, sharp, poke, saguaro, prick, bloom, spiky, stuck, pot, thirsty, hug, desert
+Jungles | vine, canopy, dense, humid, swing, Tarzan, machete, jungle gym, urban jungle, it's a jungle out there, law of the jungle, rainforest, wild, Amazon
+Quicksand | sink, stuck, struggle, trap, bog, sucked in, sinking feeling, pull out, vine, rescue, stay calm, mire, slowly, grip
+Prairies | plains, grassland, meadow, wide open, buffalo, wheat, tall grass, home on the range, windswept, rolling, savanna, steppe, pioneer, sod house
+Camping | tent, campfire, sleeping bag, s'mores, lantern, cooler, campsite, pitch, stakes, roughing it, bug spray, marshmallow, canteen, happy camper, mummy bag, stuff sack, cocoon, kerosene, wick, flicker
+Tents | pole, stake, pitch, zipper, flap, rain fly, tarp, canvas, pop-up, collapse, intense, content, pitch a fit, big top
+Campfires | flame, log, kindling, spark, s'mores, ghost stories, embers, smoke, marshmallow, singalong, ash, stoke, crackle, fire pit, douse
+Summer Camp | counselor, bunk, cabin, canoe, arts and crafts, campfire, homesick, mess hall, color war, lake, archery, lanyard, care package, camp song, bug juice
+RVs and Campers | fifth wheel, glamping, trailer, motor home, hookup, campground, awning, pop-up, van life, hitch, tow, gas, cramped, happy camper
+Wilderness Survival | shelter, forage, fire, flint, compass, signal, rescue, rations, knife, lost, instinct, tough it out, snare, survival of the fittest
+Scouting | merit badge, knot, troop, cookie, salute, pledge, uniform, be prepared, scout's honor, camp, den, sash, jamboree, scout it out
+Knots | tie, square knot, slipknot, bow, tangle, tie the knot, rope, loop, untie, sailor, hitch, granny knot, not, knotty, tied up
+Zip Lines | zippy, harness, line, soar, whiz, platform, trolley, zoom, canopy tour, brake, cable, adrenaline, hang, zip it, helmet

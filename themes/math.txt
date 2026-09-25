@@ -1,0 +1,26 @@
+# Math
+# family: science
+Algebra | x, variable, equation, solve, unknown, formula, factor, expression, slope, graph, quadratic, balance, sides, find x
+Geometry | angle, shape, line, point, plane, degree, triangle, circle, proof, area, perimeter, parallel, obtuse, acute
+Calculus | derivative, integral, limit, curve, function, slope, rate, infinity, Newton, area under, differentiate, integrate, tangent, calculate, to infinity and beyond, sideways eight
+Fractions | half, quarter, third, numerator, denominator, piece, slice, pie, part, whole, mixed number, split, common denominator, reduce
+Percentages | percent, point, decimal, hundred, tenth, rate, discount, tip, round, interest, give a hundred and ten percent, share, fraction, off
+Multiplication | times, table, product, factor, double, triple, square, carry, twice, grid, groups, rabbits, flash cards, go forth
+Division | long division, divide, remainder, quotient, divisor, split, share, dividend, goes into, fraction, conquer, even, equal parts, bracket
+Addition and Subtraction | plus, minus, sum, add up, take away, carry, borrow, total, difference, count, tally, net, positive, negative, below zero, number line, negativity
+Prime Numbers | indivisible, two, three, five, seven, eleven, factor, sieve, odd, prime time, prime rib, prime minister, primary, prime suspect
+Pi | circle, radius, diameter, circumference, pie, irrational, infinite, digits, three point one four, March fourteenth, apple pie, slice, constant
+Exponents and Roots | power, square, cube, radical, base, exponential, squared, cubed, raise, index, growth, to the power of, square root
+Zero | nothing, nil, zip, none, nought, hero, empty, null, origin, ground zero, zilch, circle, void, blank, zero in
+Shapes | circle, square, triangle, rectangle, oval, star, diamond, heart, hexagon, polygon, cube, sphere, cone, in shape, bent out of shape, symmetry, mirror image, lopsided
+Polygons | pentagon, hexagon, octagon, sides, vertex, angle, polly gone, parrot, shape, regular, stop sign, honeycomb, edge, many
+Triangles | three sides, isosceles, equilateral, right, angle, love triangle, pyramid, hypotenuse, Bermuda, acute, obtuse, prism, point, tri
+Circles | round, radius, diameter, pi, circumference, orbit, ring, loop, full circle, wheel, arc, center, circular, vicious circle
+Squares | four sides, box, checkerboard, square deal, square meal, fair and square, back to square one, town square, grid, right angle, block, nerd, even
+Graphs and Charts | bar, pie, line, axis, plot, scatter, curve, trend, x-axis, data, spike, legend, key, off the charts
+Statistics | average, mean, median, mode, sample, data, survey, odds, percent, chart, outlier, bell curve, correlation, trend, standard deviation
+Probability | chance, odds, coin toss, dice, likely, random, fifty-fifty, luck, bet, guess, risk, flip, long shot, probably
+Word Problems | trains, leaving at, speed, apples, how many, solve, story, show your work, ages, remaining, total, if, travelling, Sally
+Numbers | one, two, digit, count, figure, number one, odd, even, lucky, prime, whole, dozen, score, number cruncher, numb, by the numbers, get even, oddball, odd one out, break even
+Units of Measurement | meter, liter, gram, kilo, centimeter, inch, foot, yard, mile, pound, ruler, scale, tape measure, measure up
+Mathematicians | Pythagoras, Euclid, Newton, Archimedes, Euler, Gauss, Fibonacci, Turing, Descartes, theorem, proof, genius, calculate, chalkboard

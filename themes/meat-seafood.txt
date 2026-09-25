@@ -1,0 +1,20 @@
+# Meat & Seafood
+# family: food
+Meat | beef, pork, chicken, steak, roast, grill, butcher, cut, rare, well done, sausage, ham, lamb, meat and potatoes, meet
+Butchers | cleaver, chop, cut, apron, counter, sausage, meat locker, grind, slab, rib, loin, prime, block, weigh, paper
+Steak | rare, medium, well done, sirloin, T-bone, ribeye, grill, sizzle, marinade, stake, high stakes, sear, tender, filet, porterhouse, prime rib, steak knife
+Burgers | patty, bun, cheese, grill, flip, lettuce, pickle, ketchup, slider, double, sear, beef, stack, medium rare, drive-thru
+Hot Dogs | bun, frank, wiener, mustard, relish, ballpark, grill, cart, footlong, chili dog, sausage, top dog, hot diggity, dog days
+Sausage | link, casing, grind, bratwurst, salami, pepperoni, sizzle, patty, spicy, Italian, chorizo, wurst, worst, banger
+Ham | slice, glaze, honey-baked, hock, spiral, pig, ham it up, hamster, hammy, sandwich, cured, prosciutto, deli, Hamlet
+Ribs | rack, sauce, bone, smoke, baby back, spare, rib cage, sticky, tickle, rib-eye, rub, fall off the bone, tease, napkin
+Barbecue | grill, smoke, pit, brisket, ribs, sauce, rub, charcoal, pitmaster, pulled pork, low and slow, burnt ends, tongs, smoker, skewer, shish kebab, gyro
+Fried Chicken | crispy, batter, drumstick, thigh, wing, breast, bucket, buttermilk, fry, Southern, finger-lickin', coop, crunch, biscuit
+Chicken Wings | buffalo, hot, blue cheese, celery, drumette, flat, sauce, sticky, wing it, game day, dry rub, spicy, napkins, bone
+Jerky | dried, strip, beef, chewy, smoked, tough, knee-jerk, jerk, road trip, gas station, teriyaki, spicy, bag, cured
+Roasts | pot roast, carve, oven, Sunday, slow cook, tender, beef, gravy, insult, rotisserie, rack, prime rib, baste, comedy
+Seafood | fish, shrimp, crab, lobster, clam, oyster, mussel, scallop, catch of the day, shell, bib, net, fillet, see food, crawfish, Cajun, boil
+Fish and Chips | cod, batter, fry, vinegar, newspaper, chippy, tartar sauce, malt, British, pub, mushy peas, flaky, wrap, haddock
+Shrimp | cocktail, prawn, scampi, peel, devein, tail, jumbo, grill, boil, pink, gumbo, fried, shrimp on the barbie, little
+Meatloaf | ketchup, loaf, slice, ground beef, breadcrumbs, pan, mom's, leftovers, sandwich, gravy, mashed potatoes, loafing, glaze, Tuesday
+Cold Cuts | salami, bologna, ham, turkey, sliced thin, pepperoni, deli, platter, pastrami, cold, roll-up, baloney, prosciutto, slicer, charcuterie, board, fig jam

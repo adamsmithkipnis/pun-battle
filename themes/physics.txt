@@ -1,65 +1,18 @@
 # Physics
-Gravity
-Newton's Laws
-Isaac Newton
-Albert Einstein
-Relativity
-Momentum
-Inertia
-Friction
-Magnets
-The Speed of Light
-Sound Waves
-Pendulums
-Levers
-Pulleys
-Inclined Planes
-Quantum Physics
-Energy
-Kinetic Energy
-Potential Energy
-Force
-Acceleration
-Velocity
-Mass
-Density
-Buoyancy
-Pressure
-Thermodynamics
-Heat
-Absolute Zero
-Lasers
-Prisms
-Lenses
-Reflection
-Refraction
-Particle Accelerators
-Physicists
-Schrodinger's Cat
-Galileo
-Newton's Apple
-Centrifugal Force
-Torque
-Coiled Springs
-Slinkies
-Roller Coasters
-Seesaws
-Projectiles
-Frequency
-Resonance
-Wavelengths
-The Doppler Effect
-Sonic Booms
-Surface Tension
-Perpetual Motion
-String Theory
-Parallel Universes
-Newton's Cradle
-Terminal Velocity
-Free Fall
-Vibrations
-Aerodynamics
-Equal and Opposite Reactions
-Entropy
-Quarks
-Neutrinos
+# family: science
+Gravity | fall, pull, weight, apple, Newton, down, heavy, attract, orbit, grave, gravitas, drop, weightless, grounded, what goes up, fig, laws of motion, inertia, Isaac
+Friction | rub, heat, drag, grip, slip, slide, resist, traction, spark, rough, smooth, wear, tension, rub the wrong way
+Magnets | attract, repel, pole, north, south, pull, stick, magnetic, field, fridge, iron, compass, opposites attract, personality
+Light | beam, ray, bright, spectrum, wave, photon, speed, reflect, shine, glow, lamp, prism, spotlight, light year, lighten up
+Mirrors and Lenses | reflect, reflection, image, lens, focus, convex, concave, magnify, glass, mirror image, refraction, prism, telescope
+Sound | wave, echo, pitch, frequency, decibel, vibration, loud, hear, amplitude, resonate, speaker, sonic boom, Doppler, sound off
+Energy | kinetic, potential, power, joule, battery, fuel, burn, charge, renewable, calorie, spark, conserve, high energy, recharge
+Simple Machines | lever, pulley, wedge, screw, wheel and axle, inclined plane, ramp, lift, force, crank, gear, fulcrum, seesaw, mechanical advantage
+Speed | fast, velocity, acceleration, miles per hour, speed limit, rate, quick, zoom, momentum, direction, speedy, top speed, race, pace
+Heat | temperature, degree, thermometer, hot, cold, boil, freeze, melt, thermal, heat wave, Celsius, Fahrenheit, absolute zero, cool
+Pressure | squeeze, push, psi, under pressure, peer pressure, barometer, crush, tire, blood pressure, air pressure, compress, deep sea, pressure cooker, pop
+Buoyancy | float, sink, buoyant, density, displacement, Archimedes, eureka, bob, raft, boat, heavy, sink or swim, bathtub, life jacket
+Quantum Physics | particle, wave, uncertainty, cat in a box, superposition, leap, entangle, probability, atom, observe, quantum leap, tunnel, spin
+Famous Scientists | Newton, Einstein, Curie, Darwin, Galileo, Edison, Pasteur, Bohr, Faraday, Hawking, Tesla, Kepler, Copernicus, Mendel, eureka, relativity, E equals mc squared, relative, genius
+Force | push, pull, may the force be with you, force field, forceful, air force, task force, join forces, brute force, reinforce, newton, force of habit, tour de force, enforce
+Weight and Mass | heavy, light, scale, pound, kilo, gram, weigh in, carry weight, bulk, dead weight, heavyweight, lightweight, massive, throw your weight around

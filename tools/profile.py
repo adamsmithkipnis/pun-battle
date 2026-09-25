@@ -42,10 +42,11 @@ BIO = (
 RULES = (
     "📌 How to play Pun Battle\n\n"
     f"⏰ {_EVERY[0].upper() + _EVERY[1:]}, I post a theme\n"
-    "💬 Reply to it with your best pun (as many as you like)\n"
+    "💬 Reply with your best pun (as many as you like)\n"
     f"❤️ Most likes when time's up wins {_PTS} pts\n"
     "🤝 Ties split the points\n"
-    "🏆 Winners get a reply with their running total\n\n"
+    "⚔️ Mashup rounds: one pun, both topics\n"
+    "🏆 Winners get a reply with their total\n\n"
     "May the best pun win! #PunBattle"
 )
 

@@ -1,0 +1,18 @@
+# The Animal Kingdom
+# family: nature
+Animal Groups | flock, herd, pack, pride, school, pod, swarm, gaggle, murder, troop, colony, litter, parliament, bevy, mob
+Baby Animals | cub, kid, calf, joey, kit, fawn, foal, chick, duckling, puppy, kitten, piglet, lamb, tadpole, owlet
+Animal Homes | nest, den, hive, burrow, lodge, web, shell, warren, sty, coop, stable, hutch, kennel, lair, pen
+Animal Sounds | moo, oink, baa, neigh, cluck, quack, roar, hiss, howl, bark, meow, hoot, bray, chirp, ribbit
+Food Chain | predator, prey, herbivore, carnivore, omnivore, top of the chain, link, eat, hunt, graze, apex, bottom feeder, pecking order, snack, cud, salad, plant-based, browse, meat eater, fang, rare, chomp
+Mammals | fur, milk, warm-blooded, whisker, mama, live birth, hair, nurse, backbone, lungs, primate, rodent, marsupial, platypus
+Nature Documentaries | narrator, footage, slow motion, habitat, in the wild, migration, predator, camera crew, hushed voice, close-up, time-lapse, episode, wildlife, series
+Animal Idioms | hold your horses, cat's out of the bag, raining cats and dogs, busy as a bee, sly as a fox, early bird, elephant in the room, crocodile tears, white elephant, dark horse, pig out, bull in a china shop, fish out of water, lone wolf
+Woodland Creatures | deer, fox, owl, squirrel, rabbit, hedgehog, badger, chipmunk, raccoon, woodpecker, forest floor, acorn, log, burrow, twig
+River Animals | otter, beaver, salmon, heron, frog, crocodile, hippo, trout, turtle, kingfisher, current, bank, upstream, dam, rapids
+Cave Animals | bat, blind fish, cave spider, cricket, salamander, echo, stalactite, dark, damp, hang, drip, cavern, guano, glowworm
+Urban Wildlife | pigeon, rat, raccoon, squirrel, coyote, alley cat, trash can, sewer, subway, rooftop, dumpster, streetlight, fire escape, park
+Animal Courtship | display, dance, strut, call, woo, mate, pair, nest, preen, serenade, feathers, lock horns, peacock, love bird
+Scavengers | vulture, hyena, raccoon, crow, rat, leftovers, dumpster, scraps, pick clean, carrion, seagull, trash panda, scrounge, forage
+Pollinators | bee, butterfly, hummingbird, bat, moth, pollen, nectar, flower, buzz, spread, dust, bloom, carry, sip
+Wildlife Conservation | protect, habitat, reserve, ranger, tag, release, breed, save, rescue, preserve, sanctuary, refuge, rehabilitate, collar

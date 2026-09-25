@@ -1,0 +1,16 @@
+# Doctors and Medicine
+# family: body
+Doctors | checkup, stethoscope, prescription, diagnosis, white coat, bedside manner, house call, second opinion, patient, appointment, doctor's orders, scrubs, clinic, MD, weigh-in, reflex hammer, tongue depressor, say ah, paper gown, lollipop, waiting room, magazines, name called
+Hospitals | ward, ER, nurse, gown, IV, bed, visiting hours, discharge, admit, stretcher, wheelchair, operating room, cafeteria, pager, ICU
+Nurses | scrubs, shift, bedside, needle, chart, thermometer, triage, compassion, patient, care, nursing, Nightingale, pager, rounds
+Surgery | scalpel, stitches, incision, anesthesia, operating table, surgeon, mask, gloves, scrub in, suture, recovery, transplant, cut, operate
+Pharmacies | pill, prescription, refill, drugstore, counter, bottle, dose, tablet, capsule, pharmacist, label, over the counter, cough syrup, side effects
+Vitamins | vitamin C, A, B, D, gummies, supplement, multivitamin, orange juice, sunshine, boost, daily, iron, nutrient, chewable
+Medical Devices | stethoscope, thermometer, x-ray, syringe, pacemaker, crutches, splint, brace, IV drip, scalpel, monitor, blood pressure cuff, hearing aid, inhaler
+First Aid | first aid kit, bandage, ice pack, splint, CPR, gauze, antiseptic, sling, tweezers, scrape, cut, burn, kiss it better, boo-boo
+Casts and Crutches | cane, hobble, sling, sign my cast, broken arm, splint, plaster, hop, fracture, heal, itch, limp, wheelchair, x-ray
+X-Rays | skeleton, bones, film, radiation, lead apron, see-through, glow, scan, x-ray vision, negative, fracture, image, light box, x marks the spot
+Eye Exams | chart, letters, read, blurry, glasses, contacts, focus, squint, lens, twenty-twenty, better one or two, puff of air, dilate, vision
+Home Remedies | chicken soup, honey, lemon, tea, rest, apple a day, ginger, vapor rub, hot water bottle, gargle, grandma, cure, feel better, old wives tale
+Stitches | suture, needle, thread, sew, in stitches, seam, heal, scar, knit, a stitch in time, cross-stitch, loose, stitch up
+Physical Therapy | stretch, exercise, rehab, band, ice, heat, massage, range of motion, recovery, sore, therapist, balance, strengthen, reps

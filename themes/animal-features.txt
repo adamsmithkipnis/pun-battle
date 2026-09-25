@@ -1,0 +1,19 @@
+# Animal Features
+# family: nature
+Tails | wag, tale, tail end, tailgate, ponytail, cottontail, tail between your legs, tailspin, heads or tails, bushy, fluke, rattle, curly, tailor
+Horns and Antlers | rack, point, tusk, lock horns, horn in, horn of plenty, unicorn, ram, toot your own horn, velvet, shed, buck, take the bull by the horns, spike, ivory, walrus, narwhal
+Wings | flap, flutter, soar, wingspan, take wing, wing it, under my wing, spread, feather, left wing, buffalo wings, flight, waiting in the wings, clip
+Whiskers | twitch, cat's whiskers, whisk, mustache, feel, sense, by a whisker, bristle, sideburn, tickle, stubble, muzzle, beard, wiry
+Beaks and Bills | peck, pecking order, nib, hook, sharp, duck bill, toucan, dollar bill, bill of rights, foot the bill, crack, tip, pointy, snap
+Hooves | hoof it, clop, gallop, cloven, horseshoe, stomp, kick, trot, hoofbeat, farrier, stamp, split, click, heel
+Shells | hermit crab, snail, turtle, egg, shell out, shell shock, bombshell, clam, crack, hard, come out of your shell, seashell, casing, armor
+Fins and Flippers | dorsal, fin-ish, finale, swim, shark fin, flap, paddle, flip, flip out, seal, dolphin, scuba, surfboard, rudder
+Spots and Stripes | leopard, zebra, tiger, dalmatian, pattern, polka dot, spot on, earn your stripes, speckle, dappled, freckle, pinto, calico, change your spots
+Camouflage | blend in, hide, disguise, stripe, spot, pattern, chameleon, stick insect, leaf, invisible, background, cover, lurk, now you see me
+Animal Tracks | paw print, footprint, trail, hoof, scent, follow, trace, snow, mud, stride, track down, on the trail, backtrack, cold trail
+Shedding | molt, hairy couch, skin, fur, feather, slough, coat, shed light, lint roller, fluff, drop, peel, new look, tumbleweed
+Snouts and Noses | honker, muzzle, sniff, trunk, beak, nostril, snuffle, nose around, nosy, snoot, snoop, boop, wet nose, pig
+Animal Senses | whiskers, sniff, echolocation, night vision, antenna, hearing, sonar, scent, eagle eye, sixth sense, bat ears, taste, touch, instinct, feelers, reception, tune in
+Stingers | sting, venom, bee, wasp, scorpion, jellyfish, stingray, barb, poke, ouch, swell, zap, prick, sharp end
+Fangs | bite, vampire, venom, snake, canine, sharp, sink in, fangtastic, wolf, bare, gleam, tooth, spider, bloodsucker
+Manes | lion, horse, mane event, mane street, mane attraction, shaggy, flowing, brush, braid, comb, pony, wild, mullet, hair

@@ -1,62 +1,28 @@
 # Farm Life
-Cows
-Dairy Cows
-Pigs
-Piglets
-Chickens
-Roosters
-Hens
-Chicks
-Ducks
-Ducklings
-Turkeys
-Goats
-Sheep
-Lambs
-Horses
-Ponies
-Donkeys
-Mules
-Llamas
-Alpacas
-Bulls
-Oxen
-Barns
-Haystacks
-Hay Bales
-Tractors
-Scarecrows
-Pitchforks
-Silos
-Pig Pens
-Chicken Coops
-Pastures
-Fences
-Farmhouses
-Barn Raising
-Milking Time
-Egg Collecting
-Sheep Shearing
-Wool
-Plowing Fields
-Harvest
-Corn Fields
-Wheat Fields
-Crop Circles
-Tractor Pulls
-County Fairs
-Blue Ribbons
-Farmers Markets
-Rooster Wake-Up Calls
-Weathervanes
-Pigs in Mud
-Horseshoes
-Saddles
-Stables
-Sheepdogs
-Barn Cats
-Hayrides
-Cattle Drives
-Ranches
-Chicken Feed
-Manure
+# family: nature
+Farm Animals | cow, pig, chicken, sheep, goat, horse, duck, donkey, moo, oink, baa, cluck, barnyard, herd, flock
+Cows | moo, milk, udder, calf, herd, graze, cud, bull, steer, cowbell, pasture, heifer, hoof, till the cows come home, holy cow, pail, milking stool, churn
+Pigs | oink, snout, mud, pen, sty, hog, piglet, bacon, wallow, slop, trough, squeal, pig out, hog wild, when pigs fly
+Chickens | cluck, hen, rooster, coop, egg, peck, chick, feather, roost, drumstick, wing, scratch, chicken out, cock-a-doodle-doo, poultry, fly the coop, nest box, henhouse
+Sheep | baa, wool, flock, lamb, ewe, ram, shear, fleece, shepherd, crook, counting sheep, black sheep, woolly, graze, mutton, shorn, clippers, fleeced
+Goats | kid, billy, nanny, horn, bleat, butt, climb, beard, headbutt, chew, get your goat, scapegoat, cheese, graze
+Horses | neigh, gallop, trot, canter, saddle, mane, hoof, stable, pony, colt, filly, mare, stallion, bridle, whinny, amble, prance, lope, full tilt
+Donkeys and Mules | bray, hee-haw, stubborn, burro, pack, load, ears, kick, carrot, stick, haul, trail, jack, beast of burden
+Llamas and Alpacas | spit, wool, fleece, fluffy, neck, hum, pack, Andes, fiber, cria, hair, yarn, drama, llama drama
+Turkeys | gobble, wattle, feather, fan, strut, drumstick, wishbone, stuff, carve, cold turkey, gobbler, tom, jake, flock
+Barns | hay, loft, stall, rafter, door, red, barn owl, weathervane, raise, barnstorm, barn dance, hayloft, wide as a barn, bale
+Tractors | plow, till, tire, wheel, hitch, pull, haul, diesel, row, field, mow, drive, tread, cab
+Hay | bale, stack, loft, straw, fork, roll, needle in a haystack, hit the hay, make hay, hayride, pitchfork, feed, barn
+Plowing and Planting | tractor, furrow, till, row, seed, sow, drill, hoe, dirt, soil, field, dig, reap what you sow, plant
+County Fairs | blue ribbon, prize, pie contest, Ferris wheel, livestock show, midway, funnel cake, 4-H, judge, pig race, cotton candy, rides, tent, carnival
+Ranches | cattle, herd, brand, lasso, corral, round up, spur, range, fence, ranch hand, steer, stampede, cattle drive, wrangle
+Stables | stall, hay, groom, brush, saddle, tack, bridle, feed, muck out, horseshoe, hoof pick, blanket, curry, trough
+Horse Tack | saddle, bridle, rein, bit, stirrup, halter, girth, crop, blanket, harness, lead rope, saddle up, champing at the bit, rein it in
+Horseshoes | hoof, nail, iron, luck, ringer, toss, clang, shoe, farrier, stake, pit, anvil, forge, U-turn
+Farmhouses | porch, kitchen, pie, rocking chair, screen door, dinner bell, mud room, quilt, wood stove, chores, rooster, sunrise, field view, gravel road
+Sheepdogs | herd, round up, collie, whistle, command, fetch, pen, gate, flock, border, crouch, nip, lie down, stare
+Roosters | crow, cock-a-doodle-doo, dawn, wake-up call, strut, comb, cocky, cock of the walk, weathervane, alarm, crest, spur, rule the roost, early riser
+Ponies | pony up, ponytail, Shetland, pony express, one-trick pony, ride, carousel, little, mane, trot, saddle, foal, stubby, show pony
+Wild Horses | mustang, bronco, free, herd, stallion, gallop, untamed, buck, range, break, prairie, wild horses couldn't drag me, roam, mane
+Pastures | graze, field, fence, green pastures, put out to pasture, meadow, grass, herd, gate, hill, cowpat, clover, rolling, greener grass
+Farm Chores | feed, muck out, collect eggs, mend fence, sunup, slop, water trough, haul, chore list, early riser, shovel, pitch in, rounds, bucket

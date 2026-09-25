@@ -1,0 +1,22 @@
+# Rooms of the House
+# family: home
+Houses | roof, door, window, wall, floor, porch, attic, basement, yard, foundation, mortgage, housewarming, house party, on the house, full house, hall pass, hall of fame, foyer
+Living Rooms | couch, coffee table, fireplace, rug, lamp, remote, lounge, family room, den, parlor, mantel, sofa, recliner, living
+Bedrooms | bed, pillow, closet, dresser, nightstand, sheets, blanket, alarm, wardrobe, sleepover, master, bunk, headboard, pajamas, spare room, guest, sofa bed
+Bathrooms | tub, shower, sink, toilet, towel, mirror, faucet, drain, soap, tile, loo, powder room, flush, restroom, vanity, throne, john, plunger, commode, bubble bath, rubber duck, soak, suds
+Bathtubs | bubble bath, soak, drain, plug, faucet, rubber duck, claw-foot, bath bomb, suds, splash, tub, ring, overflow, wash
+Showers | shower head, curtain, steam, lather, rinse, drip, pressure, hot water, singing, spray, tile, stall, drain, cold shower
+Attics | rafters, dusty, storage, boxes, trunk, heirloom, crawl space, cobweb, insulation, loft, ladder, bats in the belfry, stuffy, beam
+Basements | cellar, stairs, damp, sump pump, furnace, laundry, rec room, storage, foundation, low ceiling, flood, downstairs, bargain basement, dungeon
+Garages | car, door, opener, tools, workbench, oil stain, band, garage sale, park, clutter, driveway, bay, junk, storage
+Porches | stoop, steps, swing, rocking chair, screen door, veranda, deck, railing, welcome mat, lounge, front, porch light, package, sit a spell
+Staircases | step, stair, banister, railing, landing, flight, spiral, tread, climb, handrail, upstairs, downstairs, stairwell, riser, escalate
+Doors | knob, hinge, lock, knock, frame, open, close, slam, door prize, doorbell, doormat, front door, backdoor, threshold, jamb, peephole, ding-dong, chime, ring, door-to-door
+Doorbells | ring, chime, buzz, button, bell, knock, visitor, answer, ding-dong, peephole, delivery, caller, ding, door-to-door
+Windows | pane, sill, glass, sash, shutter, frame, screen, blind, window shopping, bay window, skylight, window of opportunity, pain, view
+Fireplaces | hearth, mantel, chimney, log, poker, flue, grate, ember, flame, ash, smoke, stoking, cozy, soot, spark
+Nurseries | crib, rocker, mobile, diaper, lullaby, baby, changing table, bassinet, onesie, pacifier, rattle, nursery rhyme, plant, sleep, playroom, rumpus, toy box, blocks
+Walls | brick, plaster, drywall, paint, wallpaper, stud, off the wall, hit the wall, fly on the wall, up the wall, wall-to-wall, climb, partition
+Floors | hardwood, tile, carpet, linoleum, floorboard, creak, mop, sweep, level, story, floored, ground floor, take the floor, floor plan
+Ceilings | beam, plaster, fan, light, crack, vaulted, popcorn, glass ceiling, hit the ceiling, overhead, rafter, high, tile, skylight
+Driveways | park, pave, gravel, shovel, chalk, basketball hoop, blocked, pull in, back out, car, drive, oil stain, asphalt, curb

@@ -1,0 +1,20 @@
+# Gardening & Yard Work
+# family: home
+Gardening | plant, dig, weed, water, seed, soil, prune, hoe, rake, trowel, compost, mulch, green thumb, grow, bloom
+Vegetable Gardens | tomato, squash, pea, bean, carrot, lettuce, row, plot, harvest, pick, raised bed, beet, vine, patch
+Herb Gardens | basil, thyme, sage, mint, rosemary, parsley, dill, chives, oregano, pot, snip, windowsill, fresh, bunch
+Seeds | sow, sprout, plant, germinate, packet, seedling, bud, root, spread, pit, seed money, go to seed, bad seed, kernel
+Soil | dirt, earth, loam, clay, topsoil, ground, sand, peat, fertile, till, dig, mud, grounded, down to earth
+Compost | pile, bin, scraps, rot, worm, decompose, heap, mulch, peel, turn, humus, recycle, organic, fertile
+Weeds | pull, root, dandelion, crabgrass, weed out, weed whacker, invasive, spread, choke, sprout, hoe, overgrown, pesky, thistle
+Garden Hoses | hose, nozzle, spray, sprinkler, spigot, kink, coil, reel, soak, drip, water, squirt, hose down, leak, sprinkle, oscillate, run through
+Rakes | leaves, tines, pile, gather, scratch, handle, rake in, rake over the coals, raking, bag, lawn, comb, rake it in, scoop
+Shovels | dig, spade, scoop, hole, dirt, blade, handle, trench, shovel it in, bury, heap, snow, grave, pile
+Lawns | grass, mow, turf, blade, sod, yard, green, patch, sprinkler, edge, weed, keep off the grass, lawn chair, lawn party, mower, ride-on, stripe
+Hedges | trim, shrub, bush, clip, prune, topiary, maze, hedge your bets, row, privet, boxwood, border, beat around the bush, shape
+Pruning | snip, clip, trim, shear, cut back, branch, limb, stem, shape, dead head, loppers, shears, prune juice, sucker
+Greenhouses | glass, pane, heat, humid, seedling, grow, nursery, pot, warm, sprout, shelter, tropical, glass house, greenhouse effect
+Potted Plants | pot, soil, repot, root-bound, drain, saucer, planter, succulent, cactus, fern, leaf, water, houseplant, grow
+Garden Tools | trowel, hoe, rake, spade, shears, pitchfork, cultivator, gloves, kneeler, dibber, wheelbarrow, shed, loppers, fork, barrow, haul, tip
+Garden Sheds | tools, shelf, rake, pots, cobweb, lock, lawn mower, storage, hideout, potting bench, cluttered, shed light, shed tears, shed pounds
+Backyards | swing set, grill, fence, lawn, shed, hammock, trampoline, sprinkler, patio, fire pit, garden, dog, not in my backyard, yard, sway, snooze, hang

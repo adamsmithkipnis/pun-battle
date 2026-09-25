@@ -1,0 +1,20 @@
+# Desserts
+# family: food
+Desserts | cake, pie, ice cream, cookie, pudding, sweet tooth, just deserts, sundae, tart, custard, sprinkles, second helping, save room, a la mode, churro, cinnamon sugar
+Cakes | layer, frosting, icing, candles, slice, batter, sponge, cake walk, piece of cake, have your cake and eat it too, tier, crumb, fondant, cupcake, piping bag, buttercream, rosette
+Cupcakes | frosting, sprinkles, liner, wrapper, swirl, batter, tin, cup, mini, bake sale, sweetie, piping, cherry on top, dozen
+Pies | crust, slice, filling, lattice, apple, pumpkin, cherry, pecan, a la mode, pie chart, easy as pie, humble pie, pie in the sky, cutie pie
+Cookies | chocolate chip, dough, jar, crumbs, batch, sugar, oatmeal, snickerdoodle, cookie cutter, tough cookie, smart cookie, that's how the cookie crumbles, dunk, fortune, hand in the cookie jar, cookie jar, raid
+Brownies | fudge, chewy, edge, corner piece, pan, square, nuts, batter, gooey, blondie, brownie points, chocolate, cut, frosting
+Cheesecake | crust, graham cracker, cream cheese, New York, creamy, slice, cherry, strawberry, rich, dense, springform, topping, cheesy, plain
+Ice Cream | scoop, cone, sundae, sprinkles, vanilla, chocolate, brain freeze, melt, sorbet, gelato, float, rocky road, cookie dough, lick, flavor, jingle, ice cream truck, push-pop, fro-yo, self-serve, toppings
+Ice Cream Sundaes | hot fudge, whipped cream, cherry on top, sprinkles, nuts, banana split, scoop, syrup, dish, spoon, Sunday, caramel, toppings, bowl
+Popsicles | stick, freeze, melt, drip, ice pop, fudge pop, joke on a stick, summer, twin pop, lick, cold, flavor, freezer, brain freeze, shaved ice, snow cone, blue raspberry
+Pudding | chocolate, vanilla, rice, bread, cup, spoon, custard, skin, proof is in the pudding, creamy, jiggle, mousse, smooth, instant, flan, creme brulee, frozen custard
+Gelatin | jiggle, wiggle, mold, shot, wobble, jelly, set, cubes, fruit, lime, shake, bowl, salad, wiggle room
+Whipped Cream | whisk, can, dollop, peaks, fluffy, topping, cherry, squirt, stiff peaks, spray, pie, whip, cool, cloud
+Sprinkles | rainbow, jimmies, nonpareils, shake, confetti, topping, sugar, donut, sundae, colorful, drizzle, shower, rain, sparkle
+Fruitcake | regift, doorstop, brick, candied fruit, nuts, rum, holiday, dense, heavy, nutty, tin, loaf, cherries, fruity
+Cobblers | peach, crumble, crisp, fruit, topping, biscuit, bubbling, oat, a la mode, shoemaker, cobble together, rustic, baked, deep dish
+S'mores | marshmallow, graham cracker, chocolate, campfire, stick, roast, gooey, sandwich, some more, camping, toast, melt, char, sticky
+Tarts | sweet, fruit, custard, pastry, shell, Queen of Hearts, tartlet, tartan, sour, egg tart, crust, lemon, toaster pastry, flaky

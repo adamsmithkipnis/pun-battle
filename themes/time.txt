@@ -1,0 +1,19 @@
+# Time & Clocks
+# family: science
+Clocks | tick, tock, hand, face, alarm, chime, dial, wind, cuckoo, pendulum, hour, minute, second, strike, set
+Alarm Clocks | snooze, ring, buzz, wake up, beep, set, rise and shine, early, bell, nightstand, morning, oversleep, radio
+Calendars | date, day, week, month, year, leap year, schedule, appointment, planner, page, circle, flip, save the date, holiday
+Days of the Week | Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend, weekday, hump day, TGIF, sunday best, manic Monday, case of the Mondays, Monday blues
+Mondays | alarm, commute, coffee, back to work, blues, groggy, start, week, grumble, manic, dread, fresh start, inbox
+Weekends | Saturday, Sunday, sleep in, brunch, relax, chores, errands, lazy, long weekend, getaway, day off, Monday morning, recharge
+Timers | countdown, beep, ding, set, egg timer, stopwatch, buzzer, reset, time's up, kitchen, ticking, clock, T-minus, liftoff, blast off
+Countdowns | ten, liftoff, zero, tick, final, new year, launch, clock, seconds, suspense, T-minus, blast off, backwards
+Being Late | tardy, delay, running behind, overslept, traffic, excuse, rush, fashionably late, catch up, missed, clock, hurry, late fee
+Procrastination | later, tomorrow, put off, delay, stall, dawdle, lazy, someday, snooze, distraction, last minute, dilly-dally, wait
+Time Zones | jet lag, hour, ahead, behind, zone, travel, clock, midnight, noon, Greenwich, local time, meridian, map
+Daylight Saving Time | spring forward, fall back, hour, clock, sunlight, sleep, change, reset, morning, evening, lost hour, adjust
+Schedules | plan, appointment, calendar, slot, booked, busy, free, timetable, routine, agenda, overbook, reschedule, pencil in
+Midnight | twelve, clock strike, witching hour, dark, late, pumpkin, moon, bedtime, midnight snack, stroke, dead of night, graveyard shift
+Getting Older | birthday, candle, wrinkle, gray hair, older, wiser, milestone, century, age, years, over the hill, young at heart, vintage
+Morning Routines | alarm, shower, coffee, brush, dress, commute, breakfast, snooze, rush, routine, rise and shine, early bird, bedhead
+Time Capsules | bury, dig up, future, memento, open, decade, letter, seal, relic, snapshot, preserve, keepsake, vault

@@ -1,58 +1,24 @@
-# Zoo and Safari
-Zoos
-Safaris
-Zookeepers
-Petting Zoos
-Feeding Time
-Elephants
-Giraffes
-Zebras
-Hippos
-Rhinos
-Meerkats
-Warthogs
-Gazelles
-Antelopes
-Wildebeest
-Okapis
-Tapirs
-Capybaras
-Red Pandas
-Gibbons
-Mandrills
-Aye-Ayes
-Pangolins
-Binturongs
-Yaks
-Water Buffalo
-Kudus
-Impalas
-Oryx
-Bongo Antelopes
-Hyraxes
-Safari Jeeps
-Game Drives
-Watering Holes
-The Serengeti
-The Savanna
-Binoculars
-Animal Enclosures
-The Reptile House
-Butterfly Houses
-Zoo Gift Shops
-Zoo Maps
-Don't Feed the Animals
-Elephant Trunks
-Giraffe Necks
-Zebra Stripes
-Hippo Mud Baths
-Rhino Horns
-The Great Migration
-A Zoo Breakout
-Night Safaris
-Stampedes
-Termite Mounds
-Acacia Trees
-Zoo Babies
-Wildlife Conservation
-Elephants Never Forget
+# Zoos & Safaris
+# family: nature
+Zoos | cage, exhibit, zookeeper, enclosure, feeding time, petting zoo, map, gift shop, reptile house, habitat, visitor, don't feed the animals, zoo-ology, admission, moat, bars, pen, breakout
+Safaris | jeep, guide, binoculars, savanna, game drive, watering hole, camera, big five, trek, sighting, khaki, pith helmet, tent, lodge
+Elephants | trunk, tusk, ivory, ears, stomp, herd, memory, never forget, peanut, spray, trumpet, calf, elephant in the room, pack your trunk, jumbo
+Giraffes | long neck, spots, tall, reach, leaves, acacia, stretch, tower, neck and neck, heads up, patch, sky-high, lofty, stick your neck out
+Zebras | stripes, black and white, herd, gallop, referee, crosswalk, pattern, dazzle, graze, earn your stripes, pinstripe, barcode, hoof, mane
+Hippos | mud, river, yawn, jaws, wallow, huge, tutu, submerge, grumpy, chomp, hungry, heavyweight, bloat, splash
+Rhinos | horn, charge, armor, thick skin, stampede, tough, crash, horn-rimmed, bulk, ram, mud bath, hide, poke, gray
+Gorillas | silverback, chest beat, troop, grunt, knuckle, banana, strong, gentle giant, mountain, guerrilla, go ape, groom, forest, eight hundred pound
+Meerkats | lookout, stand up, burrow, mob, sentry, peek, tunnel, alert, pop up, guard, family, desert, scout, peer
+Camels | hump, desert, spit, caravan, sand, oasis, thirst, straw that broke the camel's back, dromedary, trek, lashes, saddle, dune, knees
+Antelopes and Gazelles | leap, graceful, horn, herd, springbok, impala, wildebeest, gnu, sprint, bound, hoof, graze, stampede, pronk
+The Savanna | grassland, acacia, plain, herd, heat, dust, sun, termite mound, dry season, migration, horizon, baobab, lion, grass, watering hole, drought, oasis, sip, stampede, trample, thunder
+Watering Holes | drink, thirst, gather, lap, splash, dip, mud, pool, drought, herd, ambush, oasis, sip, reflection
+Stampedes | herd, thunder, charge, dust, hoof, rumble, run, rush, trample, panic, gallop, crowd, flee, roundup
+Petting Zoos | goat, lamb, pony, bunny, feed, pet, hand sanitizer, pellet, nibble, gentle, fence, bottle, baby animals, soft
+Zookeepers | feed, bucket, uniform, habitat, clean, enrichment, keeper, trainer, scoop, schedule, care, zoo crew, whistle, bond, feeding time, chow, dinner bell, grub
+Aviaries | cage, net, flight, perch, walk-through, chirp, feathers, exotic, dome, birdseed, flock, tweet, squawk, nest
+Arctic Animals | polar bear, walrus, narwhal, arctic fox, snowy owl, caribou, seal, ice floe, tundra, white coat, blubber, frozen, chill, igloo
+Antarctic Animals | penguin, seal, krill, whale, iceberg, emperor, huddle, colony, South Pole, albatross, chilly, ice shelf, waddle, cold snap
+Australian Animals | kangaroo, koala, wombat, platypus, emu, dingo, kookaburra, wallaby, joey, outback, down under, pouch, Tasmanian devil, echidna
+Mountain Animals | mountain goat, bighorn, yak, llama, snow leopard, eagle, marmot, climb, peak, cliff, ledge, butt heads, sure-footed, altitude
+Animal Shows | trainer, trick, audience, splash zone, bleachers, whistle, fish reward, bow, applause, sea lion, performance, finale, hoop, encore

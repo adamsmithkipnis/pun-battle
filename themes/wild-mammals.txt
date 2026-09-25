@@ -1,0 +1,28 @@
+# Wild Mammals
+# family: nature
+Bears | grizzly, polar, panda, cub, den, hibernate, honey, paw, claw, bear hug, bare, bear with me, unbearable, bear market, teddy, bamboo, pander, black and white
+Pandas | bamboo, black and white, cub, chew, roly-poly, cuddly, bear, eyes, pander, red panda, munch, lazy
+Deer | doe, buck, fawn, antler, stag, hoof, venison, reindeer, moose, elk, dear, deer in headlights, rack, graze, bambi
+Squirrels | nut, acorn, stash, bushy tail, chipmunk, scurry, nuts, tree, cheek, squirrel away, hoard, chatter, leap, flying squirrel
+Bats | fly, cave, hang upside down, wing, fang, echolocation, vampire, belfry, blind as a bat, bat an eye, nocturnal, guano, radar, batty
+Monkeys | ape, chimp, gorilla, banana, swing, vine, primate, baboon, monkey business, monkey around, grooming, troop, orangutan, barrel of monkeys, go ape
+Beavers | dam, gnaw, lodge, tooth, busy, eager beaver, log, tail slap, pond, chew, build, lumber, timber, flat tail
+Raccoons | mask, bandit, trash can, rummage, paw, ringtail, night, garbage, stripe, raid, lid, dumpster, sneaky, masked
+Skunks | stink, spray, stripe, odor, smell, scent, pew, reek, tomato bath, funky, cloud, whiff, skunked, black and white
+Hedgehogs | spine, quill, prickly, ball, curl up, hedge, hog, sharp, bristle, snuffle, point, porcupine, spiky, needle, prick, point taken
+Rodents | mouse, rat, hamster, gerbil, vole, shrew, gnaw, cheese, squeak, whisker, maze, trap, rat race, mousy, nibble
+Rabbits | hop, bunny, hare, burrow, warren, carrot, thump, fluffy tail, lucky foot, ears, hare-raising, breed, rabbit hole, cottontail
+Kangaroos | pouch, joey, hop, jump, box, bounce, mob, Australia, tail, outback, spring, leap, kangaroo court, wallaby
+Sloths | slow, hang, lazy, branch, claw, nap, snooze, sluggish, sleep, slothful, crawl, deliberate, mossy, take it easy
+Moles | tunnel, dig, burrow, hill, molehill, blind, spy, underground, soil, claw, mountain out of a molehill, whack-a-mole, velvet, lawn
+Otters | float, hold hands, raft, river, sea, splash, slide, whisker, playful, clam, rock, fur, otterly, lodge
+Weasels | ferret, stoat, mink, ermine, sneaky, slippery, weasel out, weasel words, pop goes the weasel, sly, sleek, hen house, wriggle, badger someone, honey badger, sett, wolverine
+Opossums | play dead, pouch, tail, hang, nocturnal, marsupial, possum, grin, faint, joey, scavenge, awesome possum, trash, freeze
+Hibernation | den, sleep, winter, snooze, dormant, burrow, fat, store, wake up, nap, doze, hole up, cozy, spring awakening
+Nocturnal Animals | night, owl, bat, moon, dark, night shift, glowing eyes, prowl, raccoon, possum, night owl, lurk, sleep all day, dusk
+Burrowing Animals | dig, tunnel, hole, den, warren, underground, mole, badger, groundhog, prairie dog, rabbit, gopher, pop up, shovel, prairie dog town, sentry, lookout, mound, armadillo, roll up, armor
+Prairie Dogs | town, burrow, pop up, bark, lookout, kiss, colony, mound, tunnel, peek, alarm call, grassland, sentry, whistle
+Bison | herd, roam, hump, plains, stampede, shaggy, horn, buffalo wings, home on the range, bull, graze, wallow, hoof, beefy
+Moose | antler, mousse, bull, calf, rack, hoof, lake, crossing sign, dewlap, gangly, forest, bellow, north woods, loose
+Marsupials | pouch, joey, kangaroo, koala, wombat, opossum, wallaby, carry, pocket, down under, hop, Tasmanian devil, bandicoot, mama, koala-fied, eucalyptus, gum tree, cling
+Koalas | eucalyptus, leaf, sleep, cuddle, bear, gum tree, clinging, sleepy, marsupial, grip, fuzzy, ear tufts, cling, koala-fied

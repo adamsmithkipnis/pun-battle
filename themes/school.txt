@@ -1,0 +1,27 @@
+# School
+# family: work
+Teachers | lesson, grade, apple, chalk, homework, red pen, gold star, lecture, pupil, class, tenure, teacher's pet, detention, substitute, lesson plan, sub, fill in, stand in, roll call
+Substitute Teachers | sub, sandwich, roll call, pranks, fill in, temporary, replacement, stand in, lesson plan, seating chart, swap, name tag, new face
+The Principal | principle, detention, trouble, sent to the office, discipline, intercom, hall pass, suspension, rules, vice principal, office, call home, assembly, in charge
+Homework | assignment, due, dog ate it, worksheet, study, essay, late, cram, book report, problem set, homeroom, desk, work from home, extra credit
+Report Cards | grade, A plus, fail, pass, sign, parents, comments, honor roll, straight A's, marks, GPA, conduct, improve, needs improvement
+Tests and Exams | quiz, pop quiz, final, midterm, multiple choice, essay, study, cram, pass, fail, grade, pencil, answer key, cheat sheet, true or false
+Recess | playground, swing, slide, monkey bars, tag, kickball, jungle gym, bell, dodgeball, hopscotch, four square, break, free time, sandbox
+Lockers | combination, locker room, lock, slam, hallway, stuck, door, shelf, magnet, dial, open, mirror, notes, stuffed
+Chalkboards | chalk, board, eraser, dust, screech, nails on a chalkboard, write, wipe, blackboard, clean slate, board meeting, chalk it up, slate, tray
+School Supplies | pencil, eraser, crayon, glue stick, ruler, binder, notebook, backpack, scissors, marker, highlighter, protractor, compass, pencil case, rule, measure up, yardstick
+Rulers | inch, measure, straight, line, king, rule, twelve, edge, centimeter, yardstick, measure up, slap, wood, plastic
+Pencils | lead, eraser, sharpen, point, sharp, number two, graphite, wood, pencil pusher, pencil in, doodle, stub, yellow, write
+Field Trips | bus, permission slip, museum, zoo, chaperone, buddy system, sack lunch, headcount, farm, planetarium, souvenir, trip up
+Science Fairs | volcano, poster board, experiment, hypothesis, blue ribbon, trifold, baking soda, judge, project, results, potato battery, display, mold, lab coat
+Graduation | cap, gown, tassel, diploma, commencement, speech, valedictorian, toss, degree, ceremony, class of, alumni, walk, pomp
+Yearbooks | photo, sign, signature, superlative, most likely to, class, senior, memories, write in, picture day, page, stay cool, never change
+Kindergarten | nap time, crayons, finger paint, ABCs, cubby, story time, snack time, glue, circle time, show and tell, recess, macaroni art, garden, sharing, show-off, hold up, bring in
+Show and Tell | bring, pet, gerbil, classmate, share, rock, collection, class, hold up, explain, souvenir, grandpa, bring in, show-off
+High School | prom, homecoming, locker, cafeteria, senior, freshman, jock, nerd, cliques, pep rally, detention, varsity, algebra, drama
+College | campus, dorm, major, minor, freshman, frat, tuition, lecture, professor, degree, semester, ramen, all-nighter, quad, dean
+Art Class | smock, easel, clay, finger paint, glitter, collage, macaroni, paint, crayon, kiln, fridge, color wheel, sketch, glue
+Music Class | recorder, triangle, choir, sing, scales, tambourine, note, rhythm, xylophone, practice, band, sheet music, hot cross buns, recital
+Group Projects | teamwork, slacker, partner, presentation, poster, divide, split, group chat, carry, credit, deadline, meeting, free rider, team
+Studying | cram, flash cards, notes, highlighter, library, all-nighter, quiz, memorize, review, focus, study buddy, hit the books, study hall, pore over
+The School Play | tree, costume, lines, parents, camera, forgot line, rehearsal, gym stage, prompt, lead, narrator, curtain, understudy, sheep

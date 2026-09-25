@@ -1,72 +1,29 @@
 # Pets
-Dogs
-Puppies
-Cats
-Kittens
-Goldfish
-Hamsters
-Guinea Pigs
-Gerbils
-Bunnies
-Ferrets
-Parakeets
-Hermit Crabs
-Chinchillas
-Dog Walking
-Dog Parks
-Dog Treats
-Dog Leashes
-Dog Collars
-Dog Beds
-Chew Toys
-Squeaky Toys
-Fetch
-Tug of War
-Belly Rubs
-Litter Boxes
-Scratching Posts
-Catnip
-Laser Pointers
-Hairballs
-Cat Naps
-Cats Knocking Things Over
-Hamster Wheels
-Fish Tanks
-Bird Cages
-Pet Adoption
-Rescue Shelters
-Vet Visits
-Pet Grooming
-Flea Baths
-Obedience School
-Puppy Training
-Sit and Stay
-Pet Names
-Pet Costumes
-Pet Sitters
-Dog Shows
-Poodles
-Dachshunds
-Golden Retrievers
-Beagles
-Corgis
-Pugs
-Bulldogs
-Chihuahuas
-Dalmatians
-Labradors
-Great Danes
-Border Collies
-Siamese Cats
-Persian Cats
-Tabby Cats
-Maine Coons
-Sphynx Cats
-Pet Doors
-Kibble
-Fur on the Couch
-A Dog's Diary
-The Cat Who Owns You
-Walkies
-Wagging Tails
-Cone of Shame
+# family: nature
+Dogs | bark, wag, fetch, leash, bone, paw, puppy, collar, kibble, sit, stay, heel, howl, doghouse, ruff, fur
+Cats | purr, meow, claw, whisker, kitten, litter, nap, catnip, hairball, pounce, scratch, paw, tabby, nine lives, hiss, litter box, scoop, clump
+Dog Breeds | poodle, beagle, pug, boxer, corgi, collie, bulldog, dachshund, terrier, lab, retriever, husky, great dane, pointer, mutt, hound
+Cat Breeds | Siamese, Persian, tabby, calico, Maine coon, sphynx, Bengal, ragdoll, tortoiseshell, alley cat, tomcat, Manx, Abyssinian
+Goldfish | bowl, tank, bubble, fin, flake, scale, gill, swim, memory, orange, school, float, carnival prize, reel
+Hamsters | wheel, cage, cheek pouch, run, burrow, nibble, seed, ball, tube, gerbil, guinea pig, squeak, stash, nocturnal
+Pet Birds | parrot, parakeet, budgie, canary, cage, perch, seed, cuttlebone, talk, tweet, chirp, mirror, squawk, polly
+Pet Stores | aisle, kibble, leash, cage, tank, chew toy, treat, adopt, puppy window, collar, fish food, bedding, scratcher, checkout
+Pet Adoption | shelter, rescue, forever home, foster, adopt, kennel, meet and greet, paperwork, second chance, bond, stray, found, microchip, welcome
+Dog Walking | leash, walkies, sniff, pull, heel, poop bag, lamppost, route, stroll, pace, lead, trot, park, tug
+Dog Parks | fetch, sniff, run, off-leash, frisbee, ball, bench, gate, fence, zoomies, play, ruff, tennis ball, water bowl, far-fetched, fetching, retrieve, stick, drop it
+Fetch | ball, stick, throw, retrieve, return, frisbee, chase, drop it, again, slobber, go get it, catch, far-fetched, fetching
+Pet Toys | squeaky, chew toy, ball, rope, frisbee, laser pointer, feather wand, stick, bone, plush, tug, catnip mouse, fetch, rubber
+Obedience School | sit, stay, heel, roll over, shake, fetch, down, good boy, clicker, command, reward, graduate, lesson, behave, play dead, speak, new tricks, sit pretty, high five
+Pet Grooming | brush, shampoo, bath, trim, clip, nail, fur, fluff, blow-dry, shed, groom, bow, flea, mat
+The Vet | checkup, shot, exam, cone, scale, stethoscope, thermometer, waiting room, vaccine, spay, neuter, leash, clinic, table
+Dog Shows | best in show, groom, ribbon, judge, handler, breed, trot, stack, ring, champion, pedigree, agility, leash, trophy
+Pet Names | Fido, Rover, Spot, Max, Buddy, Fluffy, Whiskers, Mittens, Lucky, Rex, Sparky, Tiger, Princess, Boots
+Collars and Leashes | tag, buckle, lead, harness, choke, retractable, clip, bell, loop, reign, collared, tether, jingle, short leash
+Fish Tanks | aquarium, filter, gravel, bubbler, castle, plant, glass, pump, algae, heater, net, tap, feed, clean
+Reptile Pets | gecko, iguana, bearded dragon, snake, turtle, terrarium, heat lamp, cricket, shed, scale, tank, basking, tongue, lizard
+Sled Dogs | mush, husky, team, harness, lead dog, trail, snow, musher, pull, pack, howl, race, sleigh, top dog
+Kennels | crate, boarding, run, bark, cage, gate, bowl, doghouse, in the doghouse, kennel club, latch, stay, bed, handler
+Guinea Pigs | squeak, wheek, test subject, cavy, hay, pellet, whistle, lab, cage, carrot, popcorning, fluffy, nibble, experiment
+Pet Food | kibble, can, bowl, dry, wet, chow, dish, scoop, feeding time, fishy, gravy, bag, begging, chew, biscuit, rawhide, jerky, good boy, treat
+Pet Costumes | dress up, Halloween, sweater, bow tie, hot dog, embarrass, photo, hat, cape, outfit, tutu, bandana, booties, disguise
+Barking | woof, yap, arf, ruff, growl, howl, bay, bark up the wrong tree, bark worse than bite, tree bark, bark orders, yip, watchdog, doorbell

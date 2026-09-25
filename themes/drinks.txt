@@ -1,0 +1,27 @@
+# Drinks
+# family: food
+Coffee | brew, grounds, roast, espresso, latte, perk, mug, decaf, bean, drip, barista, cup of joe, java, mocha, cold brew, iced, watered down
+Coffee Shops | barista, latte, cappuccino, tip jar, to go, sleeve, loyalty card, Wi-Fi, scone, foam, name on the cup, line, pour-over, regulars, latte art, froth, tamp
+Caffeine | buzz, jolt, jitters, wired, energy, crash, perk up, awake, rush, kick, alert, withdrawal, espresso, all-nighter, energy drink, amped, boost, charge
+Tea | steep, brew, leaf, kettle, chai, earl grey, bag, cuppa, herbal, infuse, spill the tea, green, mint, sip
+Tea Parties | teapot, teacup, saucer, pinky, crumpets, scones, cucumber sandwich, doily, Mad Hatter, pour, sugar lump, fancy hat, high tea, lace, short and stout, spout, tempest in a teapot
+Bubble Tea | boba, pearls, tapioca, straw, milk tea, taro, chewy, shake, sip, jelly, pop, fat straw, brown sugar, sealed cup
+Soda | fizz, pop, bubbles, can, bottle, cola, root beer, ginger ale, diet, carbonated, straw, burp, flat, sparkling
+Soda Fountains | soda jerk, float, malt, stool, counter, straw, egg cream, sundae, syrup, fizz, cherry, jukebox, shake, phosphate
+Juice | squeeze, pulp, orange, apple, grape, press, juice box, straw, concentrate, fresh, cold-pressed, juicy, fruit, cleanse
+Smoothies | blend, blender, banana, berry, kale, frozen, straw, thick, protein, yogurt, smooth operator, puree, whirl, mix
+Milkshakes | shake, malt, blend, straw, whipped cream, cherry on top, float, thick, chocolate, vanilla, strawberry, brain freeze, diner, spoon
+Hot Chocolate | cocoa, marshmallow, whipped cream, mug, steam, fireside, peppermint, sip, warm, mitten, snow day, froth, cozy, powder
+Water | drink, glass, tap, sparkling, bottled, spring, hydrate, thirst, ice, splash, fountain, filter, still, H2O, well
+Punch | bowl, ladle, fruit, spiked, sherbet, party, pack a punch, punchline, one-two punch, pleased as punch, beat to the punch, punch card, sip, red
+Apple Cider | press, hard, mulled, orchard, fall, hot, cinnamon, doughnut, jug, spiced, sweet, farm, mill, core
+Beer | brew, hops, ale, lager, stout, pint, keg, foam, head, draft, tap, pub, bottle, brewery, IPA, barley, malt, tasting room, craft
+Wine | red, white, vintage, grape, cork, bottle, glass, sip, pour, cellar, toast, rosé, merlot, uncork, bouquet, vineyard, sommelier, grapevine, stomp
+Cocktails | shaken, stirred, mix, bartender, martini, olive, cherry, garnish, rim, umbrella, happy hour, on the rocks, twist, shaker, sour, margarita, tequila, salt
+Bartenders | pour, mix, shake, stir, tab, tip jar, last call, on the rocks, bar, stool, straight up, neat, shot, garnish, cheers, happy hour, two-for-one, specials
+Pubs | pint, tap, ale, darts, bartender, stool, trivia, round, tab, cheers, last call, bar, draft, fish and chips, crawl
+Espresso | shot, crema, portafilter, double, express, tamp, pull, doppio, machine, bitter, tiny cup, jolt, Italian, strong
+Root Beer | float, foam, fizz, mug, barrel, sassafras, vanilla, ice cream, frosty, draft, soda fountain, root for, brew, burp
+Ice Cubes | tray, freeze, cold, melt, clink, rocks, crushed, chill, icebreaker, maker, float, glass, cooler, break the ice
+Champagne | bubbly, cork, pop, flute, toast, New Year, sparkling, bottle, spray, celebrate, bubbles, vintage, champagne problems, brut
+Straws | sip, bendy, paper, crazy straw, slurp, last straw, draw straws, short straw, grasp at straws, reusable, suck, straw hat, straw man, milkshake

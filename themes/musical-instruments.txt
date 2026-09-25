@@ -1,65 +1,27 @@
 # Musical Instruments
-Pianos
-Drums
-Guitars
-Violins
-Tubas
-Kazoos
-Trumpets
-Trombones
-Flutes
-Clarinets
-Oboes
-Bassoons
-Saxophones
-Harps
-Cellos
-Double Basses
-Banjos
-Ukuleles
-Harmonicas
-Accordions
-Bagpipes
-Xylophones
-Triangles
-Cymbals
-Tambourines
-Bongos
-Maracas
-Cowbells
-French Horns
-Pipe Organs
-Synthesizers
-Mandolins
-Sitars
-Piccolos
-Recorders
-Didgeridoos
-Harpsichords
-Timpani
-Glockenspiels
-Steel Drums
-Castanets
-Bugles
-Violas
-Lutes
-Pan Flutes
-Theremins
-Keytars
-Tuning Forks
-Guitar Picks
-Drumsticks
-Band Practice
-A Piano Tuner's Day Off
-The Music Store
-Marching Bands
-Guitar Strings
-Metronomes
-Instrument Cases
-The Brass Section
-The Woodwind Section
-Clarinet Reeds
-Violin Bows
-Grand Pianos
-Electric Guitars
-Air Guitar
+# family: arts
+Pianos | keys, grand, upright, pedal, ivories, tickle the ivories, octave, sharp, flat, bench, tune, forte, baby grand, play by ear
+Guitars | strum, pick, fret, string, chord, neck, riff, acoustic, electric, amp, bridge, capo, solo, axe, twang
+Drums | beat, snare, kick, sticks, cymbal, roll, drum up, rim shot, kit, tom, skin, march to your own beat, bang, pound
+Violins | bow, string, fiddle, fit as a fiddle, chin rest, scroll, pluck, bridge, second fiddle, rosin, pizzicato, tune, bow out
+Trumpets | blow, brass, horn, toot your own horn, valve, mute, fanfare, mouthpiece, blast, reveille, bugle, trump, call
+Flutes | whistle, blow, piccolo, fife, pan pipes, high note, trill, fingers, magic, pied piper, fluting, champagne, flutter
+Woodwinds | reed, oboe, clarinet, bassoon, squeak, licorice stick, double reed, wind, blow, key, wood, breath, piccolo, English horn
+Saxophones | sax, reed, jazz, blow, smooth, alto, tenor, honk, bell, mouthpiece, solo, sax appeal, cool, wail
+The Brass Section | brass tacks, horn, trumpet, trombone, tuba, bugle, blow, valve, slide, brassy, top brass, polish, fanfare, bold as brass, oompah, sousaphone
+Tubas | oompah, brass, bass, low, blow, bell, valve, march, sousaphone, rumble, heavy, big, toot
+Trombones | slide, brass, blow, bone, wah-wah, sad trombone, tailgate, march, glissando, slip, mute, seventy-six, bell
+Harps | pluck, string, angel, harp on, heavenly, lyre, pedal, gold, strum, Celtic, cloud, harpist, glissando
+Cellos | bow, string, hello, mellow, jello, deep, endpin, bass clef, quartet, sonata, rosin, low note, suite
+Banjos | pluck, twang, pick, bluegrass, strum, duel, drum head, five-string, front porch, jug band, frailing, country, roll
+Ukuleles | uke, strum, Hawaii, luau, four strings, tiny, island, aloha, hula, surf, tiptoe, plunk, you-kulele
+Harmonicas | harp, blues, blow, draw, mouth organ, harmony, reed, pocket, wail, train, lonesome, bend, chug
+Accordions | squeeze, squeezebox, polka, fold, bellows, button, press, accord, in accordance, oompah, keys, wheeze, pleat
+Bagpipes | pipe, drone, kilt, bag, chanter, Scotland, blow, wail, squeal, highland, piper, pipe down, tartan
+Percussion | cymbal, triangle, gong, tambourine, maraca, castanets, bongo, cowbell, xylophone, mallet, strike, shake, rattle, timpani, clap, crash, clash, hi-hat, symbol
+Cymbals | crash, clash, ride, hi-hat, splash, symbol, brass, gong, clang, marching, drum kit, sizzle, cymbalism
+Organs | pipe, keys, stop, pull out all the stops, pedal, church, organ grinder, monkey, chord, swell, wedding march, heart, liver, phantom
+Synthesizers | synth, electronic, keyboard, patch, sample, loop, wave, filter, synthetic, beep, modulate, sequence, oscillate, eighties
+Recorders | record, school, squeak, blow, descant, hot cross buns, plastic, finger holes, tape, rewind, play back, shrill
+Bells | ring, chime, ding-dong, toll, jingle, peal, clang, tower, handbell, doorbell, saved by the bell, ring a bell, clapper, dumbbell
+The String Section | bow, pluck, fiddle, violin, viola, cello, double bass, tune, tension, pull strings, no strings attached, highly strung, string along, quartet

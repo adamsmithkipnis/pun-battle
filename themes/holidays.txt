@@ -1,0 +1,26 @@
+# Holidays
+# family: play
+Holidays | vacation, day off, tradition, feast, gift, decorate, parade, family, celebrate, calendar, festive, holiday spirit, long weekend
+New Year's Eve | countdown, midnight, ball drop, resolution, toast, champagne, confetti, kiss, party hat, noisemaker, fresh start, auld lang syne
+New Year's Resolutions | goal, diet, gym, promise, habit, quit, fresh start, list, willpower, January, break, stick to it, pledge
+Valentine's Day | heart, cupid, arrow, rose, chocolate, card, sweetheart, crush, love, candy hearts, date, be mine, kiss, secret admirer
+Saint Patrick's Day | green, shamrock, clover, leprechaun, pot of gold, rainbow, luck, Irish, parade, pinch, jig, lucky charm, blarney
+Easter | egg, bunny, basket, hunt, jelly bean, chick, dye, spring, lily, bonnet, marshmallow, hop, chocolate bunny
+April Fools' Day | prank, joke, trick, gag, hoax, fool, whoopee cushion, gotcha, fake, practical joke, kidding, jester, gullible
+Mother's Day | mom, flowers, card, breakfast in bed, brunch, hug, carnation, gift, apron, thank you, mum, bouquet
+Father's Day | dad, tie, grill, dad joke, card, golf, tool, barbecue, recliner, pops, papa, gift, remote
+Fourth of July | fireworks, flag, parade, picnic, barbecue, sparkler, independence, stars, stripes, bang, freedom, red white and blue, pop
+Fireworks | sparkler, rocket, boom, bang, fuse, burst, dazzle, flash, pop, spark, light show, finale, oooh, blast
+Thanksgiving | turkey, stuffing, gravy, pie, cranberry, feast, grateful, thanks, leftovers, parade, wishbone, carve, gobble, pilgrim
+Halloween | costume, candy, trick-or-treat, pumpkin, jack-o'-lantern, mask, spooky, witch, ghost, haunt, treat, boo, bat, cobweb
+Christmas | tree, ornament, stocking, sleigh, reindeer, elf, gift, wrap, carol, mistletoe, jingle, tinsel, chimney, wreath, garland, inflatable, deck the halls
+Santa Claus | sleigh, reindeer, beard, chimney, workshop, elf, naughty, nice, list, ho ho ho, North Pole, sack, cookie, red suit
+Hanukkah | menorah, candle, dreidel, latke, gelt, eight nights, light, spin, oil, festival, miracle, blessing, shamash
+Lunar New Year | dragon, lantern, red envelope, firecracker, dumpling, zodiac, parade, lion dance, luck, fortune, new moon, festival
+Presents | gift, wrap, bow, box, surprise, regift, receipt, wish list, unwrap, shake, tag, give, present tense
+Parades | float, march, band, baton, balloon, route, confetti, crowd, grand marshal, wave, drum, procession, rain on my parade
+Groundhog Day | shadow, burrow, spring, winter, prediction, six more weeks, emerge, hole, forecast, repeat, loop, Phil
+Mardi Gras | beads, float, mask, parade, king cake, jester, feathers, costume, purple, gold, green, throw, carnival
+Anniversaries | year, date, toast, milestone, gold, silver, paper, remember, celebrate, card, flowers, dinner, diamond
+Earth Day | recycle, plant, tree, planet, reduce, reuse, clean up, compost, green, litter, globe, conserve, down to earth
+Labor Day | long weekend, barbecue, rest, day off, end of summer, back to school, parade, sale, labor of love, work, hard-earned, picnic

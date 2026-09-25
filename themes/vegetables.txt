@@ -1,65 +1,30 @@
 # Vegetables
-Vegetables
-Carrots
-Broccoli
-Cauliflower
-Peas
-Corn
-Potatoes
-Sweet Potatoes
-Onions
-Garlic
-Leeks
-Celery
-Lettuce
-Spinach
-Kale
-Cabbage
-Brussels Sprouts
-Beets
-Radishes
-Turnips
-Parsnips
-Cucumbers
-Zucchini
-Squash
-Pumpkins
-Eggplants
-Tomatoes
-Bell Peppers
-Asparagus
-Artichokes
-Mushrooms
-Okra
-Green Beans
-Bok Choy
-Arugula
-Watercress
-Rhubarb
-Yams
-Shallots
-Scallions
-Fennel
-Kohlrabi
-Endive
-Collard Greens
-Swiss Chard
-Olives
-Salads
-Veggie Trays
-Salad Bars
-Coleslaw
-Mashed Potatoes
-Baked Potatoes
-Corn on the Cob
-Root Vegetables
-Leafy Greens
-Eat Your Vegetables
-A Carrot's Job Interview
-Farmers Market Stalls
-Vegetarians
-Pea Pods
-Jicama
-Rutabagas
-Microgreens
-Gourds
+# family: food
+Vegetables | carrot, pea, corn, potato, onion, lettuce, broccoli, celery, beet, squash, turnip, leek, veggie, couch potato, eat your greens, asparagus, spear, stalk, eggplant, aubergine
+Potatoes | spud, mash, fry, bake, peel, eye, tater, skin, chip, hash, couch potato, hot potato, small potatoes, sweet, russet, yam, sweet potato, candied, sweetie
+Sweet Potatoes | yam, casserole, marshmallow, fries, orange, pie, mash, bake, tuber, Thanksgiving, sweetie, candied, roast, sweetheart
+Carrots | orange, crunch, root, peel, stick, carrot cake, carrot and stick, bunny, eyesight, top, baby, shred, snowman nose, dangle
+Corn | cob, kernel, husk, ear, pop, maize, butter, stalk, field, corny, cornrows, cornbread, shuck, silk, candy corn
+Peas | pod, green, split pea, peashooter, sweet pea, mushy, frozen, snap, snow, peace, please, two peas in a pod, princess, shell
+Onions | layer, peel, cry, tears, ring, chop, red, white, sweet, green, scallion, bulb, shallot, breath, dice
+Garlic | clove, bulb, breath, vampire, press, mince, roast, bread, knot, stink, powder, head, peel, aioli
+Tomatoes | red, ripe, vine, ketchup, sauce, salsa, cherry, heirloom, slice, sun-dried, fruit or vegetable, splat, throw, you say tomato
+Lettuce | leaf, head, iceberg, romaine, crisp, wrap, salad, let us, shred, wilted, green, cabbage, bunny food, heart
+Salads | toss, greens, dressing, crouton, lettuce, bowl, fork, ranch, vinaigrette, side, bar, garden, Caesar, chef, word salad
+Peppers | bell, hot, jalapeno, chili, spicy, stuffed, roasted, green, red, spray, heat, Scoville, peppy, pepper pot
+Broccoli | floret, tree, crown, stalk, steam, green, cheese sauce, crunchy, bunch, head, cauliflower, raw, rock and roll, trunk
+Cabbage | head, leaf, coleslaw, sauerkraut, patch, stuffed, red, green, stinky, ball, roll, kimchi, boil, core, Brussels sprouts, sprout, mini cabbage
+Brussels Sprouts | sprout, mini cabbage, stalk, bitter, roast, kids hate, leaves, Belgium, stinky, bacon, green, crispy, halved, char
+Cucumbers | pickle, cool, slice, crunch, seed, spa, eye mask, sea cucumber, salad, gherkin, dill, vine, bumpy, cool as a cucumber
+Pickles | dill, brine, jar, sour, gherkin, sweet, crunch, relish, in a pickle, vinegar, spear, chips, deli, kosher
+Squash | zucchini, pumpkin, butternut, acorn, spaghetti, gourd, squish, smash, sport, vine, seed, yellow, winter, summer, zoodle, zucchini bread, garden overload
+Pumpkins | carve, patch, pie, spice, seeds, orange, gourd, stem, vine, harvest, Cinderella, carriage, smash, latte
+Celery | stalk, crunch, stick, rib, ants on a log, peanut butter, string, soup, salary, green, dip, leaves, snap, stringy
+Beets | root, red, purple, stain, beet it, beat, borscht, juice, sugar, earthy, pickled, heartbeat, deadbeat, roast
+Root Vegetables | carrot, turnip, parsnip, beet, radish, rutabaga, yam, dig, underground, cellar, earthy, tuber, root for, sweet potato
+Leafy Greens | spinach, kale, lettuce, arugula, collard, chard, bunch, leaf, turn over a new leaf, iron, salad, wilt, kale yeah, bitter
+Olives | pit, oil, branch, green, black, martini, tapenade, olive you, jar, stuffed, Greek, grove, briny, pimento
+Vegetarians | plant-based, tofu, veggie burger, meatless, vegan, lentil, tempeh, salad, greens, herbivore, bean, kale, grain bowl, tofurkey
+Cauliflower | floret, rice, head, white, cheese, pizza crust, steak, mash, roast, buffalo, cloud, ear, brain, flower
+Green Beans | casserole, snap, string, snip, steam, crispy onions, pod, Thanksgiving, French-cut, almondine, Jack, beanstalk, crunch, lean
+Artichokes | heart, leaves, choke, dip, globe, thistle, steam, marinated, art, spiky, petals, spinach dip, scrape, butter

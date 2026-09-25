@@ -1,0 +1,21 @@
+# Inside the Body
+# family: body
+Hearts | beat, pump, love, valentine, break, heartfelt, heartthrob, change of heart, pulse, cardio, heart of gold, take heart, sweetheart, heartburn
+Brains | brainstorm, think, mind, brainy, noggin, gray matter, lobe, brain freeze, no-brainer, brainwash, genius, smart, nerve, IQ
+Lungs | breath, inhale, exhale, air, lung capacity, gasp, pant, sigh, holler, breathe easy, oxygen, bellows, sing, wind
+Stomachs | belly, tummy, gut, growl, butterflies, stomach it, hungry, digest, full, ache, abs, gut feeling, can't stomach, bellyache
+Bones | skeleton, funny bone, bone dry, bone up, bone to pick, marrow, joint, skull, rib, femur, break, bare bones, lazybones, bony
+Muscles | flex, biceps, pump, strong, sore, pull, cramp, abs, brawn, muscle in, ripped, tone, stretch, beefy
+Blood | vein, artery, type, donor, red cell, bleed, bloodhound, blue blood, bad blood, in your blood, cold-blooded, blood drive, bloodline, pressure
+Nerves | nervous, get on my nerves, nerves of steel, lose your nerve, some nerve, frayed, jitters, spinal cord, signal, pinched, neuron, reflex, sensory, twitch
+Spines | backbone, vertebrae, spineless, spine-tingling, book spine, cactus, posture, straight, disc, spinal cord, curve, slouch, chiropractor, back
+Sneezes | achoo, bless you, tissue, pollen, sniffle, cover your mouth, nose, dust, pepper, spray, gesundheit, tickle, hay fever, sneezy
+Hiccups | hic, hold your breath, scare, glass of water, spasm, diaphragm, sip, upside down, sugar, cure, jolt, gulp, squeak
+Burps | belch, excuse me, soda, fizz, gas, burp the baby, rumble, loud, alphabet, gulp, bubbles, pardon, air
+Sweat | perspire, drip, no sweat, sweat it out, sweatshirt, sweatpants, glisten, deodorant, armpit, cold sweat, sweat the small stuff, damp, glow, sauna
+Tears | cry, tissue, sob, weep, teardrop, tearjerker, crocodile tears, waterworks, well up, tear duct, bawl, rip, boo-hoo, shed
+Goosebumps | chills, shiver, cold, hair, bumps, creepy, thrill, prickle, tingle, goose, skin, spine-tingling, shudder
+The Five Senses | sight, hearing, smell, taste, touch, sixth sense, common sense, make sense, nonsense, sensation, feel, scent, look, sensible, keep in touch, touchy, texture, tickle
+Reflexes | knee-jerk, blink, flinch, jump, reaction, hammer, twitch, quick, reflexive, startle, dodge, instinct, cat-like
+Body Language | gesture, posture, shrug, wink, nod, crossed arms, eye roll, lean, fidget, slouch, smirk, eye contact, wave, point
+Facial Expressions | smile, frown, grin, grimace, smirk, wink, sneer, pout, raise eyebrows, scowl, poker face, beam, straight face, glare

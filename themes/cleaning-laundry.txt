@@ -1,0 +1,25 @@
+# Cleaning & Laundry
+# family: home
+Cleaning | scrub, mop, sweep, dust, wipe, polish, vacuum, spotless, tidy, rinse, squeaky clean, come clean, clean slate, spring
+Cleaning Supplies | sponge, bleach, mop, broom, bucket, spray, rag, scrub brush, rubber gloves, duster, squeegee, cleanser, paper towel, wipes
+Chores | dishes, laundry, trash, vacuum, dust, sweep, mow, allowance, chore chart, errand, task, tidy, clean your room, grind
+Spring Cleaning | declutter, purge, scrub, dust, air out, window, closet, donate, fresh start, spring, sweep, toss, deep clean, sparkle, organize, hoard, minimal, less is more
+Vacuums | suck, hose, bag, canister, upright, attachment, nozzle, crumbs, carpet, roar, suck it up, empty, filter, suction, pick up
+Brooms | sweep, bristle, dustpan, handle, witch, broomstick, clean sweep, sweep under the rug, whisk, fly, corner, push broom, sweep off your feet
+Mops | bucket, wring, swab, damp, floor, handle, head, mop up, mopey, squeeze, slosh, spill, wet, strands
+Sponges | soak, absorb, squeeze, scrub, scour, porous, soft, wring, suds, sponge off, sponge bath, dish, rough side, sponge cake
+Dusting | duster, feather, cobweb, shelf, polish, wipe, dust bunny, dust up, bite the dust, allergy, settle, cloth, sneeze, dust jacket
+Soap | lather, suds, bubble, bar, rinse, lye, foam, soap opera, soapbox, slippery, scrub, dish soap, wash your mouth out, clean
+Stains | spot, blot, smudge, splotch, bleach, soak, set in, grease, ink, wine, pretreat, out damn spot, remover, mark
+Trash | garbage, can, bin, bag, dump, landfill, litter, curb, take out, rubbish, junk, trash talk, heap, waste
+Recycling | bin, reuse, reduce, sort, plastic, glass, paper, compost, green, can, cycle, bottle, pickup, blue bin, upcycle
+Messy Rooms | clutter, pile, mess, junk, pigsty, disaster, heap, strewn, sloppy, tornado, hurricane, chaos, clean your room, floordrobe
+Neat Freaks | tidy, spotless, organize, label, alphabetize, fussy, obsess, clean, straighten, order, neat, particular, perfectionist, dust
+Laundry | wash, dry, fold, load, spin, rinse, hamper, detergent, lint, sock, air your dirty laundry, laundry list, bleach, whites, fitted sheet, crease, basket
+Washing Machines | spin, cycle, rinse, load, drum, agitate, gentle, heavy duty, suds, front-loader, wash, delicate, soak, spin cycle
+Clothes Dryers | tumble, lint, heat, shrink, static, dryer sheet, cycle, drum, fluff, cling, warm, dry run, bone dry, sock, odd sock, orphan, mismatch
+Ironing | press, crease, wrinkle, starch, steam, board, pleat, flat, iron out, pressing matter, scorch, collar, iron-clad, hot
+Laundromats | coin, quarter, machine, spin, wait, detergent, fold, load, dryer, cycle, wash, change, bench, token
+Clotheslines | pin, clothespin, hang, line, dry, breeze, peg, sheet, wind, sun, rope, strung, hung out to dry, pole
+Washing Dishes | sink, suds, scrub, rinse, dry, rack, sponge, towel, soak, stack, load, plate, dish soap, dishpan hands
+Polishing | shine, buff, wax, gleam, polish off, silver, spit and polish, rag, luster, sheen, glossy, elbow grease, spotless, nail polish

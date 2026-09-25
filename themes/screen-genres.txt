@@ -1,0 +1,21 @@
+# Film and TV Genres
+# family: arts
+Horror Movies | scream, fright, slasher, jump scare, haunted, creepy, sequel, final girl, don't go in there, monster, chills, shriek, basement, cabin
+Romantic Comedies | meet-cute, rom-com, love, kiss, airport chase, wedding, happy ending, crush, grand gesture, rain, boombox, date, misunderstanding, fall for
+Action Movies | explosion, chase, hero, stunt, sequel, one-liner, fight, blast, car chase, villain, rescue, slow-mo walk, action hero, sidekick
+Silent Films | title card, piano, pantomime, slapstick, black and white, flicker, custard pie, mime, talkies, reel, organ, mustache, speechless, silence
+Film Noir | shadow, detective, fedora, femme fatale, rain, dame, trench coat, black and white, gritty, venetian blinds, voiceover, dark, smoky
+Documentaries | narrator, footage, interview, nature, true story, fact, doc, film crew, wildlife, archive, expose, real life, subject
+Spy Movies | secret agent, gadget, undercover, bond, martini, license, tuxedo, double agent, code, mission, briefcase, villain lair, shaken, spy, mole, bug, cover, surveillance, classified, tail
+Slapstick Comedy | pratfall, banana peel, pie in the face, trip, bonk, tumble, stooge, bumble, whack, slip, klutz, fall, pie, seltzer
+Cartoons | animation, toon, frame, cel, draw, voice actor, sketch, stop-motion, clay, anvil, flipbook, animator, character, Saturday morning
+Sitcoms | laugh track, catchphrase, studio audience, episode, rerun, spin-off, pilot, family, living room, couch, cast, zinger, jump the shark
+Game Shows | host, buzzer, contestant, prize, jackpot, wheel, spin, lightning round, podium, final answer, lifeline, come on down, bonus round, showcase
+Soap Operas | suds, lather, bubble, evil twin, amnesia, cliffhanger, daytime, drama, slap, gasp, scandal, secret, wedding, rinse, to be continued, season finale, nail-biter
+Cliffhangers | edge, hang, suspense, to be continued, cliff, gasp, episode, season finale, twist, tension, wait, dangle, nail-biter, drop
+Reality TV | confessional, voted off, drama, rose, island, tribe, elimination, makeover, fake, contestant, alliance, reunion, unscripted, camera crew
+Talk Shows | host, guest, couch, monologue, band, desk, interview, audience, applause sign, late night, plug, sidekick, chat, segment
+Talent Shows | judge, buzzer, audition, golden buzzer, act, juggle, sing, stage, vote, finalist, standing ovation, magic act, sob story
+The News | anchor, headline, breaking, report, weather, desk, broadcast, correspondent, live, scoop, story, teleprompter, sign off, top story, ratings, news anchor, update
+Commercials | ad, jingle, break, slogan, pitch, spokesperson, act now, but wait there's more, infomercial, sponsor, tagline, buy, operators standing by, product placement
+B Movies | cheesy, low budget, creature, drive-in, schlock, cult, bad acting, rubber suit, double feature, grade, camp, special effects, bee

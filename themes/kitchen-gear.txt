@@ -1,0 +1,22 @@
+# Kitchen Gear
+# family: food
+Pots and Pans | lid, handle, skillet, saucepan, stockpot, wok, cast iron, nonstick, clang, pan out, potluck, potshot, criticize, crackpot
+Cast Iron | skillet, seasoning, heavy, heirloom, cornbread, rust, sear, pan, iron out, iron will, grandma's, handle, oven-safe, pump iron
+Kitchen Knives | chop, slice, dice, blade, sharpen, chef's knife, cleaver, paring, butter knife, block, edge, cut, cutting board, knife skills, board meeting, on board, butcher block
+Kitchen Utensils | spatula, whisk, ladle, tongs, peeler, grater, masher, can opener, colander, rolling pin, measuring cup, drawer, flip, scoop, rolling in dough, roll out, flatten
+Silverware | fork, knife, spoon, spork, drawer, set, place setting, tines, soup spoon, silver spoon, fork over, fork in the road, cuddle, polish, napkin, back of a napkin, fold
+Dishes | plate, bowl, cup, saucer, platter, china, stack, wash, dish rack, dishwasher, chip, break, dish the dirt, fine china
+Cups and Mugs | handle, sip, mug shot, coffee, tea, chip, stain, rim, saucer, coaster, travel mug, cup holder, world cup, not my cup of tea
+Ovens | bake, preheat, broil, rack, timer, door, hot, dial, bun in the oven, toaster oven, convection, mitt, light, self-clean
+Stoves | burner, flame, knob, gas, electric, range, back burner, front burner, pilot light, stovetop, heat, simmer, boil, hood
+Refrigerators | fridge, freezer, magnet, door, shelf, ice maker, cold, chill, leftovers, crisper, light, hum, is your fridge running, cool
+Microwaves | beep, zap, nuke, popcorn, turntable, reheat, minute, timer, spin, splatter, door, button, defrost, hot spot
+Toasters | pop, slot, lever, crumbs, burnt, golden, dial, bagel setting, crumb tray, pop-up, plug, warm, darkness setting, toast
+Blenders | blend, whirl, pulse, puree, smoothie, lid, blade, crush, ice, whip, loud, mix, blend in, frappe
+Slow Cookers | crock, low and slow, all day, stew, chili, pulled pork, lid, set it and forget it, simmer, pot roast, tender, potluck, warm, dump
+Aprons | tie, pocket, apron strings, kiss the cook, splatter, chef, grill, bib, stain, waist, smock, pinafore, cover, tied to
+Chopsticks | pinch, pair, bamboo, grip, drop, rest, chop, stick, training, sushi, noodles, fork, hairpin, click
+Coffee Makers | brew, pot, filter, carafe, timer, drip, grounds, pod, warm plate, gurgle, water tank, morning, auto shutoff, programmable
+Mixers | whisk, beater, dough hook, bowl, speed, splatter, cream, batter, whip, lick the beaters, attachment, knead, mix and match, social
+Food Storage | container, lid, leftover, zipper bag, wrap, foil, jar, freeze, label, stack, mismatched lids, airtight, seal, cling
+Kettles | whistle, boil, steam, spout, tea, electric, pot calling the kettle black, handle, copper, stovetop, pour, kettle corn, kettlebell, kettle of fish

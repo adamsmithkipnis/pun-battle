@@ -1,60 +1,18 @@
-# Reptiles and Amphibians
-Frogs
-Toads
-Tree Frogs
-Bullfrogs
-Poison Dart Frogs
-Tadpoles
-Salamanders
-Newts
-Axolotls
-Hellbenders
-Snakes
-Rattlesnakes
-Pythons
-Boa Constrictors
-Cobras
-Garter Snakes
-Anacondas
-Vipers
-Lizards
-Geckos
-Iguanas
-Chameleons
-Komodo Dragons
-Bearded Dragons
-Monitor Lizards
-Gila Monsters
-Horned Lizards
-Skinks
-Tuataras
-Alligators
-Crocodiles
-Caimans
-Turtles
-Tortoises
-Box Turtles
-Snapping Turtles
-Galapagos Tortoises
-Shedding Skin
-Scales
-Cold-Blooded Creatures
-Basking in the Sun
-Heat Lamps
-Terrariums
-Lily Pads
-Croaking
-Leapfrog
-Frog Jumping Contests
-Hopping
-Venom
-Forked Tongues
-Snake Charming
-Camouflage
-A Chameleon's Wardrobe
-Tortoise and Hare Rematch
-Turtle Shells
-Hissing
-Slithering
-Swamp Life
-Reptile Eggs
+# Reptiles, Amphibians & Dinosaurs
+# family: nature
+Frogs | croak, ribbit, hop, leap, lily pad, tadpole, toad, pond, fly, tongue, leapfrog, frog in your throat, prince, bullfrog, green, toadstool, toady, warts, horned
+Toads | warts, hop, bumpy, croak, toadstool, garden, dry, toady, horned, tongue, squat, cane toad, lumpy, poison
+Snakes | hiss, slither, fang, venom, rattle, coil, scale, shed, python, cobra, adder, forked tongue, snake eyes, charm, boa, sidewind, rattled, diamondback, maraca, strike
+Rattlesnakes | maraca, shake, warning, desert, coil, strike, fang, tail, diamondback, buzz, baby rattle, rattled, venom, rock
+Lizards | gecko, iguana, chameleon, scale, tail, bask, tongue, crawl, dragon, skink, lounge lizard, cold-blooded, wall, sun, sticky feet, cling, upside down
+Turtles | shell, slow, snap, box, sea turtle, tortoise, hare, retreat, head in, slow and steady, paddle, pond, flipper, turtleneck
+Alligators and Crocodiles | jaws, snap, swamp, tail, scale, teeth, crocodile tears, see you later, gator, lurk, chomp, ambush, bask, Nile
+Chameleons | color change, camouflage, blend in, tongue, eyes, swivel, sticky, hide, mood, disguise, grip, tail, slow, shade
+Scales and Skin | shimmer, shed, molt, slough, armor, rough, smooth, pattern, diamond, plate, hide, scaly, weigh, tip the scales
+Pond Life | frog, tadpole, dragonfly, duck, lily pad, water strider, snail, newt, reeds, algae, ripple, skim, splash, pond scum
+Cold-Blooded Creatures | bask, sun, heat lamp, rock, chill, warm up, sluggish, blanket, temperature, lounge, sunbathe, cool, thaw, shiver
+Dinosaurs | T. rex, triceratops, stegosaurus, raptor, brontosaurus, roar, stomp, claw, tiny arms, horn, spike, long neck, Jurassic, extinct, prehistoric, tyrant, can't reach, big head, apex, pterodactyl, swoop
+T. Rex | tiny arms, roar, king, tyrant, stomp, teeth, big head, can't reach, clap, hug, apex, tyrannosaurus, chomp, Jurassic
+Paleontology | dig, brush, excavate, site, bone, skeleton, museum, fossil, pick, sediment, dating, layer, find, reconstruct
+The Ice Age | mammoth, glacier, freeze, woolly, tusk, frost, thaw, saber-tooth, sloth, cave, chill, iceberg, frozen, ice cap
+Amphibians | frog, toad, newt, salamander, slimy, pond, both worlds, tadpole, gills, lungs, moist, croak, metamorphosis, hop, axolotl, regrow, spotted

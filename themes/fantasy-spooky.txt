@@ -1,0 +1,32 @@
+# Fantasy & Spooky
+# family: history-fantasy
+Dragons | fire, breath, scale, wing, hoard, lair, claw, tail, egg, roar, slay, knight, smoke, cave, drag
+Unicorns | horn, rainbow, mane, magic, sparkle, glitter, hoof, gallop, mythical, pure, pony, mane event, pointed
+Wizards | wand, spell, robe, beard, staff, potion, tower, hat, apprentice, magic, cast, spellbook, owl, sorcerer
+Witches | broom, cauldron, spell, hat, cackle, potion, brew, black cat, wart, hex, curse, coven, fly, wand
+Magic Spells | cast, charm, hex, curse, incantation, abracadabra, wand, enchant, potion, spellbound, jinx, bewitch, word, magic word
+Magic Potions | brew, cauldron, bottle, vial, bubble, elixir, love potion, ingredient, stir, recipe, poison, sip, antidote
+Elves | ears, bow, arrow, forest, pointy, workshop, shoe, magic, immortal, grace, elvish, toy, shelf
+Dwarves | beard, axe, mine, dig, pick, gold, gem, tunnel, forge, hammer, short, ale, helmet, sing
+Goblins | green, sneaky, cave, gold, mischief, gremlin, market, pointy, cackle, loot, trick, hoard, grin
+Trolls | bridge, toll, cave, club, stone, ugly, grumpy, under, internet, lurk, riddle, big, snore
+Ogres | swamp, club, giant, grumpy, smell, stomp, layers, cave, roar, brute, ugly, hungry, big foot
+Giants | tall, stomp, beanstalk, fee fi fo fum, big, huge, club, castle, cloud, gentle giant, shadow, towering, colossal
+Fairies | wings, wand, dust, sparkle, wish, magic, pixie, flutter, glow, tooth, fairy ring, tiny, godmother, flit
+Gnomes | garden, hat, beard, pointy, short, lawn, mushroom, underground, mischief, statue, red cap, gnome sweet gnome, knowing
+Mermaids | tail, fin, scale, ocean, shell, song, sea, siren, wave, splash, comb, reef, mer, shipwreck
+Genies | lamp, wish, three wishes, rub, smoke, bottle, magic, master, grant, puff, carpet, bound, freedom
+Bigfoot | footprint, hairy, woods, sighting, blurry photo, legend, cryptid, hide, track, hoax, sasquatch, yeti, shaggy
+Monsters | claw, fang, roar, scary, beast, creature, lair, closet, under the bed, hairy, slime, growl, horror, monstrous, kraken, tentacle, Loch Ness
+Ghosts | boo, haunt, sheet, spirit, phantom, spooky, float, chain, rattle, moan, see-through, possess, apparition, ghostwriter
+Haunted Houses | creak, attic, cobweb, ghost, portrait, secret passage, cellar, spooky, chill, scream, door, haunt, candle, stairs, clank, shriek, wail
+Vampires | fang, bite, blood, bat, cape, coffin, garlic, stake, count, night, sunlight, mirror, castle, suck
+Werewolves | full moon, howl, fur, fang, claw, transform, silver bullet, moon, beast, wolf, bite, hairy, growl
+Zombies | brain, undead, walk, groan, shamble, rot, apocalypse, bite, horde, moan, rise, grave, limb
+Mummies | wrap, bandage, tomb, pharaoh, curse, sarcophagus, pyramid, unravel, ancient, dust, mummy's boy, embalm, crypt
+Skeletons | bone, skull, rib, spine, rattle, closet, funny bone, bare bones, marrow, joint, femur, grin, jaw
+Frankenstein | monster, lab, bolt, lightning, stitch, doctor, it's alive, lever, green, flat head, creature, grunt
+Jack-o'-Lanterns | pumpkin, carve, candle, grin, glow, seed, stem, gourd, porch, face, lantern, orange, gut
+Trick-or-Treating | candy, costume, doorbell, bag, treat, trick, porch, bucket, neighbor, full-size bar, knock, loot
+Scary Stories | campfire, flashlight, creepy, scream, legend, jump scare, twist, spooky, tale, spine-chilling, goosebumps, shiver
+Superstitions | luck, black cat, ladder, mirror, knock on wood, salt, friday the thirteenth, horseshoe, rabbit's foot, jinx, charm, omen

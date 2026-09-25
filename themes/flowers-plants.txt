@@ -1,61 +1,27 @@
-# Flowers and Plants
-Roses
-Tulips
-Daisies
-Sunflowers
-Lilies
-Orchids
-Daffodils
-Violets
-Lilacs
-Carnations
-Poppies
-Dandelions
-Marigolds
-Petunias
-Pansies
-Peonies
-Irises
-Lavender
-Hydrangeas
-Magnolias
-Cherry Blossoms
-Lotus Flowers
-Snapdragons
-Forget-Me-Nots
-Buttercups
-Bluebells
-Honeysuckle
-Morning Glories
-Chrysanthemums
-Hibiscus
-Jasmine
-Thistles
-Carnivorous Plants
-Venus Flytraps
-Succulents
-Aloe Vera
-Ferns
-Ivy
-Poison Ivy
-Clover
-Bamboo
-Houseplants
-Seeds
-Pollen
-Petals
-Thorns
-Stems
-Bouquets
-Flower Shops
-Pressed Flowers
-Wildflowers
-Weeds
-Pollination
-Flower Arranging
-Sprouts
-Talking to Your Plants
-Plant Parents
-Wilting
-Blooming
-Nectar
+# Flowers & Wild Plants
+# family: nature
+Flowers | petal, stem, bloom, bud, pollen, blossom, thorn, wilt, flower power, late bloomer, stop and smell the roses, flour, perennial, fresh-cut, lavender, sachet, scent
+Plants | leaf, stem, root, sprout, pot, grow, sunlight, chlorophyll, photosynthesis, green thumb, seedling, plant evidence, power plant, water, leggy
+Roses | thorn, petal, red, stem, bud, rosy, rose-colored glasses, bed of roses, smell the roses, rosebush, arose, prickly, dozen, rose gold, thorn in my side, bramble, briar
+Tulips | two lips, bulb, Holland, windmill, spring, petal, stem, cup, Amsterdam, field, kiss, bloom, tiptoe, Dutch
+Daisies | petal, he loves me, fresh as a daisy, oops-a-daisy, daisy chain, white, yellow center, field, lazy daisy, meadow, pick, pushing up daisies, upsy-daisy
+Sunflowers | seed, sun, tall, yellow, face, petal, field, snack, head, stalk, turn, shine, giant, sunny side
+Lilies | lily pad, pond, frog, lily-white, Easter, calla, tiger lily, lily-livered, water lily, gild the lily, petal, pure, trumpet
+Orchids | exotic, delicate, corsage, greenhouse, orchestra, rare, tropical, vanilla, petal, fussy, pot, bloom, orchard, prize
+Daffodils | daffy, daft, trumpet, yellow, spring, bulb, Wales, wandered lonely as a cloud, host, nod, Easter, cheerful, golden
+Poppies | pop, poppy seed, poppycock, lollipop, red, field, sleepy, pop-up, pop star, remembrance, bloom, bagel, pop quiz
+Dandelions | wish, blow, fluff, seed, weed, lion, yellow, puff, dandy, lawn, spread, pick, tea, clock, float away
+Wildflowers | meadow, field, bloom, poppy, buttercup, bluebell, pick, spring, pollen, wild, roadside, bee, prairie, run wild
+Cherry Blossoms | sakura, pink, petal, bloom, spring, Japan, cherry-pick, picnic, festival, fleeting, blossoming, bough, breeze, cherry on top
+Clover | four-leaf, luck, shamrock, lucky, three-leaf, bee, rolling in clover, meadow, leaf, green, Irish, clover honey, charm, lawn
+Carnivorous Plants | Venus flytrap, pitcher plant, snap, trap, bug, jaws, sundew, sticky, digest, feed me, lure, bite, hungry, fly
+Poison Ivy | itch, rash, scratch, leaves of three, vine, calamine, poison oak, sumac, blister, Ivy League, cling, climb, rub, touch
+Vines | ivy, climb, creep, cling, tendril, grapevine, heard it through the grapevine, twist, swing, trellis, jungle, wrap, tangle, hang
+Bamboo | stalk, shoot, panda, hollow, grass, flute, pole, sway, bend, chopsticks, joint, grove, fast-growing, bamboozle
+Pollen | pollen count, sneeze, achoo, bee, buzz, dust, stamen, pistil, nectar, spread, yellow, hay fever, bloom, pollinate
+Bouquets | florist, vase, arrangement, stem, ribbon, bride, toss, dozen roses, wrap, fresh-cut, baby's breath, filler, corsage, posy
+Mistletoe | kiss, pucker, smooch, doorway, hang, sprig, berries, holiday, under the mistletoe, missile, toe, parasite, Druids, peck
+Holly | holly jolly, berries, Hollywood, prickly, deck the halls, wreath, hollyhock, ivy, green, red, sprig, spiky, jolly
+Violets | shrinking violet, roses are red, violent, violin, purple, ultraviolet, sweet, shy, African violet, blue, modest, velvet, bloom
+Carnations | carnival, reincarnation, incarnation, prom, corsage, boutonniere, pink, red, Mother's Day, dye, frill, buttonhole, ruffle
+Iris | eye, pupil, rainbow, messenger goddess, purple, bulb, flag, fleur-de-lis, bloom, bearded iris, van Gogh, eye-catching, sword, blue

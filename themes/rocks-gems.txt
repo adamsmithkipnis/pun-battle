@@ -1,0 +1,21 @@
+# Rocks, Gems & Geology
+# family: science
+Rocks | stone, pebble, boulder, rock bottom, rock and roll, rock-solid, rock the boat, rocky, between a rock and a hard place, gravel, cobblestone, pet rock, bedrock, rock-a-bye, skipping stones, skim, skip
+Gems | diamond, ruby, emerald, sapphire, opal, amethyst, pearl, topaz, jade, garnet, birthstone, carat, cut, gem of a, precious, Emerald City, green with envy, Emerald Isle, ruby slippers, ruby red, click your heels
+Diamonds | carat, cut, clarity, sparkle, diamond in the rough, rock, bling, facet, forever, shine, hard, baseball diamond, pressure, flawless
+Crystals | quartz, geode, crystal ball, crystal clear, facet, prism, shard, glass, amethyst, cluster, healing, chandelier, clear, sparkle
+Minerals | quartz, mica, talc, feldspar, gypsum, salt, iron, vitamins and minerals, mineral water, deposit, ore, hardness, streak, lode
+Volcanoes | lava, magma, erupt, crater, ash, blow your top, hot-headed, ring of fire, dormant, active, vent, lava lamp, molten, simmer, floor is lava, ooze, obsidian, lava cake, red-hot
+Lava | floor is lava, molten, flow, ooze, magma, glow, lava cake, lava lamp, erupt, crust, volcanic, cool off, red-hot, obsidian
+Caves | stalactite, stalagmite, bat, spelunking, cavern, echo, cave in, dark, drip, underground, grotto, man cave, tunnel, cave painting
+Canyons | gorge, cliff, echo, rim, ravine, Grand Canyon, gully, mule, erosion, vast, drop, ledge, gorgeous, layers, erode, wear down, wash away, carve
+Fossils | dig, bone, imprint, amber, trilobite, old fossil, petrified, preserve, excavate, paleontologist, layer, fossil fuel, stone, skeleton
+Geysers and Hot Springs | Old Faithful, erupt, spout, steam, hot spring, bubble, gush, blow off steam, spa, sulfur, pressure, soak, vent, blast
+Sand | grain, dune, sandcastle, sandpaper, hourglass, sandman, sandbag, quicksand, sandy, line in the sand, sift, bury your head, shifting sands, sandstone
+Mud | muddy, mudslinging, mud pie, stick in the mud, mud bath, clear as mud, puddle, mudroom, dirt, sludge, muck, your name is mud, mud flap, wallow
+Marble and Granite | take for granted, lose your marbles, statue, polished, quarry, veined, countertop, sculpture, speckled, rock solid, column, set in stone, slab
+Tectonic Plates | plate, fault, not my fault, shift, drift, crust, mantle, core, rift, Pangaea, continental drift, collide, fault line, ridge
+Coal | lump, coal miner, black, fire, lump of coal, burn, diamond, soot, sooty, stoke, carbon, rake over the coals, furnace, stocking
+Pearls | pearl of wisdom, oyster, string, necklace, pearly whites, pearly gates, clutch your pearls, cultured, pearl diver, mother-of-pearl, lustrous, bead, cast pearls before swine, June
+Dust | bite the dust, dusty, dust off, stardust, sawdust, dust jacket, dustpan, dust storm, dust bunny, sneeze, settle, fairy dust, dust-up, gather dust
+Oil Wells | slick, drill, crude, gusher, barrel, pipeline, derrick, refinery, oily, well-oiled, midnight oil, black gold, strike oil, pump

@@ -1,65 +1,29 @@
-# Insects and Bugs
-Bees
-Honeybees
-Bumblebees
-Wasps
-Hornets
-Ants
-Fire Ants
-Termites
-Butterflies
-Monarch Butterflies
-Moths
-Caterpillars
-Cocoons
-Ladybugs
-Beetles
-Dung Beetles
-Fireflies
-Grasshoppers
-Crickets
-Cicadas
-Dragonflies
-Damselflies
-Mosquitoes
-Houseflies
-Fruit Flies
-Gnats
-Fleas
-Ticks
-Spiders
-Tarantulas
-Spider Webs
-Daddy Longlegs
-Scorpions
-Centipedes
-Millipedes
-Stink Bugs
-Praying Mantises
-Stick Insects
-Earwigs
-Cockroaches
-Weevils
-Aphids
-Silkworms
-Earthworms
-Slugs
-Snails
-Pill Bugs
-Water Striders
-Ant Farms
-Anthills
-Beehives
-Queen Bees
-Honeycomb
-Bug Spray
-Fly Swatters
-Bug Zappers
-Metamorphosis
-Antennae
-Insect Wings
-Swarms
-Bug Collecting
-A Bee's Spelling Bee
-Picnic Ants
-Mosquito Bites
+# Insects & Bugs
+# family: nature
+Insects | antenna, thorax, abdomen, six legs, wing, swarm, buzz, crawl, larva, bug, exoskeleton, compound eye, hive, pest
+Bees | buzz, hive, honey, sting, queen, drone, pollen, comb, bumble, swarm, worker, nectar, wax, buzzword, spelling bee
+Beekeeping | hive, smoker, veil, suit, frame, honeycomb, extractor, queen, colony, keeper, jar, harvest, swarm, apiary
+Ants | colony, anthill, march, picnic, queen, worker, tunnel, crumb, soldier, carry, ant farm, antsy, ants in your pants, trail
+Spiders | web, eight legs, spin, silk, fang, weave, trap, tarantula, crawl, daddy longlegs, itsy bitsy, spinneret, lure, dangle, cobweb, tangled web, world wide web
+Butterflies | wing, flutter, caterpillar, cocoon, chrysalis, monarch, nectar, butterflies in your stomach, social butterfly, flit, metamorphosis, pupa, emerge, pattern
+Caterpillars | crawl, munch, leaf, hungry, cocoon, fuzzy, inchworm, silkworm, legs, chrysalis, transform, larva, wiggle, spin
+Moths | flame, lamppost, porch light, wool, sweater, hole, dusty, attract, flutter, night, mothball, luna, like a moth to a flame, cocoon
+Beetles | shell, dung, ladybug, scarab, crawl, shiny, horn, stag, click, weevil, beetle-browed, armor, roll, bug
+Ladybugs | spots, red, dotted, luck, polka dot, fly away home, aphid, beetle, lady, tiny, landing, garden, wish, shell
+Flies | buzz, swat, fly swatter, housefly, fruit fly, maggot, flyby, fly on the wall, zipper, flypaper, land, hover, pest, trash
+Mosquitoes | bite, itch, buzz, suck, blood, swat, net, repellent, welt, sting, whine, summer, pond, scratch, don't let the bedbugs bite, calamine, bug bite
+Wasps | sting, nest, buzz, yellowjacket, hornet, stripe, angry, swarm, paper, waist, stinger, buzz off, picnic, hover
+Fireflies | glow, light, blink, flash, jar, summer night, lightning bug, flicker, twinkle, beam, bright, catch, lantern, spark
+Grasshoppers | hop, jump, leap, grass, field, green, locust, swarm, spring, legs, chirp, knee-high, cricket, knock-off
+Dragonflies | hover, dart, zip, pond, wing, damselfly, skim, glide, darning needle, compound eye, helicopter, iridescent, zoom, reeds
+Cockroaches | scurry, crawl, survive, kitchen, night, light, pest, antenna, roach, hide, crumb, infest, exterminate, sneaky
+Termites | wood, eat, chew, mound, colony, silent, queen, gnaw, infest, beam, hollow, damage, inspection, lumber
+Worms | wiggle, squirm, dirt, bait, hook, early bird, can of worms, bookworm, soil, dig, slimy, rain, burrow, earthworm, grub, maggot, grubby, mealworm
+Snails and Slugs | slime, shell, trail, slow, snail mail, crawl, garden, antenna, spiral, slug it out, slimy, lettuce, salt, sluggish
+Creepy Crawlies | centipede, millipede, scorpion, earwig, pill bug, tick, flea, silverfish, legs, crawl, creep, skitter, shudder, squash
+Bug Collecting | jar, net, pin, catch, specimen, magnifying glass, label, display case, field guide, lid, holes, collection, entomology, sample
+Pest Control | bug spray, exterminator, trap, swatter, zapper, repellent, fumigate, infestation, citronella, bait, sticky trap, raid, bug off, squash
+Cicadas | buzz, drone, shell, emerge, seventeen years, brood, hum, trees, molt, loud, summer, underground, chorus, wake up
+Ticks and Fleas | itch, scratch, flea market, flea circus, tick tock, ticked off, collar, bite, hop, host, bloodsucker, check, comb, flea bag
+Praying Mantises | pray, prey, stick, twig, green, bow, fold, stalk, strike, head swivel, patient, camouflage, grab, praying hands
+Scorpions | sting, tail, pincer, desert, glow, claw, venom, Scorpio, arachnid, curl, strike, shoe, shake out, zodiac

@@ -1,0 +1,23 @@
+# Footwear, Hats & Accessories
+# family: arts
+Footwear | sole, heel, lace, toe, boot, sneaker, sandal, pump, clog, loafer, slipper, flip-flop, wedge, insole, tongue, untied, double knot, aglet
+Sneakers | lace, sole, tread, high-top, running, squeak, Velcro, kick, trainers, tongue, sneaky, rubber, sneak, gym
+Boots | heel, lace, spur, cowboy, rain, combat, hiking, kick, stomp, bootstrap, bootleg, reboot, ankle, muddy
+High Heels | stiletto, pump, platform, wedge, strap, blister, strut, tall, click, height, heel, arch, totter
+Sandals | strap, flip-flop, buckle, toe, open, summer, beach, sole, thong, tan lines, Roman, slide
+Slippers | fuzzy, cozy, bunny, glass slipper, slip, house shoe, moccasin, warm, shuffle, soft, bedroom, scuff
+Headwear | cap, hat, beanie, helmet, crown, bonnet, beret, fedora, turban, visor, top hat, sombrero, hood, bandana
+Caps | visor, bill, brim, snapback, backwards, team logo, gimme cap, cap off, thinking cap, kneecap, recap, nightcap
+Helmets | head, hard hat, visor, strap, protect, bike, football, space, safety, dent, crash, shell, chin strap
+Jewelry | ring, necklace, bracelet, earring, pendant, gem, diamond, gold, silver, charm, bling, locket, brooch, carat, stud, hoop, clip-on
+Rings | band, diamond, carat, engagement, wedding, finger, gold, ring bearer, signet, ring tone, boxing ring, three-ring, circle
+Necklaces | chain, pendant, locket, pearl, choker, clasp, charm, beads, neck, string, strand, collar, dangle
+Watches | face, hand, band, wrist, tick, dial, strap, crown, alarm, stopwatch, time, set, watch out, second hand
+Glasses | lens, frame, spectacles, specs, bifocal, reading glasses, sunglasses, monocle, contact, nose pad, vision, optician, squint, shades, tint, aviator, polarized
+Belts | buckle, loop, notch, strap, leather, tighten, waist, hole, belt it out, black belt, conveyor belt, seat belt, tighten your belt
+Neckties | knot, tie, bow tie, clip, Windsor, stripe, silk, neck, loosen, collar, tie the knot, tie-dye, tied up
+Gloves | mitten, finger, palm, knuckle, fit like a glove, leather, wool, rubber glove, boxing glove, oven mitt, pair, kid gloves, grip
+Scarves | wrap, knit, wool, neck, warm, fringe, silk, loop, cozy, winter, bandana, cravat, tie
+Handbags | purse, clutch, tote, strap, zipper, wallet, pocket, bag, satchel, carry, designer, shoulder bag, handle, billfold, coin purse
+Umbrellas | canopy, handle, rain, open, close, shade, cover, drizzle, spoke, pop up, inside out, parasol, umbrella term
+Backpacks | straps, zipper, pocket, school, hike, pack, carry, heavy, book bag, load, rucksack, gear, back

@@ -1,0 +1,17 @@
+# Household Items & Appliances
+# family: home
+Appliances | washer, dryer, vacuum, fan, heater, iron, plug, cord, outlet, warranty, repair, manual, energy, hum
+Air Conditioners | cool, chill, vent, blast, frost, unit, window unit, thermostat, humid, breeze, fan, compressor, cold shoulder, air
+Ceiling Fans | blade, spin, whirl, breeze, blow, pull chain, circulate, light kit, wobble, hum, rotate, fan club, big fan, cool
+Home Heating | furnace, radiator, space heater, boiler, vent, duct, pilot light, flame, heat wave, warm, toasty, cozy, fire up, draft, thermostat, dial, crank
+Smoke Detectors | beep, battery, chirp, alarm, smoke, siren, test, ceiling, detect, false alarm, burnt toast, warning, sensor, sniff
+Candles | wick, wax, flame, melt, scent, holder, snuff, taper, votive, drip, burn the candle at both ends, can't hold a candle, candlelight, light
+Keys | lock, keyring, key chain, spare, copy, turn, unlock, key under the mat, locksmith, skeleton key, keyhole, low-key, key player, keynote
+Home Security | lock, deadbolt, alarm, camera, motion sensor, guard dog, beware of dog, peephole, keypad, code, safe, chain, burglar, bolt
+Towels | bath, hand, beach, fluffy, dry, rack, terry, wrap, throw in the towel, washcloth, fold, damp, soft, monogram
+Hangers | hook, rack, closet, wire, coat, hang, dangle, cliffhanger, hang in there, hang out, hang-up, hanger-on, shoulder, rod, picture hook, crooked
+Junk Drawers | clutter, batteries, rubber band, takeout menu, twist tie, tape, scissors, spare key, pen, coupon, string, stuff, mystery, tangle
+Storage | bin, box, shelf, closet, attic, basement, stash, tote, label, stack, container, stow, cubby, stockpile
+Toilet Paper | roll, sheet, ply, square, over or under, tissue, stock up, soft, wipe, run out, TP, holder, tear, squeeze, take the plunge, clog, unclog
+Doormats | welcome, wipe, feet, mat, pushover, key under, bristle, front door, muddy, stomp, walk all over, rug, coir, shoes off
+Air Fresheners | scent, spray, plug-in, pine, fresh, odor, mist, deodorize, potpourri, freshen up, whiff, stink, vanilla, lavender

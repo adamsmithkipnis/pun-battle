@@ -1,0 +1,20 @@
+# Computers & Tech
+# family: science
+Keyboards | key, type, shift, enter, escape, space bar, caps lock, tab, control, delete, home, backspace, shortcut, return
+Computer Mice | click, cursor, scroll, wheel, pad, double-click, drag, drop, pointer, cord, right-click, hover, squeak
+Printers | print, paper jam, ink, toner, cartridge, tray, copy, scan, page, jam, queue, feed, out of paper, press
+Passwords | secret, lock, hack, forgot, reset, capital letter, symbol, login, key, strong, guess, security question, username
+Laptops | screen, battery, charger, keyboard, lid, trackpad, fan, lap, open, shut down, portable, sleep, sticker, overheat
+Computer Viruses | bug, infect, worm, spread, malware, antivirus, quarantine, scan, firewall, trojan, spam, hack, clean, patch
+Coding | bug, debug, loop, script, program, syntax, variable, function, compile, string, class, hack, error
+Hackers | hack, crack, breach, firewall, code, password, phishing, backdoor, exploit, glitch, bot, access denied, mainframe
+Software Updates | update, patch, install, restart, download, version, fix, bug, upgrade, later, remind me, reboot, progress bar
+Tech Support | help desk, ticket, restart, reboot, turn it off, on hold, troubleshoot, fix, crash, frozen, IT, call, manual, blue screen, force quit, freeze
+The Cloud | storage, upload, download, backup, sync, server, data, share, silver lining, drift, forecast, float
+Artificial Intelligence | smart, learn, neural net, robot, bot, algorithm, chat, prompt, predict, model, train, think, data, answer
+Websites | page, link, click, homepage, domain, browser, site, address, URL, visit, host, hits, dot com, surf
+Email | inbox, send, reply, spam, forward, attach, subject line, draft, junk, unread, sign off, CC, outbox, delete
+Computer Screens | monitor, pixel, display, bright, glare, resolution, screen saver, background, desktop, wallpaper, window, icon, flat
+Computer Files | folder, save, open, delete, trash, recycle, rename, drag, zip, compress, attach, lost, directory, backup, copy, paste, clipboard, undo
+Spreadsheets | cell, row, column, formula, sum, sheet, chart, tab, sort, filter, grid, data, pivot, average
+Gadgets | gizmo, device, widget, tech, charger, button, battery, remote, handheld, smart, cord, app, contraption

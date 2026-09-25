@@ -2,8 +2,10 @@
 
 An hourly pun contest on Bluesky: [@punbattle.bsky.social](https://bsky.app/profile/punbattle.bsky.social).
 
-- **Every hour, on the hour**, the bot posts a theme — "LIGHTHOUSES",
-  "GARLIC PRESSES", "A SANDWICH'S IDENTITY CRISIS".
+- **Every hour, on the hour**, the bot posts a theme — "FOOTWEAR",
+  "THE POST OFFICE", "COFFEE".
+- **About one round in four is a mashup** — "DENTISTRY + GEOLOGY" — and one
+  pun has to cover both topics.
 - **Reply to the theme post with your best pun.** Direct replies are entries;
   you can post as many as you like, and your best one counts.
 - **The pun with the most likes when the hour ends wins 60 points.** Your own
@@ -17,9 +19,15 @@ is part of the game.
 
 ## Themes
 
-5,800+ themes in 95 categories (`themes/*.txt`), from cheese to courtrooms to
-constellations. No theme repeats within 90 days (in practice, not for eight
-months), and no category comes up twice in the same day.
+About 2,000 topics in 94 categories (`themes/*.txt`), pitched at the
+level live pun-offs use: "Types of X" (Footwear, Headwear, Gems) and places or
+activities with a deep vocabulary (The Post Office, Bakeries, Bowling). Not
+so narrow that the puns run out in five minutes, not so broad that there is
+nothing to push against. Each topic carries at least eight "angles" — words
+that double as everyday words — as proof; they are never posted.
+
+No theme repeats within 90 days, no topic reappears in any form (alone or in
+a mashup) within 30 days, and no category comes up twice in the same day.
 
 ## Running it
 

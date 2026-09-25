@@ -1,0 +1,26 @@
+# Clothing
+# family: arts
+Clothing | shirt, pants, dress, coat, sock, sleeve, collar, button, zipper, pocket, hem, cuff, outfit, wardrobe
+Pants | leg, zipper, fly, belt, pocket, cuff, inseam, hem, slacks, trousers, cargo, khaki, pleat, wear the pants, pickpocket, deep pockets, lint
+Jeans | denim, blue, rivet, pocket, faded, ripped, skinny, bootcut, jean jacket, stonewash, cuff, patch, button fly
+Shirts | collar, sleeve, button, cuff, pocket, tuck, polo, tee, tank top, press, starch, iron, stuffed shirt, off my back
+Sweaters | knit, wool, cardigan, turtleneck, cozy, itchy, pullover, cable knit, yarn, sleeve, ugly sweater, vest, pill, hoodie, drawstring, sweatshirt
+Jackets | coat, zipper, hood, pocket, leather, denim, bomber, blazer, windbreaker, puffer, lining, sleeve, straitjacket
+Dresses | dressing room, hem, skirt, sleeve, zipper, strap, sundress, frock, ball gown, little black dress, prom, ruffle, flowy, twirl
+Suits and Ties | tie, knot, jacket, lapel, blazer, vest, pinstripe, three-piece, tuxedo, cufflink, pocket square, tailored, suit up
+Socks | pair, mismatched, toe, heel, stripe, wool, argyle, knee-high, sock puppet, lost, drawer, ankle, darn, knock your socks off
+Underwear | briefs, boxers, drawers, bra, waistband, elastic, wedgie, bloomers, long johns, undies, skivvies, tighty-whities, slip
+Pajamas | PJs, onesie, nightgown, robe, slippers, flannel, footie, button-up, sleepover, bedtime, cozy, comfy, lounge
+Swimsuits | bikini, trunks, one-piece, goggles, suit, strap, tan line, splash, pool, beach, wet, cover-up, sun
+Raincoats | slicker, hood, poncho, waterproof, drip, puddle, rain boots, yellow, splash, umbrella, drizzle, storm, dry
+Uniforms | badge, patch, name tag, cap, crest, dress code, jersey, scrubs, apron, matching, stripe, pressed, regulation
+Fabrics | cotton, silk, wool, denim, velvet, corduroy, polyester, linen, satin, flannel, fleece, lace, tweed, spandex
+Patterns | plaid, polka dot, stripe, paisley, check, floral, houndstooth, argyle, camouflage, tie-dye, herringbone, animal print, gingham
+Fashion | trend, runway, model, designer, style, chic, vogue, outfit, look, strut, season, couture, catwalk, fashionista, sketch, collection, label, tailor
+Zippers | zip, teeth, pull, fly, stuck, track, slider, zip it, zip code, jam, zip line, open, close
+Buttons | buttonhole, sew, pop, snap, fasten, cute, belly button, push, cute as a button, loose, thread, undo
+Dress Codes | formal, casual, black tie, business, jacket required, suit, dress up, dress down, no shirt no shoes, attire, uniform, rules
+Costumes | mask, cape, wig, disguise, dress up, character, makeup, outfit, hero, pirate, costume party, prop, masquerade
+Workout Clothes | leggings, sweatpants, hoodie, sneakers, headband, sweatband, tank top, shorts, spandex, athleisure, stretchy, sports bra
+Sleeves | cuff, roll up, short, long, tank, sleeveless, heart on your sleeve, trick up your sleeve, arm, elbow patch, sling, rolled
+Vests | puffer, sweater vest, waistcoat, button, life vest, pocket, invest, vested interest, layer, safety, fleece, bulletproof

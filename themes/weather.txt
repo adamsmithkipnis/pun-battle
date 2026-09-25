@@ -1,56 +1,30 @@
-# Weather
-Rain
-Thunderstorms
-Lightning
-Thunder
-Hurricanes
-Tornadoes
-Snowstorms
-Blizzards
-Hail
-Sleet
-Fog
-Mist
-Drizzle
-Rainbows
-Clouds
-Cumulus Clouds
-Wind
-Breezes
-Gusts
-Heat Waves
-Cold Fronts
-Humidity
-Monsoons
-Dust Devils
-Snowflakes
-Icicles
-Frost
-Dew
-Puddles
-Umbrellas
-Weather Forecasts
-Meteorologists
-Weather Balloons
-Barometers
-Wind Chimes
-Storm Chasers
-Sunshine
-Sunny Days
-Overcast Skies
-Partly Cloudy
-Raining Cats and Dogs
-Under the Weather
-Calm Before the Storm
-Brainstorms
-Chance of Showers
-The Jet Stream
-Doppler Radar
-Windsocks
-Lightning Rods
-Snow Days
-Ice Storms
-Whiteouts
-Sun Showers
-Rain Dances
-Weather Small Talk
+# Weather & Seasons
+# family: nature
+Weather | forecast, climate, sunny, cloudy, rain, wind, storm, under the weather, weather the storm, fair-weather friend, temperature, front, whether, pressure, meteorologist, radar, chance of showers, partly cloudy, cold front
+Rain | drop, drizzle, shower, pour, puddle, downpour, rain check, raining cats and dogs, when it rains it pours, rainy day, soak, sprinkle, reign, right as rain
+Storms | brainstorm, calm before the storm, take by storm, weather the storm, stormy, storm off, eye of the storm, surge, perfect storm, storm chaser, teacup, gale, squall
+Thunder and Lightning | bolt, flash, strike, zap, lightning rod, never strikes twice, charge, fork, spark, electric, bolt from the blue, greased lightning, flash in the pan, jolt, thunder, rumble, clap, thunderstruck, steal my thunder, thunderous
+Tornadoes | twister, funnel, spin, whirlwind, Kansas, cellar, siren, touch down, swirl, tornado alley, whirl, vortex, over the rainbow, uproot
+Cloudy Skies | cloud nine, silver lining, fluffy, cumulus, storm cloud, head in the clouds, overcast, puffy, the cloud, nimbus, drift, shadow, cirrus, cloud cover
+Fog | mist, haze, foggy, murky, lift, foghorn, pea soup, fog machine, lost in the fog, dense, blur, rolling in, brain fog, visibility
+Wind | breeze, gust, blow, windy, gale, windbag, second wind, windfall, wind up, draft, whistle, winded, kite, windmill, throw caution to the wind
+Snow | flake, snowball, drift, flurry, blizzard, plow, sled, snowed in, snow day, slush, powder, snowed under, avalanche, white-out, snowball effect, snowball's chance, fort
+Snowball Fights | throw, pack, fort, duck, dodge, aim, ambush, snowball's chance, snowball effect, splat, surrender, team, hit, cold shoulder
+Snowmen | carrot nose, coal, top hat, scarf, melt, frosty, snowball, button, stick arms, roll, three balls, chilly, abominable, cool
+Ice | icicle, frost, freeze, slippery, ice cube, break the ice, thin ice, on ice, glaze, skate, black ice, iceberg, icy stare, melt, ice cold, Jack Frost, frosting, frostbite, frosty
+Frost | Jack Frost, frosting, frosted, frostbite, frosty, window, morning, glaze, first frost, icing, freezer, frost-free, nip, rime
+Hail | hailstone, hail a cab, all hail, hail from, hail Mary, pelt, dent, golf ball-sized, bounce, pellet, ice, hailstorm, greet, clatter
+Heat Waves | scorcher, sweat, melt, sizzle, swelter, fan, air conditioning, dog days, boiling, record high, wilt, heat index, hot, sunstroke
+Cold Weather | frigid, chill, freeze, shiver, bundle up, frostbite, icy, brr, wind chill, cold shoulder, cold feet, polar, frosty, nippy, cold snap
+Humidity | muggy, sticky, sweat, damp, frizz, dew point, humid, moist, clammy, steamy, sultry, it's not the heat, sauna, soggy
+Rain Gear | raincoat, galoshes, poncho, rain boots, hood, slicker, waterproof, puddle, wellies, splash, drip, rain hat, trench coat, soaked
+Spring | bloom, spring forward, April showers, sprout, bud, thaw, spring in your step, fling, coil, bounce, spring chicken, equinox, fresh, hop
+Summer | heat, sun, beach, barbecue, sunburn, lemonade, popsicle, dog days, summer fling, solstice, camp, sum, swimsuit, long days
+Fall | autumn, leaves, rake, harvest, pumpkin, sweater, crisp, fall back, pie, cider, foliage, fall for, fall behind, windfall, fall flat
+Winter | cold, frost, hibernate, mittens, scarf, cocoa, fireplace, winter wonderland, shovel, parka, chill, short days, snowed in, frozen
+Harvest | crop, reap, sow, gather, bushel, scythe, harvest moon, yield, field, bounty, reap what you sow, combine, gleaning, basket
+Scarecrows | straw, crow, field, stuffed, hat, patch, pole, brainless, fright, scare, flannel, stitch, guard, if I only had a brain
+Seasons | spring, summer, fall, winter, seasonal, in season, season's greetings, seasoning, salt and pepper, off-season, open season, four seasons, season ticket, season finale, solstice, equinox, longest day
+Sunrise and Sunset | dawn, dusk, horizon, golden hour, twilight, ride off into the sunset, early riser, rise and shine, daybreak, glow, silhouette, afterglow, sundown, first light
+Snowflakes | special snowflake, flaky, flake out, unique, no two alike, crystal, six-sided, paper snowflake, catch on your tongue, delicate, melt, twirl, lace, flurry
+Corn Mazes | maze, stalk, lost, dead end, ear, amazing, map, fall, path, kernel, twist, flashlight, maize, corny, turn

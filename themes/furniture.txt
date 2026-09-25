@@ -1,0 +1,22 @@
+# Furniture & Decor
+# family: home
+Furniture | couch, table, chair, dresser, bench, stool, cabinet, futon, ottoman, armoire, recliner, drawer, leg, upholstery
+Living Room Furniture | sofa, couch, loveseat, recliner, coffee table, ottoman, end table, armchair, cushion, throw pillow, footrest, sectional, couch potato, slipcover, settee, sleeper, lean back, kick back, laid-back
+Chairs | seat, back, leg, arm, rocker, stool, recliner, high chair, folding, swivel, bench, pull up a chair, musical chairs, throne, bar stool, step stool, footstool, tuffet
+Rocking Chairs | rock, rocker, porch, creak, sway, glider, back and forth, off your rocker, runner, grandpa, knit, rock and roll
+Tables | leg, top, leaf, extend, coffee table, end table, dining table, card table, turn the tables, under the table, set, bus, table it
+Beds | bunk, headboard, frame, box spring, crib, cot, canopy, king, queen, twin, make the bed, bedrock, sheets, bedtime, top bunk, ladder, bunkmate
+Dressers | drawer, knob, chest, mirror, bureau, sock drawer, top drawer, pull, dress, bottoms, handle, chest of drawers
+Bookshelves | shelf, bracket, book end, spine, shelve, bookcase, ledge, stack, row, sag, shelf life, novel, cover, on the shelf
+Closets | hanger, rack, shelf, walk-in, coat, skeleton, come out, door, rod, shoes, cram, organize, wardrobe, cupboard
+Cabinets | cupboard, hinge, shelf, drawer, knob, handle, door, pantry, china, medicine cabinet, filing, cabinet meeting, mount
+Lamps | shade, bulb, switch, base, cord, lampshade, glow, desk lamp, floor lamp, lava lamp, dim, bright, light, genie, chandelier, crystal, swing from the chandelier
+Rugs | carpet, mat, runner, shag, fringe, pile, weave, throw rug, sweep under the rug, pull the rug, cut a rug, tread, Persian
+Curtains | drape, rod, hook, sheer, valance, blackout, curtain call, draw, pull, pleat, close, open, it's curtains, hang, blinds, slat, blind spot, blind date
+Mirrors | reflection, glass, image, vanity, frame, looking glass, fog, crack, seven years, smoke and mirrors, mirror image, full-length, compact
+Interior Design | decor, palette, accent wall, feng shui, layout, style, fabric, swatch, theme, texture, rustic, minimalist, flow, arrange
+Antiques | vintage, heirloom, relic, restore, patina, appraisal, collectible, old, era, dealer, estate sale, piece, period, auction
+Flat-Pack Furniture | assembly, instructions, allen key, screw, dowel, panel, cam lock, flat, box, pieces, manual, missing part, build
+Patio Furniture | deck chair, lounger, hammock, umbrella, table, cushion, wicker, weatherproof, fold, porch swing, grill, shade, outdoor
+Knickknacks | trinket, figurine, doodad, souvenir, ornament, snow globe, keepsake, bauble, dust collector, shelf, clutter, curio, collectible
+Wallpaper | pattern, paste, roll, border, peel, strip, seam, glue, print, floral, stripes, paper over, wallflower, backdrop

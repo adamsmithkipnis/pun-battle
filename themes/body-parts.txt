@@ -1,0 +1,27 @@
+# Body Parts
+# family: body
+Body Parts | head, shoulders, knees, toes, elbow, nose, ear, hand, foot, heart, arm, leg, chin, hip, spare parts
+Skin | pores, freckle, tan, thick-skinned, skin deep, goosebumps, by the skin of your teeth, rash, peel, wrinkle, scratch, itch, sunburn, epidermis
+Elbows | elbow room, elbow grease, bend, joint, funny bone, nudge, elbow out, arm, jab, crook, sleeve, lean, patch
+Knees | kneecap, bend, kneel, knee-jerk, knee-deep, bee's knees, weak in the knees, knee high, joint, pads, scrape, knock-kneed, propose
+Feet | toe, heel, arch, sole, step, stomp, cold feet, foot the bill, put your foot down, footnote, footloose, tiptoe, sock, stand, ankle, sprain, ankle-biter
+Toes | tiptoe, toenail, pinky, stub, wiggle, toe the line, on your toes, step on toes, big toe, little piggy, toe-tapping, ballet, sock
+Hands | palm, finger, thumb, knuckle, grip, clap, wave, handy, hand it to you, lend a hand, handshake, upper hand, second-hand, high five, wrist, slap on the wrist, flick of the wrist
+Fingers | pinky, ring finger, index, thumb, knuckle, nail, point, snap, fingerprint, butterfingers, finger food, fingers crossed, ladyfinger, digit
+Thumbs | thumbs up, green thumb, rule of thumb, under your thumb, thumb war, twiddle, hitchhike, thumbnail, all thumbs, thumbtack, sore thumb, thumb through
+Fingernails | nail, manicure, polish, file, bite, clip, cuticle, hangnail, nail it, tooth and nail, hard as nails, nail-biter, scratch, chalkboard
+Knuckles | knuckle down, knuckle sandwich, crack, white-knuckle, bare-knuckle, knucklehead, brass knuckles, rap, bump, joint, knuckle under, fist
+Noses | sniff, smell, nostril, snout, nosy, on the nose, pick, blow, sneeze, schnozz, follow your nose, nose to the grindstone, bridge, nose dive
+Ears | hear, lobe, earring, earful, all ears, earwax, eardrum, listen, play by ear, lend an ear, cauliflower ear, pierce, eavesdrop, earmuffs
+Eyes | pupil, iris, lash, blink, wink, eye contact, eye-catching, eyebrow, eye candy, bird's eye, eye to eye, apple of my eye, lid, glance
+Eyebrows | raise, arch, pluck, unibrow, highbrow, lowbrow, furrow, wax, frown, brow, eyebrow-raising, bushy, sweat, knit
+Lips | kiss, pucker, lipstick, pout, lip service, read my lips, lip sync, zip your lips, stiff upper lip, lip balm, chapped, lip smack, loose lips
+Tongues | taste buds, lick, tongue twister, tongue-tied, tongue in cheek, slip of the tongue, bite your tongue, mother tongue, silver tongue, taste, stick out, cat got your tongue
+Chins | double chin, keep your chin up, take it on the chin, chinwag, chin-ups, dimple, jaw, stubble, beard, chin rest, stroke, chinny chin chin
+Cheeks | blush, dimple, rosy, tongue in cheek, cheeky, turn the other cheek, pinch, chubby, cheekbone, puff, kiss, cheek to cheek, rouge
+Shoulders | shrug, cold shoulder, chip on your shoulder, shoulder to cry on, shoulder pads, blade, rotator, carry, burden, piggyback, shoulder the blame, rub shoulders, hard shoulder
+Necks | neck and neck, pain in the neck, stick your neck out, rubberneck, necklace, crane, nape, turtleneck, neck of the woods, scruff, bottleneck, up to my neck, collar
+Hips | hip hop, hips don't lie, shoot from the hip, joined at the hip, hip to be square, hula, sway, pelvis, hip bone, waist, hipster, swivel, hippo
+Legs | leg up, break a leg, pull my leg, shake a leg, leg room, legwork, legend, calf, shin, thigh, last legs, legit, no leg to stand on, stretch
+Arms | arm wrestle, armpit, arm candy, arm in arm, cost an arm and a leg, twist my arm, forearm, bicep, sleeve, arm's length, open arms, armchair, army, long arm
+Belly Buttons | navel, innie, outie, lint, navel gazing, tummy, cord, piercing, naval, orange, button up, cute as a button

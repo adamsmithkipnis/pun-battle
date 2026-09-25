@@ -56,6 +56,14 @@ TZ = ZoneInfo(config.TIMEZONE)
 _CLOSE_TOLERANCE = timedelta(seconds=30)
 
 _catalog = None
+_blocked = None
+
+
+def blocked_pairs() -> frozenset:
+    global _blocked
+    if _blocked is None:
+        _blocked = themes.load_blocked_pairs()
+    return _blocked
 
 
 def catalog() -> list:
@@ -99,8 +107,25 @@ def is_leaderboard_round(now: datetime) -> bool:
             and local.minute < config.ROUND_MINUTES)
 
 
-def _history() -> list:
-    return [themes.Use(k, c, t) for k, c, t in db.theme_history()]
+def _history() -> themes.History:
+    return themes.History.from_uses(
+        [themes.Use(*row) for row in db.theme_history()])
+
+
+def queued_theme(text: str, category: str = "custom") -> themes.Theme:
+    """A queued request as a Theme. "A + B" is a mashup; each side (and a
+    solo request) resolves to its catalog topic when there is one, so it
+    carries the right category and family."""
+    def solo(part: str) -> themes.Theme:
+        found = themes.lookup(catalog(), part)
+        if found is not None:
+            return found
+        return themes.Theme(part.strip(), category,
+                            category.replace("-", " ").title())
+    if themes.MASHUP_JOIN in text:
+        a, b = text.split(themes.MASHUP_JOIN, 1)
+        return themes.make_mashup(solo(a), solo(b))
+    return solo(text)
 
 
 def _retry(fn, *args, attempts: int = 3):
@@ -156,11 +181,11 @@ def post_next_theme(now: datetime, previous=None, closes_at: datetime = None,
     post goes out.
     """
     queue_rows = db.queued_themes()
-    queue = [themes.Theme(r["theme"], r["category"] or "custom",
-                          (r["category"] or "custom").replace("-", " ").title())
+    queue = [queued_theme(r["theme"], r["category"] or "custom")
              for r in queue_rows]
-    theme, queue_index = themes.pick_next(
-        catalog(), _history(), now, random.Random(), queue=queue)
+    theme, queue_index = themes.choose(
+        catalog(), _history(), now, random.Random(), queue=queue,
+        blocked_pairs=blocked_pairs())
 
     closes = closes_at or next_boundary(now)
     announce = None
@@ -173,13 +198,14 @@ def post_next_theme(now: datetime, previous=None, closes_at: datetime = None,
     leaders = db.leaderboard(3) if is_leaderboard_round(now) else None
     text, extra_dids = posts.build_theme_post(
         theme.text, closes.astimezone(TZ), announce, leaders,
-        posts.pick_hashtags())
+        posts.pick_hashtags(), mashup=themes.is_mashup(theme))
 
     uri, cid = bluesky.post_text(text, "theme", extra_dids)
 
     round_id = db.open_round(
-        theme.text, themes.normalize(theme.text), theme.category,
+        theme.text, themes.theme_key(theme), theme.category,
         theme.category_name, uri, cid, now, closes,
+        components=themes.component_keys(theme),
         retire_round_id=previous["id"] if previous is not None else None,
         retire_status=retire_status,
         queue_id=queue_rows[queue_index]["id"] if queue_index is not None else None)
@@ -290,7 +316,7 @@ def print_status() -> None:
     queued = db.queued_themes()
     print(f"Queue: {', '.join(r['theme'] for r in queued) or 'empty'}")
     days = themes.fresh_days_left(catalog(), _history(), rounds_per_day())
-    print(f"Never-used themes left: {days:.0f} days at {rounds_per_day()}/day")
+    print(f"Never-used topics left: about {days:.0f} days")
     print(f"Rounds played: {db.round_count()}")
 
 
@@ -309,16 +335,20 @@ def preview(count: int) -> None:
     history = _history()
     boundary = next_boundary(now)
     rng = random.Random()
+    mashups = 0
     for i in range(count):
-        theme, _ = themes.pick_next(catalog(), history, boundary, rng)
-        print(f"{boundary.astimezone(TZ).strftime('%a %H:%M')}  "
-              f"{theme.text:<40} [{theme.category}]")
-        history.append(themes.Use(themes.normalize(theme.text),
-                                  theme.category, boundary))
+        theme, _ = themes.choose(catalog(), history, boundary, rng,
+                                 blocked_pairs=blocked_pairs())
+        mark = "⚔️ " if themes.is_mashup(theme) else "   "
+        mashups += themes.is_mashup(theme)
+        print(f"{boundary.astimezone(TZ).strftime('%a %H:%M')} {mark}"
+              f"{theme.text:<44} [{theme.category.replace('|', ' + ')}]")
+        history.add(theme, boundary)
         boundary = next_boundary(boundary)
+    print(f"\n{mashups} of {count} rounds were mashups.")
     days = themes.fresh_days_left(catalog(), _history(), rounds_per_day())
     if days < 30:
-        print(f"\nWARNING: only {days:.0f} days of never-used themes left.")
+        print(f"WARNING: only {days:.0f} days of never-used topics left.")
 
 
 # ---------------------------------------------------------------------------

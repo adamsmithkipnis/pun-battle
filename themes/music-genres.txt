@@ -1,0 +1,29 @@
+# Music Genres
+# family: arts
+Jazz | swing, scat, riff, cool, bebop, blue note, improvise, sax, smooth, all that jazz, jam, hep cat, jazz hands, club, trio
+Blues | twelve-bar, harmonica, soul, lament, sing the blues, got the blues, riff, Delta, slide, moan, feeling blue, bent note, woke up this morning
+Rock and Roll | guitar, amp, riff, headbang, stadium, rock on, roll with it, rock bottom, rock star, anthem, encore, rock the boat
+Heavy Metal | headbang, mosh, shred, riff, horns, leather, loud, amp, metalhead, iron, steel, scream, power chord
+Country Music | twang, honky-tonk, boots, cowboy hat, heartbreak, pickup truck, line dance, Nashville, fiddle, steel guitar, yeehaw, ballad, rhinestone, dog
+Hip Hop | rap, beat, rhyme, flow, DJ, scratch, freestyle, drop, mic, bars, sample, verse, crew, breakdance, spit
+Reggae | Jamaica, island, one love, riddim, dub, dreadlocks, offbeat, chill, irie, mon, groove, skank, easy
+Opera | aria, diva, soprano, tenor, fat lady sings, libretto, bravo, encore, opera glasses, phantom, overture, act, soap opera, Figaro
+Punk Rock | mohawk, safety pin, rebel, spiked, leather jacket, three chords, pogo, riot, DIY, garage, loud, snarl, mosh
+Disco | boogie, groove, mirror ball, strut, bell-bottoms, dance floor, fever, funky, platform shoes, glitter, hustle, stayin alive, polyester, get down
+Classical Music | symphony, sonata, concerto, overture, composer, baroque, movement, maestro, orchestra, crescendo, opus, adagio, suite, Bach
+Folk Music | ballad, banjo, acoustic, campfire, fiddle, strum, sing-along, harmony, jug, roots, tale, bard, protest song, yodel, Alps, echo
+Yodeling | echo, Alps, lederhosen, lay-ee-oo, cowboy, mountain, holler, Swiss, falsetto, goat, cheese, valley
+Polka | oompah, accordion, beer hall, polka dot, hop, bounce, lederhosen, spin, tuba, Bavaria, stomp, two-step, dotty
+Gospel Music | choir, praise, hallelujah, amen, soul, spiritual, uplift, clap, hymn, sermon, glory, preach, gospel truth, robe
+Funk and Soul | groove, bass, funky, in a funk, get down, slap, horn, wah-wah, jam, afro, strut, get up, one nation, platform, soul, sole, soulful, R&B, heart and soul, falsetto
+Grunge | flannel, grungy, dirty, fuzz, Seattle, garage, angst, distortion, grime, plaid, torn jeans, riff, sludge, smell
+Techno | beat, rave, bass drop, DJ, loop, synth, club, BPM, electronic, pulse, remix, glow stick, house, trance
+Bluegrass | banjo, fiddle, mandolin, grass, blue, pick, Kentucky, twang, holler, jug, hoedown, porch, harmony, breakdown
+Pop Music | catchy, hook, chart, hit, single, bubblegum, top forty, idol, boy band, chorus, earworm, pop star, soda pop
+Big Band | swing, horn, brass, bandleader, jitterbug, ballroom, sax, trumpet, crooner, swing era, conductor, jive, section, standard
+Barbershop Quartets | barber, shave, harmony, straw hat, boater, four-part, tag, cut, trim, bass, tenor, stripes, pole
+Mariachi Bands | trumpet, sombrero, serenade, guitarron, violin, charro, fiesta, strum, grito, Mexico, cantina, vihuela
+Sea Shanties | sailor, heave, ho, drunken sailor, capstan, crew, chorus, haul, whaler, ahoy, pull, deck, rope
+Lullabies | hush, rock-a-bye, cradle, sleep, sweet dreams, baby, twinkle, drift off, lull, soothe, bough breaks, hum, bedtime
+Love Songs | ballad, heart, serenade, croon, sweetheart, crush, torch song, slow dance, duet, darling, breakup, swoon, valentine
+Jingles | catchy, ad, earworm, slogan, radio, commercial, sing-along, hook, bells, tune, brand, stuck in your head, sponsor

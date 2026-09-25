@@ -1,0 +1,22 @@
+# Breakfast, Eggs & Dairy
+# family: food
+Breakfast | pancakes, waffles, eggs, bacon, toast, cereal, coffee, juice, sunny side up, rise and shine, early bird, spread, most important meal, in bed, oatmeal
+Brunch | mimosa, eggs benedict, bottomless, reservation, patio, Sunday, late, avocado toast, hollandaise, waffles, quiche, crowd, lazy, bagel
+Pancakes | stack, flip, batter, syrup, griddle, fluffy, short stack, flapjack, butter, spatula, flat, blueberry, hotcakes, sell like hotcakes
+Waffles | grid, iron, squares, syrup, pockets, Belgian, crispy, whipped cream, waffle on, indecisive, frozen, toaster, fried chicken, cone
+French Toast | dip, soak, egg, cinnamon, powdered sugar, syrup, brioche, griddle, custard, stale bread, stick, golden, toasty, Paris
+Cereal | bowl, milk, spoon, crunch, soggy, box, prize, flakes, loops, mascot, serial, sugary, marshmallows, bran, pour
+Oatmeal | oats, porridge, bowl, raisin, brown sugar, cinnamon, lumpy, steel-cut, instant, mush, Goldilocks, too hot, just right, cookie
+Bacon | strip, sizzle, crispy, fry, pan, grease, bring home the bacon, save your bacon, pig, maple, chewy, smoke, BLT, cured
+Maple Syrup | sap, sticky, tree, Vermont, pour, drizzle, tap, Canada, pancake, grade A, boil, sugar shack, amber, bucket
+Eggs | yolk, white, shell, crack, scramble, fry, poach, boil, over easy, sunny side up, egghead, walk on eggshells, dozen, carton, good egg, deviled, paprika, hard-boiled
+Omelets | fold, flip, fillings, cheese, ham, peppers, whisk, pan, Denver, egg white, can't make one without breaking eggs, spatula, fluffy, chef
+Milk | carton, cow, dairy, glass, jug, whole, skim, chocolate, spill, cry over spilled milk, mustache, pour, cereal, sour, udder
+Butter | churn, stick, spread, melt, knife, salted, butter up, butterfingers, butterfly, buttercup, toast, smooth, like a knife through butter, pat
+Yogurt | cup, Greek, cultures, probiotic, parfait, granola, fruit on the bottom, spoon, frozen, tart, creamy, plain, strawberry, drinkable
+Cheese | cheddar, brie, gouda, feta, swiss, holes, wedge, grate, melt, aged, curd, say cheese, cheesy, big cheese, mozzarella, schmear, cheesecake, cream cheese
+Grilled Cheese | melt, bread, butter, golden, gooey, pan, flip, tomato soup, dip, crust, crispy, sandwich, American, stretch
+Mac and Cheese | elbow, noodle, box, cheddar, creamy, bake, crumb, bowl, orange, powder, kid, cheesy, comfort food, spoon
+Fondue | dip, pot, fork, skewer, melt, bread cube, Swiss, chocolate, bubbling, flame, share, double dip, strawberries, party
+Granola | oats, crunchy, clusters, honey, yogurt, parfait, hippie, hike, bar, nuts, raisins, bowl, trail, bake
+Hash Browns | shredded, crispy, potato, griddle, patty, scattered, smothered, covered, diner, golden, grease, flip, hash it out, hashtag

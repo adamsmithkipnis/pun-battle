@@ -1,0 +1,21 @@
+# Movies and TV
+# family: arts
+Movie Theaters | popcorn, screen, seat, ticket, usher, trailer, matinee, concession, sticky floor, projector, reel, aisle, shush, row
+Hollywood | star, sign, walk of fame, studio, glamour, red carpet, agent, deal, blockbuster, tinseltown, limo, sunglasses, premiere, paparazzi
+Film Directors | cut, action, take, shot, vision, megaphone, chair, auteur, scene, close-up, wrap, frame, lens, direct
+Sequels | part two, franchise, again, return, revenge, trilogy, next chapter, reboot, strikes back, prequel, spin-off, series, cash in
+Movie Trailers | coming soon, preview, voiceover, in a world, sneak peek, trailer park, teaser, clip, hype, spoiler, montage, tease
+Award Shows | trophy, envelope, acceptance speech, nominee, red carpet, gown, statuette, winner, host, thank you, play off, snub, tux, and the winner is
+Stunts | double, fall, crash, explosion, harness, jump, fire, wire, dive, pad, daredevil, take a fall, fight scene, stunt man
+Special Effects | CGI, explosion, green screen, wire, model, puppet, practical, rig, blast, morph, fake blood, smoke, magic
+Film Editing | cut, splice, edit, trim, montage, final cut, frame, footage, transition, fade, jump cut, director cut, reel, cutting room floor
+Screenplays | script, scene, dialogue, act, draft, rewrite, pitch, logline, plot, fade in, character, twist, screenwriter, treatment
+Plot Twists | reveal, surprise, turn, didn't see it coming, shocker, rug pull, red herring, cliffhanger, spoiler, double cross, gasp, it was a dream
+Movie Critics | review, thumbs up, stars, rating, pan, rave, critique, verdict, rotten, fresh, blurb, must-see, flop, sleeper hit
+The Box Office | blockbuster, flop, opening weekend, ticket, gross, hit, bomb, sold out, record, sleeper, smash, sales, bank
+Drive-In Theaters | car, speaker, screen, dusk, double feature, park, honk, snack bar, retro, window, blanket, pickup truck, date night
+Soundtracks | score, theme, track, composer, cue, swell, opening credits, sound, song, orchestra, montage, album, anthem, theme song
+Film Sets | lights, camera, action, take, cue, boom mic, clapperboard, crew, trailer, wrap, craft services, call sheet, quiet on set, grip, blooper, outtake, gag reel, flub, take two
+Television | channel, remote, couch potato, rerun, prime time, tube, box, series, pilot, episode, binge, commercial, antenna, flip, station
+The Remote Control | clicker, button, channel, volume, mute, batteries, couch cushion, lost, zap, surf, pause, rewind, power, control freak
+Binge-Watching | stream, queue, episode, season, cliffhanger, autoplay, next episode, skip intro, spoiler, marathon, couch, subscribe, series

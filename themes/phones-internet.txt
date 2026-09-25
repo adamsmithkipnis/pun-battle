@@ -1,0 +1,18 @@
+# Phones & the Internet
+# family: science
+Smartphones | app, screen, swipe, tap, battery, charger, case, crack, ring, text, call, notification, ringtone, selfie
+Text Messages | send, reply, emoji, autocorrect, typo, read, typing bubble, thumbs, group chat, ghost, abbreviation, LOL, autocorrect fail, predictive text, left on read, thread, mute
+Autocorrect | typo, fix, correct, change, spell, word, predict, fail, suggest, override, wrong, auto
+Social Media | post, like, share, follow, feed, hashtag, viral, profile, comment, trend, influencer, story, scroll, tag, sponsor, collab, content, brand deal
+Influencers | follow, sponsor, post, brand, content, audience, like, trend, viral, collab, filter, lifestyle, fame
+Emojis | smiley, wink, heart, thumbs up, face, laugh, cry, tongue, symbol, react, sparkle, fire
+Memes | viral, caption, image, share, joke, format, template, trending, repost, reaction, inside joke, classic, cat
+Search Engines | search, query, result, keyword, look up, browse, find, click, page one, rank, autocomplete, engine, index
+Wi-Fi | signal, password, bars, router, network, connect, bandwidth, dead zone, hotspot, speed, reset, drop, wireless
+Streaming | buffer, binge, queue, watch, subscribe, episode, playlist, download, lag, flow, current, skip intro
+Apps | download, install, update, icon, store, open, rating, free, crash, notification, tap, launch, home screen
+Telephones | dial, receiver, cord, ring, busy signal, hold, hang up, rotary, answering machine, line, extension, voicemail, operator, speakerphone
+Online Reviews | star, rating, review, critic, feedback, comment, complain, five stars, helpful, verified, rant, thumbs down
+Podcasts | episode, host, guest, listen, microphone, download, subscribe, ad, series, cast, pod, interview, rant
+Blogs | post, write, comment, subscribe, entry, archive, blogger, reader, link, update, niche, journal, feed
+Online Dating | profile, swipe, match, bio, date, message, ghost, catfish, chemistry, first date, like, app, spark

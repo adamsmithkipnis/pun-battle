@@ -108,16 +108,23 @@ def leaderboard_line(leaders: list) -> list:
 def build_theme_post(theme: str, closes_local: datetime,
                      previous: dict | None = None,
                      leaders: list | None = None,
-                     tags: list | None = None) -> tuple:
+                     tags: list | None = None,
+                     mashup: bool = False) -> tuple:
     """(text, extra_dids) for the post that opens a round.
 
     `previous`: {"theme", "awards", "entry_count"} for the round being
     announced, or None for the very first round (or after a --skip).
+    `mashup`: the theme is two topics ("DENTISTRY + GEOLOGY") and one pun
+    has to cover both.
     """
-    core = (f"🎭 New pun theme: {theme.upper()}\n"
-            f"Reply with your best pun. Most likes at "
-            f"{fmt_deadline(closes_local)} wins "
-            f"{fmt_points(config.ROUND_POINTS)} pts (ties split).")
+    deadline = (f"Most likes at {fmt_deadline(closes_local)} wins "
+                f"{fmt_points(config.ROUND_POINTS)} pts (ties split).")
+    if mashup:
+        core = (f"⚔️ MASHUP ROUND: {theme.upper()}\n"
+                f"One pun, both topics. {deadline}")
+    else:
+        core = (f"🎭 New pun theme: {theme.upper()}\n"
+                f"Reply with your best pun. {deadline}")
 
     extra_dids = {}
     head = []

@@ -1,0 +1,18 @@
+# Travel & Vacations
+# family: travel
+Vacations | getaway, trip, relax, beach, itinerary, souvenir, postcard, out of office, time off, escape, tan, unwind, staycation
+Hotels | lobby, suite, check in, checkout, room service, concierge, bellhop, key card, minibar, do not disturb, wake-up call, bed, towel, housekeeping, silver dome, breakfast in bed, charge to room, pillow mint
+Motels | vacancy, neon sign, parking lot, ice machine, roadside, cheap, room key, cable TV, pool, no vacancy, motor inn, sleep
+Packing | suitcase, fold, roll, zip, overpack, checklist, toiletries, sock, cram, sit on it, forget, carry-on, bag, pack light, luggage, baggage, overhead bin, duffel, overweight
+Luggage | suitcase, bag, carry-on, wheel, zipper, tag, overhead bin, overweight, pack, lost, carousel, baggage, trunk, duffel
+Passports | stamp, photo, visa, customs, border, expire, renew, country, pages, travel, check, citizen, ID, document, declare, duty, smuggle, nothing to declare
+Airport Security | scanner, shoes off, liquids, bin, conveyor, pat down, belt, X-ray, line, TSA, laptop out, beep, boarding pass
+Souvenirs | keepsake, magnet, T-shirt, snow globe, trinket, postcard, gift shop, memento, keychain, shot glass, spoon, token, mug, wish you were here, scenic
+Postcards | wish you were here, stamp, scenic, greeting, message, send, mail, picture, write, souvenir, collect, view
+Tourists | camera, map, fanny pack, sunburn, guidebook, lost, landmark, selfie, crowd, sightseeing, gawk, tour bus, trap
+Theme Parks | ride, roller coaster, line, ticket, mascot, fast pass, loop, drop, thrill, souvenir, cotton candy, height requirement, spin
+Roller Coasters | loop, drop, climb, track, scream, thrill, car, lap bar, twist, upside down, corkscrew, ups and downs, queue
+Water Parks | slide, splash, wave pool, lazy river, tube, float, drench, flume, lifeguard, sunscreen, wet, plunge
+Jet Lag | time zone, tired, drowsy, clock, adjust, nap, groggy, red-eye, sleepy, body clock, awake, hours, zombie
+Bed and Breakfasts | breakfast, innkeeper, quaint, cozy, guest room, doily, porch, homemade, muffin, inn, charming, antique, check in
+Resorts | pool, spa, cabana, all-inclusive, beach, buffet, lounge, tropical, umbrella drink, cabana boy, relax, towel, getaway

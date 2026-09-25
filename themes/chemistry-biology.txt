@@ -1,0 +1,25 @@
+# Chemistry and Biology
+# family: science
+The Periodic Table | element, symbol, atomic number, row, column, group, noble, metal, gas, Mendeleev, chart, chemistry, period, lab, zinc, galvanize
+Atoms | proton, neutron, electron, nucleus, split, atomic, bond, particle, orbit, charge, Adam, matter, make up everything, don't trust
+Molecules | bond, atom, compound, H2O, chain, structure, molecular, formula, mole, particle, model, polymer, DNA, ball and stick
+Chemical Reactions | fizz, bubble, explode, catalyst, bond, mix, compound, heat, combust, product, equation, volatile, reactant, chain reaction
+Acids and Bases | pH, sour, litmus, neutral, alkaline, burn, vinegar, lemon, bleach, corrosive, acid test, base jump, basic, sting
+Noble Gases | helium, neon, argon, krypton, xenon, radon, inert, glow, balloon, sign, stable, royal, knight, float, neon sign, Vegas, open sign
+Helium | balloon, squeaky voice, float, light, lift, party, blimp, gas, noble, rise, high pitch, inflate, he, up
+Oxygen | air, breathe, O2, tank, mask, lungs, fire, oxygenate, fresh air, ox, gasp, element, plants, breath of fresh air
+Carbon | footprint, copy, dating, diamond, coal, graphite, pencil, carbonation, life, fizz, fiber, carbon copy, soot, emissions
+Gold | nugget, rush, bar, medal, glitter, carat, golden rule, good as gold, heart of gold, gold star, treasure, Midas, bullion, mine
+Silver | lining, spoon, screen, medal, sterling, silverware, tongue, fox, bullet, quicksilver, mine, polish, anniversary, tarnish
+Iron | pump iron, ironing, iron out, iron man, iron fist, rust, magnet, Iron Age, clothes iron, strike while the iron is hot, irony, cast iron, iron will, golf club
+Copper | cop, penny, wire, patina, statue, green, pipe, pot, coin, copper-bottomed, conductor, kettle, pan
+Lead | pencil, heavy, pipe, balloon, lead the way, lead singer, get the lead out, leaden, weight, fishing sinker, follow, mislead, leading role
+Tin | tin can, tin man, foil, tin roof, tin ear, tinny, anniversary, tin soldier, tinfoil hat, tin whistle, cookie tin, can, tinker, rattle, aluminum, soda can, crinkle
+Solutions | dissolve, mix, solvent, suspension, blend, stir, concentrate, saturate, dilute, solute, soluble, problem solving, answer, liquid
+States of Matter | solid, liquid, gas, plasma, melt, freeze, boil, evaporate, condense, steam, ice, phase, doesn't matter, what's the matter
+Cells | nucleus, membrane, mitochondria, powerhouse, organelle, divide, microscope, cytoplasm, wall, cell phone, jail cell, prison, battery, cell block
+Genetics | gene, jeans, DNA, helix, chromosome, heredity, trait, inherit, mutation, clone, dominant, recessive, genome, family tree
+Evolution | Darwin, natural selection, survival of the fittest, adapt, species, ape, ancestor, fossil, mutation, evolve, missing link, finch, descent, origin
+Microbes | bacteria, germ, bug, petri dish, culture, spread, wash hands, sanitize, microscope, colony, spore, probiotic, yeast, tiny
+Taxonomy | kingdom, phylum, class, order, family, genus, species, Latin name, label, category, sort, rank, tree of life, classify
+Cloning | copy, Dolly, identical, duplicate, twin, sheep, replicate, lab, double, carbon copy, again, copycat, cookie cutter, send in the clones

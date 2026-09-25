@@ -1,59 +1,19 @@
 # Circus & Magic
-Clowns
-Clown Cars
-Clown Shoes
-Red Noses
-Jugglers
-Juggling Torches
-Acrobats
-Trapeze Artists
-Tightrope Walkers
-Lion Tamers
-Ringmasters
-The Big Top
-Stilt Walkers
-Fire Eaters
-Sword Swallowers
-Human Cannonballs
-Unicycles
-Strongmen
-Contortionists
-Knife Throwers
-Circus Parades
-Sideshows
-Funhouse Mirrors
-Carnival Games
-Ring Tosses
-Balloon Animals
-Face Painting
-Squirting Flowers
-Fortune Tellers
-Crystal Balls
-Magicians
-Magic Wands
-Rabbits in Hats
-Card Tricks
-Pick a Card
-Coin Tricks
-Rope Tricks
-Sawing Someone in Half
-Disappearing Acts
-Escape Artists
-Levitation
-Magic Words
-Abracadabra
-Sleight of Hand
-Smoke and Mirrors
-Magic Shows
-Magician's Assistants
-Hypnotists
-Mind Readers
-Optical Illusions
-Street Magic
-Magic Kits
-Secret Compartments
-Tricks of the Trade
-Joining the Circus
-Grand Finales
-Circus Tents
-Clown College
+# family: play
+The Circus | big top, ring, ringmaster, clown, acrobat, trapeze, juggler, tightrope, lion tamer, tent, sideshow, popcorn, parade, act, unicycle, one-track mind, ladies and gentlemen, center ring, top hat
+Clowns | red nose, big shoes, honk, pie, wig, makeup, clown car, seltzer, balloon animal, gag, horn, rubber chicken, joker
+Acrobats | flip, tumble, trapeze, somersault, balance, cartwheel, flexible, leap, swing, catch, pyramid, handstand, net, flying, midair, release
+Juggling | toss, catch, pin, ball, torch, drop, keep in the air, balance, flip, spin, busy, multitask, club
+Tightropes | wire, balance, walk, pole, net, tense, taut, fall, high wire, step, wobble, toe the line
+Lion Tamers | whip, chair, lion, roar, cage, hoop, tame, ring, fierce, jaws, mane, pride, brave, claws
+Carnivals | ride, ferris wheel, cotton candy, midway, ring toss, prize, ticket, funnel cake, fun house, games, merry-go-round, stuffed animal, rigged, step right up, dunk tank
+Fun Houses | mirror, maze, slide, tilted floor, spin, dizzy, laugh, crooked, warp, reflection, distortion, barrel
+Magicians | wand, hat, rabbit, cape, trick, illusion, card trick, abracadabra, vanish, reveal, sleight of hand, assistant, presto
+Card Tricks | deck, pick a card, shuffle, ace, sleeve, reveal, force, cut, flourish, deal, fan, marked, is this your card
+Escape Artists | chains, lock, handcuffs, straitjacket, water tank, key, escape, trap, free, break out, tight spot, wriggle
+Fortune Tellers | crystal ball, palm, tarot, future, predict, card, tent, vision, fate, destiny, psychic, reading, medium
+Hypnotists | trance, swing, watch, sleep, suggest, count, snap, spell, stare, mesmerize, under, obey, you're getting sleepy
+Balloon Animals | twist, poodle, dog, squeak, pop, knot, tie, sculpt, sword, giraffe, inflate, pump, hat
+Optical Illusions | trick, eye, seeing, vision, mirage, perspective, dot, stare, pattern, spot the difference, double take, impossible
+Strongmen | flex, lift, barbell, muscle, bend, iron, mustache, leopard print, heavy, strain, tug, bicep, might
+Daredevils | stunt, motorcycle, jump, ramp, dare, risk, leap, crash, bold, flaming hoop, record, fearless, stuntman, human cannonball, cannon, fuse

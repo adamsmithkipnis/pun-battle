@@ -1,0 +1,19 @@
+# Fairy Tales
+# family: history-fantasy
+Cinderella | glass slipper, pumpkin, midnight, ball, stepsisters, fairy godmother, coach, prince, mice, ashes, the shoe fits, stroke of midnight, stepmother, gown
+Snow White | apple, mirror, dwarfs, seven, queen, fairest of them all, cottage, whistle while you work, kiss, huntsman, heigh-ho, sleepy, grumpy, dopey
+Rapunzel | hair, tower, let down your hair, braid, witch, prince, climb, long locks, window, trapped, grow, hairpin, tangled
+Sleeping Beauty | spindle, prick, sleep, hundred years, kiss, curse, thorns, briar, prince, spinning wheel, awaken, nap, fairy, rose
+Little Red Riding Hood | wolf, grandma, basket, woods, big eyes, better to see you with, path, woodsman, cape, what big teeth, goodies, stray
+The Three Little Pigs | straw, sticks, bricks, huff, puff, blow your house down, wolf, chimney, chinny chin chin, pot, piggy, build, contractor
+Goldilocks | porridge, bears, too hot, too cold, just right, chair, bed, blonde, locks, papa bear, baby bear, break in, bowl, nap
+Jack and the Beanstalk | beans, giant, fee fi fo fum, cow, golden egg, goose, harp, climb, stalk, clouds, trade, axe, magic, castle
+Hansel and Gretel | breadcrumbs, gingerbread house, witch, oven, candy, forest, trail, lost, cage, fatten, siblings, pebbles, sweet tooth
+Rumpelstiltskin | spin, straw into gold, name, guess, miller, firstborn, stamp, spinning wheel, gold, deal, riddle, imp, queen
+The Frog Prince | kiss, princess, golden ball, well, croak, lily pad, curse, prince charming, ribbit, toad, hop, promise, leap
+Princess and the Pea | mattress, stack, bruise, sensitive, royal, pile, sleep, pod, test, tower of beds, queen, green, tossing and turning
+Puss in Boots | cat, marquis, ogre, trick, clever, mouse, feathered hat, king, tail, purr, paws, scheme
+The Gingerbread Man | run run as fast as you can, can't catch me, fox, river, oven, icing, cookie, gumdrop, crumble, bake, chase, raisin, sweet
+The Little Mermaid | tail, voice, sea witch, legs, prince, fins, shells, under the sea, fork, wave, scales, fishy, rock
+The Ugly Duckling | swan, duck, pond, egg, quack, grow up, beauty, feather, gray, flock, reflection, transform, hatch
+Beauty and the Beast | rose, petals, castle, curse, enchanted, library, candlestick, teapot, ballroom, tale as old as time, transform, beastly, fur

@@ -1,0 +1,27 @@
+# Office Life
+# family: work
+Cubicles | cube, partition, wall, desk, cubicle farm, prairie dog, neighbor, gray, space, box, privacy, rows, maze, walls have ears
+Office Supplies | stapler, paper clip, sticky note, rubber band, push pin, binder, folder, highlighter, tape, scissors, hole punch, pen, notepad, supply closet
+The Copy Machine | jam, toner, print, paper, collate, staple, scan, copy that, carbon copy, duplicate, out of order, tray, feed, fax
+Meetings | agenda, minutes, schedule, conference room, huddle, sync, action item, call, standup, meeting of the minds, table, presentation, run long, could have been an email
+Conference Calls | mute, you're on mute, dial in, can you hear me, echo, hold, video, lag, camera, background, join, host, drop, frozen, screen share, wave, connection
+Deadlines | due, late, rush, crunch, overtime, extension, clock, crunch time, pressure, submit, cutoff, ASAP, dead, line, time's up
+Memos | note, circular, bulletin, notice, cc, forward, missed the memo, internal, heads up, announcement, directive, policy, FYI, reply all
+Performance Reviews | rating, feedback, goal, raise, promotion, evaluate, strengths, weaknesses, self-assessment, meets expectations, improve, one-on-one, appraisal
+Promotions | promote, raise, climb, ladder, corner office, title, step up, move up, boss, bump, advance, rise, upgrade, new desk
+Job Interviews | resume, handshake, strengths, weakness, suit, hire, question, references, where do you see yourself, first impression, nervous, callback, offer, tell me about yourself, CV, cover letter, bullet points, gap
+The Boss | manager, supervisor, corner office, bossy, big cheese, head honcho, top dog, like a boss, raise, overtime, micromanage, orders, fire, chief
+Coworkers | colleague, cubicle neighbor, team, lunch thief, water cooler, gossip, office friend, desk mate, carpool, reply all, birthday cake, team player, nemesis, office mate
+Interns | coffee run, unpaid, fetch, learn, rookie, trainee, mentor, summer, photocopy, lowest rung, entry-level, green, shadow, internal
+The Break Room | microwave, fridge, coffee pot, lunch, snacks, rest, vending machine, fish smell, stolen lunch, birthday cake, table, kitchen, give me a break, water cooler, gossip, small talk, jug
+The Water Cooler | gossip, chat, cup, bubble, jug, refill, office gossip, small talk, hang out, spill, drip, cold, glug
+Team Building | trust fall, icebreaker, retreat, ropes course, bonding, activity, escape room, synergy, collaborate, offsite, huddle, group hug, bond, build
+Brainstorming | ideas, whiteboard, sticky notes, storm, think tank, mind map, pitch, no bad ideas, creative, blue sky, lightbulb, spitball, think outside the box
+Presentations | slide, deck, bullet point, chart, projector, clicker, pitch, speaker notes, next slide, audience, podium, laser pointer, present, transition
+Corporate Jargon | synergy, leverage, circle back, bandwidth, deep dive, move the needle, low-hanging fruit, paradigm, pivot, touch base, ping, streamline, disrupt, take it offline
+Filing Cabinets | manila, folder, drawer, hanging folder, alphabetical, label, archive, tab, organize, paper, rank and file, file away, file a claim, nail file
+To-Do Lists | task, check off, tick, priority, errand, reminder, done, cross off, jot, agenda, bucket list, schedule, note
+Working From Home | pajamas, remote, commute, kitchen table, home office, mute, pets, laptop, couch, video call, flexible, slippers, sweatpants, homebody
+Nine to Five | clock in, shift, punch card, daily grind, workday, office hours, clock out, routine, schedule, lunch hour, rat race, grind, overtime, time card
+Accounting | ledger, balance, audit, debit, credit, column, numbers, spreadsheet, calculator, bean counter, bottom line, account for, books, fiscal
+Retirement | pension, gold watch, rocking chair, golf, farewell party, early retirement, nest egg, Florida, leisure, sleep in, tire, cruise, retiree

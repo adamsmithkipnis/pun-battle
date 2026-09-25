@@ -1,63 +1,30 @@
 # Birds
-Owls
-Penguins
-Woodpeckers
-Hummingbirds
-Eagles
-Bald Eagles
-Hawks
-Falcons
-Vultures
-Crows
-Ravens
-Robins
-Blue Jays
-Cardinals
-Sparrows
-Swallows
-Finches
-Pigeons
-Doves
-Seagulls
-Pelicans
-Flamingos
-Parrots
-Toucans
-Peacocks
-Ostriches
-Emus
-Kiwis
-Storks
-Herons
-Cranes
-Swans
-Canada Geese
-Loons
-Puffins
-Albatrosses
-Kingfishers
-Magpies
-Starlings
-Mockingbirds
-Cuckoos
-Roadrunners
-Nightingales
-Orioles
-Warblers
-Wrens
-Bird Watching
-Bird Feeders
-Birdhouses
-Nests
-Feathers
-Beaks
-Migration
-Flying South for Winter
-Birdsong
-Dawn Chorus
-Molting
-Hatchlings
-A Parrot's Job Interview
-Pigeon Delivery Service
-The Owl Night Shift
-Penguin Waddles
+# family: nature
+Birds | feather, wing, beak, nest, egg, flock, tweet, chirp, fly, migrate, perch, molt, early bird, bird's-eye view, flight
+Owls | hoot, who, night, wise, talon, feather, perch, barn owl, prey, swivel, night owl, hoo, owlet, pellet
+Penguins | waddle, tuxedo, ice, flipper, slide, huddle, emperor, colony, fish, dive, belly flop, black tie, cold feet, chill
+Eagles | talon, soar, nest, eyrie, eagle eye, bald, swoop, prey, wingspan, spread, majestic, perch, altitude, eagle scout
+Birds of Prey | hawk, falcon, eagle, owl, vulture, kestrel, talon, swoop, dive, hunt, predator, raptor, hover, circling
+Crows | caw, raven, murder, flock, scarecrow, shiny, black, crow's feet, as the crow flies, eat crow, crowbar, crow about, clever
+Parrots | talk, repeat, squawk, polly, cracker, perch, cage, macaw, cockatoo, echo, mimic, beak, colorful, pirate, toucan, bird of paradise, exotic
+Pigeons | coo, statue, crumb, strut, carrier, homing, city, pigeonhole, stool pigeon, flock, peck, park bench, bread, message
+Ducks | quack, waddle, pond, bill, webbed feet, duckling, drake, down, duck and cover, sitting duck, lame duck, float, dive, mallard
+Geese | honk, gaggle, V formation, gander, gosling, down, goose bumps, wild goose chase, golden egg, silly goose, migrate, hiss, goosed
+Swans | glide, pond, ballet, lake, grace, neck, cygnet, ugly duckling, swan song, mute, elegant, white, paddle, swan dive
+Woodpeckers | peck, knock, drill, tree, bark, trunk, beak, hammer, tap, hole, bug, headache, rat-a-tat, redhead
+Hummingbirds | hum, hover, nectar, feeder, flower, tiny, wing, buzz, zip, blur, sugar water, sip, flit, speedy
+Flamingos | pink, one leg, stand, flock, lawn ornament, shrimp, wade, neck, flamboyance, balance, tropical, bend, beak, bright
+Peacocks | tail, feather, fan, strut, show off, display, pride, iridescent, eye, preen, plume, peahen, vain, shimmer
+Seagulls | beach, squawk, fries, steal, swoop, dive, gull, gullible, pier, boardwalk, mine, flock, wave, harbor
+Songbirds | sing, tweet, chirp, trill, warble, robin, canary, sparrow, lark, wren, finch, nightingale, dawn chorus, melody
+Nests | twig, branch, egg, feather, lay, hatch, perch, empty nest, feather your nest, nest egg, cozy, build, home, cradle, yolk, incubate, brood, fledge
+Feathers | plume, quill, down, fluff, tickle, preen, molt, light, birds of a feather, feather in your cap, ruffle, fan, tail, boa
+Bird Watching | binoculars, spot, field guide, list, lifer, tweet, call, blind, hide, perch, flock, sighting, twitcher, patience, feeder, suet, birdbath
+Migration | south, winter, flock, V formation, route, flyway, journey, travel, return, season, fly, map, homeward, compass
+Flightless Birds | ostrich, emu, kiwi, penguin, dodo, cassowary, run, sand, head in the sand, grounded, stubby wings, flap, sprint, walk
+Wading Birds | heron, stork, crane, egret, ibis, pelican, wade, stilt, long legs, marsh, spear, still, patience, bill, pouch, scoop, gulp
+Robins | red breast, early bird, worm, spring, blue egg, round robin, nest, hop, tug, chirp, Christmas card, bob, rob, lawn
+Vultures | circle, scavenger, bald, perch, patience, culture, wait, swoop, buzzard, condor, wingspan, leftovers, hover, pick
+Storks | baby, bundle, delivery, bill, chimney, nest, long legs, deliver, wade, stork bite, special delivery, beak, flap, due
+Cardinals | red, crest, cardinal sin, cardinal rule, songbird, winter, feeder, redbird, cardinal directions, pope, scarlet, whistle, perch, bright
+Swallows | gulp, barn, dive, swoop, spring, return, one swallow, fork tail, swallow your pride, swallow hard, Capistrano, bitter pill, swift, skim

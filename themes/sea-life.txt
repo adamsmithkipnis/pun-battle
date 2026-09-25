@@ -1,63 +1,28 @@
 # Sea Life
-Whales
-Blue Whales
-Humpback Whales
-Orcas
-Narwhals
-Belugas
-Dolphins
-Porpoises
-Sharks
-Great White Sharks
-Hammerhead Sharks
-Whale Sharks
-Stingrays
-Manta Rays
-Octopuses
-Squid
-Giant Squid
-Cuttlefish
-Jellyfish
-Sea Turtles
-Seals
-Sea Lions
-Crabs
-Lobsters
-Shrimp
-Clams
-Oysters
-Mussels
-Scallops
-Starfish
-Sea Urchins
-Sea Cucumbers
-Seahorses
-Coral Reefs
-Sea Anemones
-Clownfish
-Pufferfish
-Swordfish
-Tuna
-Cod
-Halibut
-Flounder
-Eels
-Anglerfish
-Barracudas
-Sardines
-Plankton
-Krill
-Kelp Forests
-Barnacles
-Sea Sponges
-Deep Sea Creatures
-Schools of Fish
-Whale Songs
-Tentacles
-Fins
-Gills
-Scuba Diving
-Aquariums
-A Crab's Sideways Commute
-Lobster Claws
-Octopus Ink
+# family: nature
+Fish | fin, scale, gill, school, bait, hook, swim, tail, cod, sole, bass, fishy, catch, net, reel
+Sharks | fin, jaws, teeth, bite, great white, hammerhead, chum, shark tank, loan shark, card shark, circle, prey, predator, feeding frenzy
+Whales | blowhole, spout, breach, fluke, blubber, humpback, orca, pod, whale song, krill, a whale of a time, baleen, splash, sperm whale, narwhal, tusk, unicorn of the sea, plankton, bottom of the food chain
+Dolphins | flipper, click, pod, leap, porpoise, bottlenose, sonar, smart, wave, splash, dorsal fin, playful, jump, squeak
+Octopuses | tentacle, ink, eight arms, sucker, squid, camouflage, squeeze, arm, hug, clever, den, cuttlefish, escape, grip, calamari, kraken, squirt, jet
+Squid | tentacle, ink, calamari, giant, suckers, jet, squirt, arms, kraken, glow, beak, sea monster, rings, sushi
+Crabs | claw, pinch, shell, sideways, hermit, crabby, pincer, scuttle, crab walk, molt, tide pool, snap, crab cake, king crab, house hunting, borrow, reclusive
+Hermit Crabs | shell, move, borrow, introvert, reclusive, upgrade, swap, claw, pinch, tank, painted shell, hide, house hunting, scuttle
+Lobsters | claw, pinch, shell, trap, pot, red, bib, butter, tail, antenna, crawl, boil, Maine, crusher
+Jellyfish | sting, tentacle, float, wobble, jelly, glow, transparent, drift, blob, bell, spineless, squishy, man o' war, pulse
+Shellfish | clam, oyster, mussel, scallop, shrimp, pearl, shell, shuck, clam up, happy as a clam, muscle, prawn, bed, raw bar, the world is your oyster, oyster bed, grit
+Seals and Sea Lions | flipper, bark, whisker, blubber, beach, pup, balance, ball, clap, sunbathe, slick, colony, seal the deal, walrus, manatee, sea cow, mermaid, tusk, mustache, ice floe, haul out
+Sea Turtles | shell, flipper, hatch, nest, beach, slow, migrate, current, ancient, dive, float, drift, paddle, surf
+Seahorses | curly tail, snout, dad, pouch, bob, gallop, reef, tiny, float, stallion, cling, coral, pony, upright
+Starfish | arm, spiny, five, point, regrow, tide pool, suction, rock, sea star, sticky, starstruck, shine, twinkle, cling
+Coral Reefs | barrier, atoll, polyp, anemone, clownfish, colorful, snorkel, bleach, sponge, rainbow, sea fan, parrotfish, dive, kelp
+Tropical Fish | clownfish, angelfish, butterflyfish, parrotfish, tang, pufferfish, striped, bright, reef, anemone, school, darting, colorful, zebra, class clown, clowning around, clown
+Clownfish | clown, anemone, orange, stripes, joke, circus, funny, reef, class clown, clowning around, honk, sidekick, host, tickle
+Eels | slippery, electric, shock, zap, wriggle, moray, slither, eely, spark, charge, current, slick, squirm, jolt
+Rays | stingray, manta, glide, flat, wing, sting, barb, skate, sand, bury, flap, ray of sunshine, x-ray, beam
+Deep Sea Creatures | anglerfish, glow, lure, pressure, abyss, dark, bioluminescent, squid, giant, trench, weird, fangs, dive, submarine
+Tide Pools | periwinkle, rock, crab, starfish, anemone, snail, barnacle, urchin, shore, splash, low tide, poke, wade, puddle
+Aquariums | tank, glass, exhibit, touch tank, tunnel, feeding time, diver, penguin, shark, jellyfish, gift shop, sea otter, school trip, filter
+Scuba Diving | tank, mask, fin, snorkel, wetsuit, regulator, buddy, depth, bubble, dive, reef, surface, bends, air, flippers, breathing tube, goggles
+Salmon | upstream, spawn, leap, bear, run, smoked, pink, fish ladder, school, river, jump, current, lox, homeward
+Pufferfish | puff, spike, inflate, blowfish, balloon, round, spines, pout, huff, swell, blow up, poison, prickly, pop

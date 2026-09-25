@@ -1,64 +1,26 @@
 # Fruit
-Fruit
-Apples
-Bananas
-Pears
-Oranges
-Lemons
-Limes
-Grapes
-Strawberries
-Blueberries
-Raspberries
-Blackberries
-Cherries
-Peaches
-Plums
-Apricots
-Mangoes
-Pineapples
-Kiwi Fruit
-Watermelons
-Cantaloupe
-Honeydew
-Coconuts
-Papayas
-Figs
-Dates
-Pomegranates
-Grapefruit
-Tangerines
-Cranberries
-Gooseberries
-Nectarines
-Passion Fruit
-Dragon Fruit
-Lychees
-Guavas
-Starfruit
-Persimmons
-Quinces
-Durian
-Jackfruit
-Kumquats
-Raisins
-Prunes
-Fruit Salad
-Fruit Baskets
-Apple Picking
-Fruit Stands
-Banana Peels
-Citrus
-Berries
-Tropical Fruit
-Dried Fruit
-Fruit Cocktail
-Things at a Fruit Stand
-A Grape's Worst Nightmare
-Forbidden Fruit
-Candied Fruit
-Clementines
-Mulberries
-Elderberries
-Plantains
-Avocados
+# family: food
+Fruit | apple, banana, orange, grape, berry, peach, pear, cherry, plum, melon, ripe, peel, core, juicy, forbidden fruit, pomegranate, seeds, Persephone, bushel, roadside, crate, fruit salad, medley, ambrosia
+Apples | core, peel, crisp, orchard, Granny Smith, red delicious, pie, cider, bite, worm, teacher, apple of my eye, bad apple, doctor away, Big Apple
+Bananas | peel, bunch, split, slip, ripe, yellow, go bananas, top banana, monkey, spot, bruise, plantain, smoothie, bread
+Oranges | peel, juice, pulp, zest, segment, navel, citrus, squeeze, Florida, mandarin, tangerine, clementine, orange you glad, rind, grapefruit, ruby red, half a grapefruit
+Lemons | sour, zest, squeeze, juice, pucker, lemonade, peel, wedge, citrus, rind, tart, yellow, when life gives you lemons, dud
+Limes | key lime pie, zest, wedge, squeeze, green, sour, limelight, sublime, margarita, citrus, scurvy, tart, peel, twist
+Grapes | vine, bunch, cluster, raisin, wine, juice, seedless, green, purple, stomp, sour grapes, grapevine, jelly, peel me a grape
+Berries | strawberry, blueberry, raspberry, blackberry, cranberry, gooseberry, pick, jam, bush, pie, berry good, very, bury, smoothie, bog, cranberry sauce, can ridges
+Strawberries | red, seed, jam, shortcake, field, pick, dip, chocolate-covered, sweet, patch, ripe, stem, fields forever, milkshake
+Cherries | pit, stem, pie, cherry on top, cherry-pick, jubilee, bowl of cherries, tart, sweet, maraschino, blossom, orchard, red, stain
+Peaches | fuzz, pit, pie, cobbler, Georgia, peachy, peachy keen, orchard, ripe, juicy, blush, soft, canned, nectarine
+Pears | pair, peel, core, prickly, Bartlett, ripe, orchard, pear-shaped, poached, juice, partridge, spare, tree, compare
+Plums | prune, purple, pit, sugar plum, plum job, plummet, juicy, dried, sweet, tart, ripe, jam, tree, plump
+Pineapples | spiky, crown, tropical, Hawaii, pizza, ring, upside-down cake, core, sweet, prickly, pina colada, juice, rough, luau
+Coconuts | shell, milk, palm, crack, husk, water, tropical, island, cream, flakes, hairy, tree, lime, deserted island
+Melons | watermelon, cantaloupe, honeydew, rind, seed, ball, scoop, slice, ripe, melancholy, spit, picnic, wedge, thump
+Tropical Fruit | mango, papaya, pineapple, coconut, passion fruit, guava, kiwi, banana, lychee, dragon fruit, starfruit, island, juice, exotic
+Avocados | guacamole, pit, toast, ripe, mush, green, skin, holy guacamole, half, smash, Hass, creamy, brunch, alligator pear
+Dates | palm, pit, sweet, dried, blind date, date night, due date, update, outdated, Medjool, save the date, sticky, calendar, first date
+Dried Fruit | raisin, prune, date, apricot, cranberry, fig, trail mix, shrivel, chewy, wrinkle, dehydrate, box, snack, mango
+Blueberries | blue, pie, muffin, pancake, pick, bush, pint, antioxidant, Maine, blueberry hill, pail, jam, smoothie, feeling blue
+Raspberries | blow a raspberry, seeds, jam, tart, red, bush, pick, thorns, sorbet, beret, jelly, rasp, pint, vinaigrette
+Mangoes | tango, man go, ripe, pit, slice, chutney, salsa, lassi, juicy, sticky rice, dice, cheek, tropical, sweet
+Figs | fig leaf, dried, jam, tree, purple, seeds, figure, figment, Mediterranean, don't give a fig, newton, sweet, wasp, pudding

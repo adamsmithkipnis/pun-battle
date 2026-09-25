@@ -1,0 +1,23 @@
+# Castles to Modern Times
+# family: history-fantasy
+Castles | moat, drawbridge, tower, turret, dungeon, keep, rampart, battlement, throne, king, siege, portcullis, castle in the air, fortress
+Royalty | crown, throne, reign, rule, scepter, royal, majesty, court, heir, palace, coronation, kingdom, queen bee, king size, royal flush
+Court Jesters | fool, jingle, bells, hat, juggle, joke, motley, jest, king, prank, tumble, pun, fool around
+Monks | robe, hood, habit, chant, abbey, monastery, bald, silence, vow, brew, friar, manuscript, bell, cloister, quill, parchment, illuminate, calligraphy
+Vikings | longship, horned helmet, raid, axe, Norse, Valhalla, beard, pillage, oar, shield, mead, Leif, saga, berserk
+Feudalism | serf, peasant, lord, manor, vassal, fief, knight, tithe, land, loyalty, oath, rank, surf, castle
+Alchemy | lead, gold, potion, philosopher's stone, elixir, transmute, flask, cauldron, bubbles, magic, experiment, turn, alchemist, mercury
+King Arthur | round table, Excalibur, sword in the stone, Camelot, Merlin, Lancelot, Guinevere, knights, grail, quest, Avalon, pull, lady of the lake
+Medieval Feasts | mead, turkey leg, goblet, banquet, minstrel, jester, roast, boar, trencher, hall, toast, king, platter, bard, lute, troubadour, ballad
+Cathedrals | spire, gargoyle, stained glass, arch, nave, altar, bell, choir, dome, flying buttress, pew, Gothic, vault, rose window
+The Renaissance | rebirth, Da Vinci, Michelangelo, art, patron, Medici, perspective, Florence, sculpture, fresco, invention, humanism, Renaissance man, revival
+The Industrial Revolution | steam, factory, engine, machine, coal, smokestack, mill, gear, iron, cog, railroad, loom, invention, assembly line
+The Victorian Era | queen, corset, top hat, parlor, tea, stiff upper lip, gaslight, manners, bustle, fog, carriage, steam, prim, proper
+The Roaring Twenties | flapper, jazz, speakeasy, Charleston, bootleg, bob, pearls, gin, dance, roar, fringe, Gatsby, cat's pajamas, bee's knees
+The Fifties | sock hop, jukebox, poodle skirt, diner, milkshake, greaser, drive-in, hula hoop, rock and roll, leather jacket, soda fountain, pompadour, cool, daddy-o
+The Sixties | groovy, hippie, peace, love, flower power, tie-dye, far out, Woodstock, lava lamp, moon landing, mod, psychedelic, beads, go-go boots
+The Seventies | disco, bell-bottoms, afro, shag carpet, mood ring, pet rock, funky, platform shoes, polyester, far out, roller disco, wood paneling, groovy, eight-track
+The Eighties | neon, big hair, leg warmers, arcade, cassette, mixtape, shoulder pads, boombox, totally, rad, gnarly, synth, perm, mall
+The Nineties | grunge, flannel, dial-up, pager, boy band, scrunchie, slap bracelet, VHS, as if, whatever, frosted tips, fanny pack, talk to the hand, all that
+Explorers | expedition, voyage, map, compass, discover, frontier, ship, charter, uncharted, new world, trek, route, navigate, Magellan
+Inventors | invention, patent, lightbulb, eureka, tinker, prototype, workshop, genius, Edison, gadget, bright idea, blueprint, Da Vinci, Franklin

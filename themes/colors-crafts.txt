@@ -1,0 +1,24 @@
+# Colors & Crafts
+# family: arts
+Colors | red, orange, yellow, green, blue, purple, pink, hue, shade, tint, primary, rainbow, pastel, neon
+Red | ruby, crimson, scarlet, cherry, rose, blush, seeing red, red tape, red carpet, caught red-handed, in the red, maroon, brick
+Shades of Blue | navy, sky, royal, teal, azure, cobalt, sapphire, baby blue, feeling blue, out of the blue, blue moon, true blue, the blues
+Green | lime, emerald, olive, mint, forest, jade, sage, envy, green thumb, green light, go green, greenhorn, money
+Yellow | lemon, gold, mustard, canary, butter, sunshine, banana, mellow, yellow-bellied, highlighter, daffodil, honey
+Purple | violet, lavender, plum, lilac, grape, royal, amethyst, mauve, orchid, eggplant, purple prose, heart
+Pink | rose, blush, salmon, flamingo, bubblegum, coral, hot pink, tickled pink, pink slip, in the pink, fuchsia, carnation
+Black and White | ink, ebony, ivory, zebra, snow, jet, coal, piano keys, chess, tuxedo, gray area, newspaper, panda
+Rainbows | arc, spectrum, prism, pot of gold, color, stripe, band, refract, after the rain, over the rainbow, violet, indigo, arch
+Paint Colors | swatch, shade, chip, eggshell, satin, gloss, matte, primer, coat, beige, off-white, accent wall, sample, palette
+Knitting | yarn, needle, stitch, purl, knit one, cast on, skein, wool, loop, scarf, sweater, pattern, drop a stitch, row, crochet, hook, granny square, hooked
+Sewing | needle, thread, stitch, seam, hem, bobbin, thimble, pin, pattern, fabric, spool, machine, mend, patch, embroidery, cross-stitch, hoop
+Quilting | patch, square, block, stitch, batting, bee, pattern, scrap, border, heirloom, cozy, piece, tie
+Scrapbooking | page, album, sticker, glue, photo, memory, border, cut, paste, stamp, keepsake, scissor, collage
+Origami | fold, crease, crane, paper, square, sheet, bend, frog, flap, unfold, tuck, pleat, boat
+Pottery | clay, wheel, kiln, glaze, throw, mold, vase, pot, mud, shape, fire, bowl, spin, potter
+Crafts | glue, glitter, scissors, paper, paint, yarn, bead, felt, stamp, stencil, craft fair, DIY, pipe cleaner, macaroni art, tie-dye, groovy, dye
+Woodcarving | whittle, knife, chip, carve, grain, shave, block, figure, notch, sliver, gouge, bark, knot
+Weaving | loom, thread, warp, weft, pattern, basket, fiber, strand, interlace, tapestry, shuttle, braid, woven
+Brown | chocolate, coffee, mocha, tan, beige, caramel, chestnut, mud, rust, bronze, cinnamon, brownie, hazel, toast
+Gray | silver, ash, slate, charcoal, smoke, pewter, steel, gray area, gray matter, cloudy, dove, fog, overcast
+Crayons | wax, color, box, sharpen, melt, break, peel, stay in the lines, scribble, doodle, tip, stub, draw, sixty-four

@@ -1,0 +1,20 @@
+# Art
+# family: arts
+Painting | brush, stroke, canvas, easel, palette, oil, watercolor, acrylic, masterpiece, landscape, portrait, coat, paint the town red, primer
+Sculpture | chisel, marble, clay, bust, statue, carve, mold, pedestal, bronze, cast, form, stone, figure, model
+Watercolors | wash, bleed, blend, water, paper, pan, brush, wet, dilute, soft, splash, run, puddle, tint
+Portraits | pose, sit, likeness, frame, face, flattering, smile, oil, royal, self-portrait, gallery, profile, sitter, eyes follow you, Mona Lisa, enigmatic, Louvre
+The Mona Lisa | smile, Louvre, Da Vinci, enigmatic, eyes follow you, frame, bulletproof glass, Leonardo, mysterious, portrait, masterpiece, crowd, stolen, no eyebrows
+Art Museums | gallery, exhibit, curator, docent, masterpiece, frame, wing, gift shop, audio guide, sculpture, don't touch, velvet rope, guard, collection
+Modern Art | abstract, splatter, drip, pop, cube, installation, conceptual, avant-garde, minimal, banana taped to a wall, interpret, my kid could do that, blank canvas, pop art, comic, fifteen minutes, cubism, Picasso, blue period, geometric
+Impressionism | Monet, dab, light, water lilies, brushstroke, dots, blur, haystacks, en plein air, Degas, dancers, sunrise, Renoir, impression
+Surrealism | melting clocks, dream, Dali, weird, bizarre, subconscious, lobster phone, pipe, bowler hat, apple face, unreal, mustache, Magritte
+Famous Painters | Monet, Van Gogh, Picasso, Dali, Rembrandt, Da Vinci, Matisse, Degas, Munch, Warhol, Michelangelo, Vermeer, Renoir, Goya
+Drawing | sketch, pencil, doodle, draw a blank, line, shade, charcoal, trace, eraser, draw the line, stick figure, draw straws, outline, draft
+Art Supplies | brush, easel, palette, canvas, charcoal, pastel, crayon, marker, pencil, paint, tube, eraser, smock, beret
+Street Art | graffiti, mural, tag, spray paint, stencil, wall, alley, piece, crew, throw-up, bridge, train car, public, can
+Mosaics | tile, tessera, grout, pieces, pattern, glass, floor, Roman, piece together, shard, fragment, broken, inlay, pebble
+Art Forgery | forge, fake, copy, counterfeit, knockoff, signature, authentic, expert, canvas, museum, frame, replica, con artist, brush with the law
+Picture Frames | mat, hang, nail, level, crooked, gilded, border, framed, wall, gallery wall, frame job, picture perfect, glass, frame of mind
+Still Life | fruit bowl, vase, apple, pear, arrangement, flowers, drapery, skull, composition, lemons, jug, candle, pose, bottle
+Landscape Painting | hills, horizon, trees, sky, clouds, barn, plein air, vista, perspective, happy little trees, scenery, sunset, lake, mountain

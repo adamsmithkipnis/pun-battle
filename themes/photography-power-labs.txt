@@ -1,0 +1,22 @@
+# Photography, Power & Labs
+# family: science
+Photography | camera, lens, focus, flash, shutter, zoom, snapshot, exposure, develop, negative, frame, pose, film, filter
+Selfies | pose, angle, arm's length, filter, smile, pout, stick, front camera, post, snap, group selfie, background, duck face
+Photo Albums | page, sleeve, memory, snapshot, scrapbook, family, caption, flip through, frame, keepsake, print, shoebox, nostalgia
+Photo Shoots | pose, model, studio, lighting, backdrop, click, angle, headshot, smile, strike a pose, retouch, portfolio, set, photo booth, silly faces, props, strip
+Photo Booths | strip, curtain, pose, flash, silly faces, four shots, prop, mall, instant, stool, retake, cheese, squeeze
+Family Photos | say cheese, pose, matching outfits, blink, smile, group, timer, awkward, frame, holiday card, portrait, squeeze in
+Electricity | current, spark, volt, watt, amp, charge, circuit, wire, shock, plug, outlet, static, power, grid
+Batteries | charge, dead, drain, AA, recharge, power, positive, negative, juice, low battery, backup, cell, terminal, drained, charger, cord, port, adapter, percent
+Light Bulbs | watt, bright, filament, glass, socket, screw in, switch, bright idea, burn out, flicker, glow, lamp, LED
+Power Outages | blackout, dark, candle, flashlight, fuse, generator, lights out, storm, restore, power down, reset, outage, backup, beam, torch, under the chin
+Flashlights | beam, battery, bulb, click, dark, shine, torch, flicker, search, spotlight, glow, under the chin, lantern
+Solar and Wind Power | sun, panel, ray, energy, rooftop, cell, bright, green, renewable, solar flare, beam, soak up, shine, windmill, blade, breeze, gust, turbine, spin
+Static Electricity | cling, shock, zap, spark, hair, balloon, rub, charge, frizz, socks, carpet, attract, crackle
+Plugs and Outlets | socket, prong, plug in, unplug, receptacle, extension cord, power strip, adapter, charge, cord, wall, surge, ground
+Power Plants | reactor, steam, turbine, grid, coal, dam, generate, cooling tower, output, power line, plant, fuel, station
+Lab Equipment | beaker, test tube, flask, burner, pipette, microscope, goggles, lab coat, scale, dropper, petri dish, funnel, rack
+Microscopes | lens, slide, magnify, focus, zoom, cell, specimen, eyepiece, scope, tiny, examine, close-up, objective, magnifying glass, detective, clue
+Experiments | hypothesis, test, control, variable, result, trial, data, observe, conclusion, lab, measure, repeat, error
+Mad Scientists | lab, cackle, lightning, lever, beaker, formula, experiment, genius, bubbling, creation, it's alive, goggles, evil
+Wires and Cables | tangle, cord, strip, connect, plug, splice, insulated, live wire, coil, knot, crossed wires, jumper, copper
