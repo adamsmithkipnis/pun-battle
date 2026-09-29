@@ -96,7 +96,8 @@ DRY_DIR = os.environ.get("DRY_DIR", "dry-run")
 #   2. one pun tag (HASHTAG_CORE), so every round reaches people browsing puns
 #   3. the topic itself (#FilmNoir, #Cheetahs; both halves of a mashup), which
 #      reaches people who follow that subject rather than puns
-#   4. one tag for the topic's family (food -> #foodie, nature -> #wildlife…)
+#   4. one tag for the topic's family (food -> #foodie, nature -> #wildlife…),
+#      then any HASHTAG_BOOSTED tag that wins its coin flip
 #   5. general wordplay/game tags, sampled fresh each post
 #
 # Tags are appended only while they still fit under 300 characters, so reach
@@ -109,6 +110,11 @@ HASHTAG_ALWAYS = os.environ.get("HASHTAG_ALWAYS", "#PunBattle")
 MAX_HASHTAGS = int(os.environ.get("MAX_HASHTAGS", "6"))
 
 HASHTAG_CORE = ["#puns", "#wordplay", "#punny"]
+
+# Tags that should show up more often than the general rotation gives them:
+# tag -> chance per post. #dadjokes feeds pull from it automatically (e.g.
+# the "Dad Jokes" feed collects every #dadjokes post), so it earns a slot.
+HASHTAG_BOOSTED = {"#dadjokes": 0.75}
 
 HASHTAG_POOL = (
     "#puns #pun #wordplay #punny #dadjokes #jokes #humor #funny #comedy "

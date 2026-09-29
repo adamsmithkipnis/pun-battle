@@ -68,6 +68,9 @@ def pick_hashtags(rng=None, topics=(), families=()) -> list:
         options = config.FAMILY_HASHTAGS.get(family, [])
         if options:
             add(rng.choice(options))
+    for tag, chance in config.HASHTAG_BOOSTED.items():
+        if rng.random() < chance:
+            add(tag)
     pool = [t for t in config.HASHTAG_POOL if t.lower() not in seen]
     for tag in rng.sample(pool, len(pool)):
         add(tag)
@@ -100,12 +103,36 @@ def _names(handles: list, shown: int) -> str:
     return ", ".join(mentions[:-1]) + " & " + mentions[-1]
 
 
-def result_lines(theme: str, awards: list, entry_count: int) -> list:
+def _split_lines(theme: str, handles: list, points: str) -> list:
+    """Nobody got a like, so everyone who entered shares the pot."""
+    pot = fmt_points(config.ROUND_POINTS)
+    if len(handles) == 1:
+        return [f"🏆 Last round ({theme}): no likes, so @{handles[0]} takes "
+                f"all {pot} pts just for entering!",
+                f"🏆 No likes last round, so @{handles[0]} takes all {pot} pts!",
+                f"🏆 No likes last round, so the only punster takes {pot} pts!"]
+    out = [f"🏆 Last round ({theme}): no likes, so {_names(handles, shown)} "
+           f"split {pot} pts ({points} each)!"
+           for shown in range(len(handles), 0, -1)]
+    out.append(f"🏆 Last round ({theme}): no likes, so all {len(handles)} "
+               f"punsters split {pot} pts!")
+    out.append(f"🏆 No likes last round, so all {len(handles)} punsters "
+               f"split {pot} pts!")
+    return out
+
+
+def result_lines(theme: str, awards: list, entry_count: int,
+                 no_likes_split: bool = False) -> list:
     """Ways to announce last round's result, most detailed first.
 
     `awards` are rows (or dicts) with handle, likes and points. The caller
     takes the first one that fits alongside the new theme.
+    `no_likes_split`: nobody got a like, so the awards are every entrant's
+    equal share rather than a win.
     """
+    if awards and no_likes_split:
+        return _split_lines(theme, [a["handle"] for a in awards],
+                            fmt_points(awards[0]["points"]))
     if not awards:
         if not entry_count:
             return [f"No puns for {theme} last round. Fresh start:",
@@ -170,7 +197,8 @@ def build_theme_post(theme: str, closes_local: datetime,
     head = []
     if previous is not None:
         options = result_lines(previous["theme"], previous["awards"],
-                               previous.get("entry_count", 0))
+                               previous.get("entry_count", 0),
+                               previous.get("no_likes_split", False))
         for line in options:
             if len("\n\n".join([line, core])) <= LIMIT:
                 head.append(line)
@@ -200,13 +228,22 @@ def build_theme_post(theme: str, closes_local: datetime,
 # ---------------------------------------------------------------------------
 
 def build_winner_reply(theme: str, likes: int, points: float, tied_with: int,
-                       total: float, rank: int, players: int) -> str:
-    if tied_with > 1:
-        first = (f"🎉 You tied for the win on “{theme}” with "
+                       total: float, rank: int, players: int,
+                       no_likes_split: bool = False) -> str:
+    if no_likes_split and tied_with > 1:
+        first = (f"🎉 Nobody's \u201c{theme}\u201d pun got a like, so "
+                 f"everyone who entered splits the pot: +{fmt_points(points)} "
+                 f"pts ({tied_with}-way split).")
+    elif no_likes_split:
+        first = (f"🎉 No likes on \u201c{theme}\u201d this round, but you "
+                 f"were the only one to enter, so the pot is yours: "
+                 f"+{fmt_points(points)} pts.")
+    elif tied_with > 1:
+        first = (f"🎉 You tied for the win on \u201c{theme}\u201d with "
                  f"{plural(likes, 'like')}! +{fmt_points(points)} pts "
                  f"({tied_with}-way split).")
     else:
-        first = (f"🎉 Your pun won “{theme}” with "
+        first = (f"🎉 Your pun won \u201c{theme}\u201d with "
                  f"{plural(likes, 'like')}! +{fmt_points(points)} pts.")
     second = (f"Your total: {fmt_points(total)} pts "
               f"(#{rank} of {plural(players, 'player')}).")
@@ -214,3 +251,47 @@ def build_winner_reply(theme: str, likes: int, points: float, tied_with: int,
     if config.REPLY_HASHTAG:
         text = with_tags(text, [config.REPLY_HASHTAG])
     return text[:LIMIT]
+
+
+# ---------------------------------------------------------------------------
+# The reply that closes a round
+# ---------------------------------------------------------------------------
+
+def _closing_results(awards: list, entry_count: int, no_likes_split: bool) -> list:
+    """One-line results for the closing reply, most detailed first."""
+    if not awards:
+        return ["No puns this time." if not entry_count
+                else "No winner this time."]
+    handles = [a["handle"] for a in awards]
+    likes = plural(awards[0]["likes"], "like")
+    pot = fmt_points(config.ROUND_POINTS)
+    if no_likes_split:
+        if len(handles) == 1:
+            return [f"No likes, so @{handles[0]} takes all {pot} pts.",
+                    f"No likes, so the only punster takes {pot} pts."]
+        return ([f"No likes, so {_names(handles, n)} split {pot} pts."
+                 for n in range(len(handles), 0, -1)]
+                + [f"No likes, so all {len(handles)} punsters split {pot} pts."])
+    if len(handles) == 1:
+        return [f"🏆 @{handles[0]} wins with {likes}!", "🏆 We have a winner!"]
+    return ([f"🏆 {_names(handles, n)} tie at {likes}!"
+             for n in range(len(handles), 0, -1)]
+            + [f"🏆 {len(handles)}-way tie at {likes}!"])
+
+
+def build_closing_reply(awards: list, entry_count: int, no_likes_split: bool,
+                        next_theme: str, next_is_mashup: bool = False) -> tuple:
+    """(text, extra_dids) for the reply on a finished round's theme post.
+
+    It tells anyone arriving late that entries are closed, and — with the new
+    round's post quoted underneath — where to play instead.
+    """
+    label = "MASHUP ROUND" if next_is_mashup else "New theme"
+    tail = f"⏰ Time's up! This round is closed.\n{{result}}\n\n" \
+           f"{label}: {next_theme.upper()} 👇"
+    extra_dids = {a["handle"]: a["did"] for a in awards}
+    for result in _closing_results(awards, entry_count, no_likes_split):
+        text = tail.format(result=result)
+        if len(text) <= LIMIT:
+            return text, extra_dids
+    return f"⏰ Time's up! This round is closed.\n\n{label} 👇", extra_dids

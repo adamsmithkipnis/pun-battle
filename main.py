@@ -151,7 +151,7 @@ def _retry(fn, *args, attempts: int = 3):
 # The three steps of a tick
 # ---------------------------------------------------------------------------
 
-def judge(round_row) -> judging.Result:
+def judge(round_row, now: datetime | None = None) -> judging.Result:
     """Count the round's entries and save the result; mark it judged."""
     closes = db.from_iso(round_row["closes_at"])
     bot_did = bluesky.get_did()
@@ -161,7 +161,7 @@ def judge(round_row) -> judging.Result:
         entries, lambda uri: _retry(bluesky.get_likers, uri), bot_did,
         config.MIN_LIKES)
     result = judging.score_round(entries, config.ROUND_POINTS, config.MIN_LIKES)
-    db.save_judgement(round_row["id"], entries, result)
+    db.save_judgement(round_row["id"], entries, result, now)
     logger.info(
         "Judged round %d (%s): %d entries from %d players, %d likes checks, "
         "top %d likes, winners: %s",
@@ -194,6 +194,7 @@ def post_next_theme(now: datetime, previous=None, closes_at: datetime = None,
             "theme": previous["theme"],
             "awards": [dict(a) for a in db.awards_for(previous["id"])],
             "entry_count": previous["entry_count"] or 0,
+            "no_likes_split": bool(previous["no_likes_split"]),
         }
     leaders = db.leaderboard(3) if is_leaderboard_round(now) else None
     text, extra_dids = posts.build_theme_post(
@@ -221,6 +222,35 @@ def hashtags_for(theme: themes.Theme, rng=None) -> list:
                                families=[p.family for p in parts])
 
 
+# How long after judging a round's closing reply may still go out (retries
+# included). Past this it is stale, and it keeps a first deploy from replying
+# to every old round at once.
+_CLOSING_WINDOW = timedelta(hours=3)
+
+
+def send_closing_replies(now: datetime) -> None:
+    """Reply on each finished round's theme post that it's closed, quoting
+    the round that replaced it. Best effort, retried like winner replies."""
+    for row in db.pending_closings(now - _CLOSING_WINDOW):
+        awards = [dict(a) for a in db.awards_for(row["id"])]
+        text, extra_dids = posts.build_closing_reply(
+            awards, row["entry_count"] or 0, bool(row["no_likes_split"]),
+            row["next_theme"],
+            (row["next_key"] or "").startswith(themes.MASHUP_PREFIX))
+        try:
+            uri, cid = bluesky.post_reply(
+                text, row["post_uri"], row["post_cid"],
+                row["post_uri"], row["post_cid"], kind="closed",
+                extra_dids=extra_dids,
+                quote=(row["next_uri"], row["next_cid"]))
+        except Exception:
+            db.count_close_attempt(row["id"])
+            logger.exception("Closing reply on round %d failed", row["id"])
+            continue
+        db.mark_closed(row["id"], uri)
+        _remember(uri, cid, "closed", row["id"])
+
+
 def send_winner_replies() -> None:
     """Reply to every winner not yet told. Best effort: a failure is logged
     and retried next tick, and never undoes a round."""
@@ -229,7 +259,7 @@ def send_winner_replies() -> None:
         rank, players = db.player_rank(row["did"])
         text = posts.build_winner_reply(
             row["theme"], row["likes"], row["points"], row["tied_with"],
-            total, rank, players)
+            total, rank, players, bool(row["no_likes_split"]))
         try:
             uri, cid = bluesky.post_reply(
                 text, row["entry_uri"], row["entry_cid"],
@@ -263,12 +293,14 @@ def run_tick(now: datetime | None = None, force_judge: bool = False) -> None:
             logger.info("Round %d (%s) is open until %s; nothing to do",
                         current["id"], current["theme"],
                         closes.astimezone(TZ).strftime("%H:%M %Z"))
+            send_closing_replies(now)
             send_winner_replies()
             return
-        judge(current)
+        judge(current, now)
         current = db.get_round(current["id"])
 
     post_next_theme(now, previous=current)
+    send_closing_replies(now)
     send_winner_replies()
 
 

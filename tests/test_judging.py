@@ -79,22 +79,57 @@ class TestWinners(unittest.TestCase):
             weak.uri: fans(1), strong.uri: fans(6), rival.uri: fans(5)})
         self.assertEqual(result.winners[0].entry.uri, strong.uri)
 
-    def test_no_winner_below_min_likes(self):
-        es = [entry("did:plc:a", 0), entry("did:plc:b", 0)]
+    def test_no_likes_means_every_entrant_splits(self):
+        es = [entry("did:plc:a", 0), entry("did:plc:b", 0),
+              entry("did:plc:c", 0)]
         result, fetch = run(es, {})
-        self.assertEqual(result.winners, [])
+        self.assertTrue(result.no_likes_split)
+        self.assertEqual({w.did for w in result.winners},
+                         {"did:plc:a", "did:plc:b", "did:plc:c"})
+        self.assertAlmostEqual(sum(w.points for w in result.winners), 60)
         self.assertEqual(fetch.calls, [])      # nothing worth checking
 
-    def test_only_self_likes_is_no_winner(self):
-        a = entry("did:plc:a", 1)
-        result, _ = run([a], {a.uri: {"did:plc:a"}})
-        self.assertEqual(result.winners, [])
-        self.assertEqual(result.top_likes, 0)
+    def test_split_is_per_player_not_per_pun(self):
+        first = entry("did:plc:a", 0, at="2026-09-22T15:05:00.000Z")
+        second = entry("did:plc:a", 0, at="2026-09-22T15:20:00.000Z")
+        other = entry("did:plc:b", 0)
+        result, _ = run([second, first, other], {})
+        self.assertEqual(len(result.winners), 2)
+        self.assertEqual([w.points for w in result.winners], [30, 30])
+        credited = {w.did: w.entry.uri for w in result.winners}
+        self.assertEqual(credited["did:plc:a"], first.uri)   # their first pun
 
-    def test_higher_min_likes(self):
-        a = entry("did:plc:a", 2)
-        result, _ = run([a], {a.uri: fans(2)}, min_likes=3)
+    def test_only_self_likes_counts_as_no_likes(self):
+        a = entry("did:plc:a", 1)
+        b = entry("did:plc:b", 0)
+        result, _ = run([a, b], {a.uri: {"did:plc:a"}})
+        self.assertTrue(result.no_likes_split)
+        self.assertEqual(result.top_likes, 0)
+        self.assertEqual(len(result.winners), 2)
+
+    def test_lone_entrant_with_no_likes_takes_the_pot(self):
+        a = entry("did:plc:a", 0)
+        result, _ = run([a], {})
+        self.assertEqual([(w.did, w.points) for w in result.winners],
+                         [("did:plc:a", 60)])
+
+    def test_one_like_beats_the_split(self):
+        a, b = entry("did:plc:a", 1), entry("did:plc:b", 0)
+        result, _ = run([a, b], {a.uri: fans(1)})
+        self.assertFalse(result.no_likes_split)
+        self.assertEqual([(w.did, w.points) for w in result.winners],
+                         [("did:plc:a", 60)])
+
+    def test_below_a_higher_min_likes_everyone_splits(self):
+        a, b = entry("did:plc:a", 2), entry("did:plc:b", 1)
+        result, _ = run([a, b], {a.uri: fans(2), b.uri: fans(1)}, min_likes=3)
+        self.assertTrue(result.no_likes_split)
+        self.assertEqual(len(result.winners), 2)
+
+    def test_no_entries_no_winners(self):
+        result, _ = run([], {})
         self.assertEqual(result.winners, [])
+        self.assertFalse(result.no_likes_split)
 
     def test_fractional_points_display(self):
         self.assertEqual(judging.fmt_points(60), "60")

@@ -176,19 +176,27 @@ def post_text(text: str, kind: str = "theme",
 
 def post_reply(text: str, parent_uri: str, parent_cid: str,
                root_uri: str = "", root_cid: str = "",
-               kind: str = "winner", extra_dids: dict | None = None) -> tuple:
-    """Reply to a player's post — this is what notifies them."""
+               kind: str = "winner", extra_dids: dict | None = None,
+               quote: tuple | None = None) -> tuple:
+    """Reply to a post; return (uri, cid). Replying to a player's post is
+    what notifies them. `quote` = (uri, cid) embeds another post as a card —
+    the closing reply uses it to point at the round that replaced this one."""
     text = clamp(text)
     if _dry():
-        return _write_dry(text, kind, extra_dids, reply_to=parent_uri)
+        note = parent_uri + (f", quoting {quote[0]}" if quote else "")
+        return _write_dry(text, kind, extra_dids, reply_to=note)
 
     from atproto import models
     parent = models.ComAtprotoRepoStrongRef.Main(uri=parent_uri, cid=parent_cid)
     root = (models.ComAtprotoRepoStrongRef.Main(uri=root_uri, cid=root_cid)
             if root_uri and root_cid else parent)
+    embed = (models.AppBskyEmbedRecord.Main(
+        record=models.ComAtprotoRepoStrongRef.Main(uri=quote[0], cid=quote[1]))
+        if quote else None)
     response = _client.send_post(
         text=text, facets=build_facets(text, extra_dids),
         reply_to=models.AppBskyFeedPost.ReplyRef(parent=parent, root=root),
+        embed=embed,
     )
     return response.uri, response.cid
 

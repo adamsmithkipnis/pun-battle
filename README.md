@@ -10,6 +10,10 @@ An hourly pun contest on Bluesky: [@punbattle.bsky.social](https://bsky.app/prof
   you can post as many as you like, and your best one counts.
 - **The pun with the most likes when the hour ends wins 60 points.** Your own
   like doesn't count. A tie splits the 60 evenly.
+- **No likes at all?** Then everyone who entered splits the 60, so posting in
+  a quiet round is never wasted.
+- When a round ends, the bot replies on its post that it's closed, quoting
+  the new round so late arrivals know where to go.
 - The next hour's theme post names the winner, and the bot replies to the
   winning pun with the player's new total and rank.
 - Once a day (noon) the post also shows the all-time top three.

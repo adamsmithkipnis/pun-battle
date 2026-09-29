@@ -18,7 +18,8 @@ class TickTestCase(DbTestCase):
         self.entries = {}          # theme post uri -> [Entry]
         self.likers = {}           # entry uri -> set of DIDs
         self.posted = []           # (kind, text)
-        self.replies = []          # (text, parent_uri, root_uri)
+        self.replies = []          # winner replies: (text, parent_uri, root_uri)
+        self.closings = []         # closing replies: (text, parent_uri, quoted_uri)
         real_post, real_reply = bluesky.post_text, bluesky.post_reply
 
         def post_text(text, kind="theme", extra_dids=None):
@@ -26,10 +27,13 @@ class TickTestCase(DbTestCase):
             return real_post(text, kind, extra_dids)
 
         def post_reply(text, parent_uri, parent_cid, root_uri="", root_cid="",
-                       kind="winner", extra_dids=None):
-            self.replies.append((text, parent_uri, root_uri))
+                       kind="winner", extra_dids=None, quote=None):
+            if kind == "closed":
+                self.closings.append((text, parent_uri, quote[0] if quote else None))
+            else:
+                self.replies.append((text, parent_uri, root_uri))
             return real_reply(text, parent_uri, parent_cid, root_uri, root_cid,
-                              kind, extra_dids)
+                              kind, extra_dids, quote)
 
         patches = [
             mock.patch.object(bluesky, "post_text", side_effect=post_text),
@@ -165,6 +169,70 @@ class TestTick(TickTestCase):
         main.run_tick(T0)
         self.assertEqual(db.current_round()["theme"], "Lighthouses")
         self.assertEqual(db.queued_themes(), [])
+
+    def test_closing_reply_on_the_finished_round(self):
+        main.run_tick(T0)
+        first = db.current_round()
+        self.add_entry(first, "did:plc:alice", 4)
+        main.run_tick(T0 + timedelta(minutes=30))
+        self.assertEqual(self.closings, [])          # still open: nothing yet
+        main.run_tick(T0 + HOUR)
+        second = db.current_round()
+        self.assertEqual(len(self.closings), 1)
+        text, parent, quoted = self.closings[0]
+        self.assertEqual(parent, first["post_uri"])
+        self.assertEqual(quoted, second["post_uri"])
+        self.assertIn("Time's up! This round is closed.", text)
+        self.assertIn("@alice.bsky.social wins with 4 likes", text)
+        self.assertIn(second["theme"].upper(), text)
+        main.run_tick(T0 + HOUR + timedelta(minutes=20))
+        self.assertEqual(len(self.closings), 1)      # sent once
+
+    def test_closing_reply_even_with_no_puns(self):
+        main.run_tick(T0)
+        main.run_tick(T0 + HOUR)
+        self.assertEqual(len(self.closings), 1)
+        self.assertIn("No puns this time.", self.closings[0][0])
+
+    def test_failed_closing_reply_is_retried(self):
+        main.run_tick(T0)
+        with mock.patch.object(bluesky, "post_reply",
+                               side_effect=RuntimeError("network down")):
+            main.run_tick(T0 + HOUR)
+        self.assertEqual(self.closings, [])
+        main.run_tick(T0 + HOUR + timedelta(minutes=20))
+        self.assertEqual(len(self.closings), 1)
+
+    def test_old_rounds_never_get_a_closing_reply(self):
+        # Two rounds from before this feature shipped: the first was judged
+        # three days ago; the second is still open, three days overdue.
+        main.run_tick(T0 - timedelta(days=3))
+        old = db.current_round()
+        main.run_tick(T0 - timedelta(days=3) + HOUR)
+        overdue = db.current_round()
+        with db._connect() as conn:            # as if closing never existed
+            conn.execute("UPDATE rounds SET closed_uri = NULL")
+        self.closings.clear()
+
+        main.run_tick(T0)                      # the first tick after deploy
+        parents = [parent for _, parent, _ in self.closings]
+        self.assertEqual(parents, [overdue["post_uri"]])
+        self.assertNotIn(old["post_uri"], parents)
+
+    def test_no_likes_round_pays_every_entrant(self):
+        main.run_tick(T0)
+        first = db.current_round()
+        self.add_entry(first, "did:plc:alice", 0)
+        self.add_entry(first, "did:plc:bob", 0)
+        main.run_tick(T0 + HOUR)
+        self.assertEqual(db.player_total("did:plc:alice"), 30)
+        self.assertEqual(db.player_total("did:plc:bob"), 30)
+        self.assertIn("no likes, so @alice.bsky.social & @bob.bsky.social "
+                      "split 60 pts (30 each)", self.posted[-1][1])
+        self.assertEqual(len(self.replies), 2)
+        self.assertIn("everyone who entered splits the pot: +30 pts",
+                      self.replies[0][0])
+        self.assertIn("split 60 pts", self.closings[0][0])
 
     def test_queued_mashup(self):
         db.queue_theme("Coffee + Lighthouses")

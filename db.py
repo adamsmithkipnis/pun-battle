@@ -42,7 +42,10 @@ CREATE TABLE IF NOT EXISTS rounds (
     top_likes INTEGER,
     entry_count INTEGER,
     player_count INTEGER,
-    components TEXT               -- topic keys used, "|"-separated
+    components TEXT,              -- topic keys used, "|"-separated
+    no_likes_split INTEGER DEFAULT 0,  -- nobody got a like; entrants split
+    closed_uri TEXT,              -- the "round closed" reply, once sent
+    close_attempts INTEGER DEFAULT 0
 );
 
 CREATE INDEX IF NOT EXISTS idx_rounds_status ON rounds (status);
@@ -107,7 +110,10 @@ CREATE TABLE IF NOT EXISTS posts (
 # an upgrade never loses a round in progress. Anything added to _SCHEMA's
 # tables later must also be listed here — tests/test_migration.py checks.
 _ADDED_COLUMNS = {
-    "rounds": [("components", "TEXT")],
+    "rounds": [("components", "TEXT"),
+               ("no_likes_split", "INTEGER DEFAULT 0"),
+               ("closed_uri", "TEXT"),
+               ("close_attempts", "INTEGER DEFAULT 0")],
     "entries": [],
     "awards": [],
 }
@@ -215,7 +221,8 @@ def open_round(theme: str, theme_key: str, category: str, category_name: str,
         return cur.lastrowid
 
 
-def save_judgement(round_id: int, entries: list, result) -> None:
+def save_judgement(round_id: int, entries: list, result,
+                   judged_at: datetime | None = None) -> None:
     """Store the entry snapshot and the awards, and mark the round judged."""
     tied = len(result.winners)
     with _connect() as conn:
@@ -237,9 +244,11 @@ def save_judgement(round_id: int, entries: list, result) -> None:
                  award.points, tied))
         conn.execute(
             """UPDATE rounds SET status = ?, judged_at = ?, top_likes = ?,
-                   entry_count = ?, player_count = ? WHERE id = ?""",
-            (JUDGED, now_iso(), result.top_likes, result.entry_count,
-             result.player_count, round_id))
+                   entry_count = ?, player_count = ?, no_likes_split = ?
+               WHERE id = ?""",
+            (JUDGED, to_iso(judged_at) if judged_at else now_iso(),
+             result.top_likes, result.entry_count,
+             result.player_count, int(result.no_likes_split), round_id))
 
 
 def awards_for(round_id: int) -> list:
@@ -283,11 +292,45 @@ def pending_replies() -> list:
     with _connect() as conn:
         return conn.execute(
             """SELECT a.*, r.theme, r.post_uri AS root_uri,
-                      r.post_cid AS root_cid
+                      r.post_cid AS root_cid, r.no_likes_split
                FROM awards a JOIN rounds r ON r.id = a.round_id
                WHERE a.replied_uri IS NULL AND r.status = ?
                  AND a.reply_attempts < ?
                ORDER BY a.id""", (ANNOUNCED, MAX_REPLY_ATTEMPTS)).fetchall()
+
+
+def pending_closings(since: datetime) -> list:
+    """Announced rounds whose theme post hasn't been told it's closed, each
+    with the round that replaced it (whose post the reply quotes).
+
+    Only rounds judged since `since`: a closing reply is news for an hour or
+    two, and without the cutoff the first deploy of this feature would have
+    replied to every round in the database's history at once.
+    """
+    with _connect() as conn:
+        return conn.execute(
+            """SELECT r.*, n.theme AS next_theme, n.theme_key AS next_key,
+                      n.post_uri AS next_uri, n.post_cid AS next_cid
+               FROM rounds r
+               JOIN rounds n ON n.id = (SELECT MIN(id) FROM rounds
+                                        WHERE id > r.id)
+               WHERE r.status = ? AND r.closed_uri IS NULL
+                 AND r.close_attempts < ? AND r.post_uri IS NOT NULL
+                 AND r.judged_at >= ?
+               ORDER BY r.id""",
+            (ANNOUNCED, MAX_REPLY_ATTEMPTS, to_iso(since))).fetchall()
+
+
+def mark_closed(round_id: int, uri: str) -> None:
+    with _connect() as conn:
+        conn.execute("UPDATE rounds SET closed_uri = ? WHERE id = ?",
+                     (uri, round_id))
+
+
+def count_close_attempt(round_id: int) -> None:
+    with _connect() as conn:
+        conn.execute("UPDATE rounds SET close_attempts = close_attempts + 1 "
+                     "WHERE id = ?", (round_id,))
 
 
 def mark_replied(award_id: int, uri: str) -> None:

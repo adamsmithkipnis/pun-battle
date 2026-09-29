@@ -119,6 +119,12 @@ class TestHashtags(unittest.TestCase):
                     "#NatureSky", "#wildlife", "#outdoors"}
         self.assertEqual(len(families & set(tags)), 2)
 
+    def test_dadjokes_is_boosted(self):
+        hits = sum("#dadjokes" in posts.pick_hashtags(
+            random.Random(seed), topics=["Owls"], families=["nature"])
+            for seed in range(400))
+        self.assertGreater(hits / 400, 0.7)
+
     def test_tags_rotate(self):
         combos = {tuple(posts.pick_hashtags(random.Random(seed), topics=["Owls"],
                                             families=["nature"]))

@@ -62,13 +62,18 @@ _ZONE = {"America/Los_Angeles": "PT", "America/Denver": "MT",
     config.TIMEZONE, config.TIMEZONE)
 
 
+_NO_LIKES_RULE = (
+    "• No likes at all? Everyone who entered splits the points"
+    if config.MIN_LIKES <= 1 else
+    f"• Nobody reaches {config.MIN_LIKES} likes? Everyone who entered splits "
+    "the points")
+
 FINE_PRINT = (
     "The fine print:\n"
     "• Only direct replies to the theme post count\n"
     "• Replies after the deadline don't\n"
     "• Your own like doesn't count, and only your best pun is scored\n"
-    f"• A pun needs at least {config.MIN_LIKES} "
-    f"like{'s' if config.MIN_LIKES != 1 else ''} to win\n"
+    f"{_NO_LIKES_RULE}\n"
     f"• All-time top 3 shown daily at {_hour(config.LEADERBOARD_HOUR)} "
     f"{_ZONE}\n"
     "Puns only — keep it friendly. 🙂"

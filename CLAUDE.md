@@ -84,6 +84,13 @@ mashup can be banned in `themes/_blocked_pairs.txt` ("Topic A + Topic B").
 - **Likes exclude the author's own and the bot's.** Bluesky's `likeCount`
   includes both; `judging.resolve_likes` fetches exact likers for the entries
   that could still win.
+- **A round with puns always pays out.** If nobody reaches `MIN_LIKES`, every
+  player who entered splits the points (`Result.no_likes_split`), credited
+  to their first pun. Only a round with no entries pays nobody.
+- **Closing replies** go on each finished round's theme post, quoting the
+  new round. They're limited to rounds judged in the last 3 hours
+  (`_CLOSING_WINDOW`), which is what stops a deploy from replying to every
+  old round in the database at once.
 - Post text: build, fit to 300, *then* compute facets — the offsets are
   UTF-8 bytes, not characters.
 - `config.py` must be imported before anything reads a setting; it calls

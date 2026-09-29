@@ -13,8 +13,9 @@ The rules, as announced:
   five chances to tie with yourself.
 * Most likes wins ROUND_POINTS. A tie splits them evenly between the tied
   players.
-* Below MIN_LIKES there is no winner — otherwise a round nobody liked would
-  pay every entrant as an n-way tie at zero.
+* If nobody's pun reaches MIN_LIKES (one like, by default), the round still
+  pays out: everyone who entered splits the points. Showing up to a quiet
+  round is rewarded instead of wasted.
 """
 
 from __future__ import annotations
@@ -50,6 +51,7 @@ class Award:
 class Result:
     winners: list = field(default_factory=list)   # [Award]
     top_likes: int = 0
+    no_likes_split: bool = False   # nobody reached MIN_LIKES; entrants split
     entry_count: int = 0
     player_count: int = 0
 
@@ -153,16 +155,30 @@ def score_round(entries: list, points: float, min_likes: int = 1) -> Result:
                 or (entry.likes == current.likes and _earlier(entry, current))):
             best_by_player[entry.did] = entry
 
-    if not best_by_player:
-        return result
-    top = max(e.likes for e in best_by_player.values())
+    top = max((e.likes for e in best_by_player.values()), default=0)
     result.top_likes = top
+    by_time = lambda e: entry_time(e) or datetime.max.replace(tzinfo=timezone.utc)
+
     if top < min_likes:
+        # Nobody reached the bar, so every player splits the points. Entries
+        # left unresolved by resolve_likes are below the bar by construction.
+        # Each player is credited with their first pun, which is the one the
+        # congratulations reply goes to.
+        first_by_player = {}
+        for entry in sorted(entries, key=by_time):
+            first_by_player.setdefault(entry.did, entry)
+        if not first_by_player:
+            return result
+        result.no_likes_split = True
+        share = points / len(first_by_player)
+        result.winners = [
+            Award(e.did, e.handle, e, best_by_player[e.did].likes
+                  if e.did in best_by_player else 0, share)
+            for e in first_by_player.values()]
         return result
 
     tied = [e for e in best_by_player.values() if e.likes == top]
-    tied.sort(key=lambda e: (entry_time(e) or datetime.max.replace(
-        tzinfo=timezone.utc)))
+    tied.sort(key=by_time)
     share = points / len(tied)
     result.winners = [Award(e.did, e.handle, e, top, share) for e in tied]
     return result
