@@ -175,6 +175,8 @@ class TestTick(TickTestCase):
         self.assertEqual(current["components"], "coffee|lighthouse")
         self.assertIn("⚔️ MASHUP ROUND: COFFEE + LIGHTHOUSES", self.posted[-1][1])
         self.assertIn("One pun, both topics", self.posted[-1][1])
+        self.assertIn("#Coffee", self.posted[-1][1])
+        self.assertIn("#Lighthouses", self.posted[-1][1])
 
     def test_skip_keeps_the_boundary_and_scores_nothing(self):
         main.run_tick(T0)

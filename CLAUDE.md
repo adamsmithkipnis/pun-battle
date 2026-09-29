@@ -89,6 +89,11 @@ mashup can be banned in `themes/_blocked_pairs.txt` ("Topic A + Topic B").
 - `config.py` must be imported before anything reads a setting; it calls
   `load_dotenv()` at import time on purpose.
 - Track DIDs, not handles, for scoring. Handles change.
+- **Hashtag pools live in `config.py`, not `.env`.** Each theme post gets
+  #PunBattle, one pun tag, the topic's own tag (#FilmNoir), a family tag and
+  rotating wordplay tags, up to `MAX_HASHTAGS`. A `HASHTAG_POOL` line in the
+  Mini's `.env` once pinned every post to the same two tags; the bot now
+  ignores those keys and logs a warning if they're present.
 
 ## Operating the bot
 

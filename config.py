@@ -89,16 +89,48 @@ THEMES_DIR = os.environ.get(
 POST_MODE = os.environ.get("POST_MODE", "live")
 DRY_DIR = os.environ.get("DRY_DIR", "dry-run")
 
-# Hashtags. One is always present so the game is findable under its own name;
-# the rest are sampled per post, and all are appended only while they still
-# fit, so reach never pushes the theme or the result out of a post.
+# Hashtags — how people who don't follow the account find a round. Each theme
+# post carries up to MAX_HASHTAGS, in priority order:
+#
+#   1. HASHTAG_ALWAYS, so the game is findable under its own name
+#   2. one pun tag (HASHTAG_CORE), so every round reaches people browsing puns
+#   3. the topic itself (#FilmNoir, #Cheetahs; both halves of a mashup), which
+#      reaches people who follow that subject rather than puns
+#   4. one tag for the topic's family (food -> #foodie, nature -> #wildlife…)
+#   5. general wordplay/game tags, sampled fresh each post
+#
+# Tags are appended only while they still fit under 300 characters, so reach
+# never pushes the theme or the result out of a post.
+#
+# The pools live here, in code, not in .env. A HASHTAG_POOL line left in the
+# Mini's .env once pinned every post to "#PunBattle #puns"; versioned lists
+# can't drift like that. main.py warns if the old keys are still set.
 HASHTAG_ALWAYS = os.environ.get("HASHTAG_ALWAYS", "#PunBattle")
-HASHTAG_COUNT = int(os.environ.get("HASHTAG_COUNT", "2"))
-HASHTAG_POOL = os.environ.get(
-    "HASHTAG_POOL",
-    "#puns #pun #wordplay #punny #dadjokes #jokes #humor #funny "
-    "#wordgames #bskygames #botsky #playtogether",
+MAX_HASHTAGS = int(os.environ.get("MAX_HASHTAGS", "6"))
+
+HASHTAG_CORE = ["#puns", "#wordplay", "#punny"]
+
+HASHTAG_POOL = (
+    "#puns #pun #wordplay #punny #dadjokes #jokes #humor #funny #comedy "
+    "#wordgames #WritingPrompt #bskygames #gamesky #playtogether"
 ).split()
+
+FAMILY_HASHTAGS = {
+    "food": ["#foodie", "#FoodSky", "#food"],
+    "home": ["#home", "#DIY", "#cozy"],
+    "nature": ["#nature", "#NatureSky", "#wildlife", "#outdoors"],
+    "science": ["#science", "#SciSky", "#STEM"],
+    "arts": ["#arts", "#culture", "#ArtSky"],
+    "body": ["#health", "#wellness"],
+    "work": ["#WorkLife", "#careers"],
+    "play": ["#games", "#sports", "#fun"],
+    "travel": ["#travel", "#TravelSky", "#geography"],
+    "history-fantasy": ["#history", "#HistorySky", "#fantasy"],
+}
+
+# Keys from before the pools moved into code; still set means a stale .env.
+LEGACY_HASHTAG_KEYS = [k for k in ("HASHTAG_POOL", "HASHTAG_COUNT")
+                       if k in os.environ]
 
 # The one tag on replies to individual winners.
 REPLY_HASHTAG = os.environ.get("REPLY_HASHTAG", "#PunBattle")

@@ -198,7 +198,7 @@ def post_next_theme(now: datetime, previous=None, closes_at: datetime = None,
     leaders = db.leaderboard(3) if is_leaderboard_round(now) else None
     text, extra_dids = posts.build_theme_post(
         theme.text, closes.astimezone(TZ), announce, leaders,
-        posts.pick_hashtags(), mashup=themes.is_mashup(theme))
+        hashtags_for(theme), mashup=themes.is_mashup(theme))
 
     uri, cid = bluesky.post_text(text, "theme", extra_dids)
 
@@ -213,6 +213,12 @@ def post_next_theme(now: datetime, previous=None, closes_at: datetime = None,
     logger.info("Round %d open: %s [%s], closes %s", round_id, theme.text,
                 theme.category, closes.strftime("%H:%M %Z"))
     return round_id
+
+
+def hashtags_for(theme: themes.Theme, rng=None) -> list:
+    parts = theme.components or (theme,)
+    return posts.pick_hashtags(rng, topics=[p.text for p in parts],
+                               families=[p.family for p in parts])
 
 
 def send_winner_replies() -> None:
@@ -393,6 +399,10 @@ def run_scheduler() -> None:
     if days < 30:
         logger.warning("Only %.0f days of never-used themes left — add more "
                        "to themes/*.txt", days)
+    if config.LEGACY_HASHTAG_KEYS:
+        logger.warning("Ignoring %s in .env: hashtag pools now live in "
+                       "config.py. Delete those lines.",
+                       ", ".join(config.LEGACY_HASHTAG_KEYS))
     now = datetime.now(timezone.utc)
     logger.info("Scheduler started; a round every %d minutes, next at %s",
                 config.ROUND_MINUTES, next_boundary(now).strftime("%H:%M %Z"))

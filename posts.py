@@ -9,6 +9,7 @@ The order matters: build, fit to 300, *then* compute facets (UTF-8 bytes).
 from __future__ import annotations
 
 import random
+import re
 from datetime import datetime
 
 import config
@@ -26,22 +27,61 @@ def fmt_deadline(closes_local: datetime) -> str:
     return closes_local.strftime("%-I:%M %p %Z").strip()
 
 
-def pick_hashtags(rng=None) -> list:
+_TAG_WORD = re.compile(r"[A-Za-z0-9]+")
+
+
+def topic_hashtag(topic: str) -> str:
+    """"Film Noir" -> "#FilmNoir", "The Post Office" -> "#PostOffice".
+
+    Empty when the result would be useless: too short to mean anything, too
+    long to be something anyone follows, or no letters at all.
+    """
+    words = _TAG_WORD.findall(topic)
+    if len(words) > 1 and words[0].lower() == "the":
+        words = words[1:]
+    tag = "".join(w[:1].upper() + w[1:] for w in words)
+    if not 3 <= len(tag) <= 24 or not re.search(r"[A-Za-z]", tag):
+        return ""
+    return "#" + tag
+
+
+def pick_hashtags(rng=None, topics=(), families=()) -> list:
+    """Hashtags for a theme post, highest priority first (see config).
+
+    `topics` are the topic names (one, or two for a mashup) and `families`
+    their families. No tag appears twice, compared case-insensitively.
+    """
     rng = rng or random
-    pool = [t for t in config.HASHTAG_POOL
-            if t.lower() != config.HASHTAG_ALWAYS.lower()]
-    count = max(0, min(config.HASHTAG_COUNT, len(pool)))
-    tags = [config.HASHTAG_ALWAYS] if config.HASHTAG_ALWAYS else []
-    return tags + rng.sample(pool, count)
+    chosen, seen = [], set()
+
+    def add(tag):
+        if tag and tag.lower() not in seen and len(chosen) < config.MAX_HASHTAGS:
+            chosen.append(tag)
+            seen.add(tag.lower())
+
+    add(config.HASHTAG_ALWAYS)
+    if config.HASHTAG_CORE:
+        add(rng.choice(config.HASHTAG_CORE))
+    for topic in topics:
+        add(topic_hashtag(topic))
+    for family in dict.fromkeys(families):
+        options = config.FAMILY_HASHTAGS.get(family, [])
+        if options:
+            add(rng.choice(options))
+    pool = [t for t in config.HASHTAG_POOL if t.lower() not in seen]
+    for tag in rng.sample(pool, len(pool)):
+        add(tag)
+    return chosen
 
 
 def with_tags(text: str, tags: list) -> str:
-    """Append hashtags one at a time, only while the post still fits."""
+    """Append hashtags in priority order, skipping any that would push the
+    post past the limit (a shorter one further down may still fit)."""
     out, sep = text, "\n\n"
     for tag in tags:
         candidate = f"{out}{sep}{tag}"
         if len(candidate) > LIMIT:
-            break
+            continue
         out, sep = candidate, " "
     return out
 

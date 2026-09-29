@@ -90,6 +90,48 @@ class TestThemePost(unittest.TestCase):
         self.assertLessEqual(len(text), 300)
 
 
+class TestHashtags(unittest.TestCase):
+    def test_topic_hashtag(self):
+        cases = {"Film Noir": "#FilmNoir", "The Post Office": "#PostOffice",
+                 "U.S. States": "#USStates", "Cheetahs": "#Cheetahs",
+                 "Rock-and-Roll": "#RockAndRoll", "Pi": "",
+                 "A Very Long Topic Name For A Tag": ""}
+        for topic, tag in cases.items():
+            with self.subTest(topic=topic):
+                self.assertEqual(posts.topic_hashtag(topic), tag)
+
+    def test_priority_order_and_limits(self):
+        for seed in range(50):
+            tags = posts.pick_hashtags(random.Random(seed), topics=["Film Noir"],
+                                       families=["arts"])
+            self.assertEqual(tags[0], "#PunBattle")
+            self.assertIn(tags[1], ["#puns", "#wordplay", "#punny"])
+            self.assertEqual(tags[2], "#FilmNoir")
+            self.assertIn(tags[3], ["#arts", "#culture", "#ArtSky"])
+            self.assertEqual(len(tags), 6)
+            self.assertEqual(len({t.lower() for t in tags}), len(tags))
+
+    def test_mashup_gets_both_topics_and_families(self):
+        tags = posts.pick_hashtags(random.Random(1), topics=["Cannons", "Winter"],
+                                   families=["history-fantasy", "nature"])
+        self.assertEqual(tags[2:4], ["#Cannons", "#Winter"])
+        families = {"#history", "#HistorySky", "#fantasy", "#nature",
+                    "#NatureSky", "#wildlife", "#outdoors"}
+        self.assertEqual(len(families & set(tags)), 2)
+
+    def test_tags_rotate(self):
+        combos = {tuple(posts.pick_hashtags(random.Random(seed), topics=["Owls"],
+                                            families=["nature"]))
+                  for seed in range(40)}
+        self.assertGreater(len(combos), 20)
+
+    def test_a_tag_too_long_to_fit_is_skipped_not_the_rest(self):
+        text = "x" * 280
+        out = posts.with_tags(text, ["#" + "y" * 30, "#short"])
+        self.assertTrue(out.endswith("#short"))
+        self.assertLessEqual(len(out), 300)
+
+
 class TestWinnerReply(unittest.TestCase):
     def test_solo(self):
         text = posts.build_winner_reply("Cheese", 14, 60, 1, 180, 2, 37)
